@@ -41,11 +41,11 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🍇PDF管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#pdf%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🍎OCR文字识别工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7)
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
-- [🏍实用抢票软件]()
-- [☀Edge实用插件]()
-- [🌝Chrome实用插件]()
-- [⭐Visual Studio实用插件]()
-- [🌟Visual Studio Code实用插件]()
+- [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
+- [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
+- [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
+- [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
+- [🌟Visual Studio Code实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio-code%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 
 ## 💥AI辅助编程工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
@@ -465,23 +465,47 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | JavaScript Snippet Pack（免费） | 一个基于Atom片段的代码段包，可以让你在处理JavaScript时更加高效。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack |
 | Open in Visual Studio Code（免费） | 这个扩展适用于你在Visual Studio中打开了一个项目，但又想快速在Visual Studio Code中打开它的情况。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌟Visual Studio Code实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Chinese (Simplified) Language Pack for Visual Studio Code | 此中文（简体）语言包为 VS Code 提供本地化界面。 | https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans |
+| C# Dev Kit | C# Dev Kit for Visual Studio Code（C# Dev Kit）是一个扩展工具，它为您的C#开发提供了一系列强大的功能和实用工具，以帮助您更高效地编写、调试和维护代码。它能够在Windows、macOS、Linux甚至Codespace等各种开发环境中使用，提升您的C#开发体验。 | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit |
+| C# for Visual Studio Code | 一个 Visual Studio Code扩展，为 C# 提供丰富的语言支持，并与 C# 开发工具包一起提供。此扩展由语言服务器协议 （LSP） 服务器提供支持，与 Roslyn 和 Razor 等开源组件集成，以提供丰富的类型信息和更快、更可靠的 C# 体验。 | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp |
+| vscode-icons | vscode-icons不仅能够给文件夹、文件添加上舒适的图标，而且可以自动检测项目，根据项目不同功能配上不同图标，例如，git、Markdown、配置项、工具类等。 | https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons |
+| Tabnine | Tabnine 是一款 AI 代码补全插件，适用于 JavaScript、Python、Java、TypeScript 和其他所有编程语言。它通过自动补全代码来提高开发人员的工作效率。TabNine开箱即用。响应速度快：通常会在不到10毫秒的时间内生成建议列表。 | https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode |
+| GitHub Copilot | 是一个提供 AI 辅助编程的工具，它在您编码时会提供类似自动补全的建议。您可以通过开始编写您想要使用的代码，或者编写自然语言评论描述您希望代码完成的功能，来获取 GitHub Copilot 的建议。 | https://marketplace.visualstudio.com/items?itemName=GitHub.copilot |
+| CodeGeeX | CodeGeeX 是一款功能强大的基于 LLM 的智能编程助手。它提供代码生成/完成、注释生成、代码翻译和基于人工智能的聊天等功能，帮助开发人员显著提高工作效率。CodeGeeX 支持多种编程语言。 | https://marketplace.visualstudio.com/items?itemName=aminer.codegeex |
+| Docker for Visual Studio Code | 通过 Docker 扩展，可以轻松地从 Visual Studio Code 构建、管理和部署容器化应用程序。它还能在容器内一键调试 Node.js、Python 和 .NET。 | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker |
+| Auto Close Tag | 自动添加HTML / XML关闭标记，与Visual Studio IDE或Sublime Text相同（对前端开发的小伙伴非常有用）。 | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag |
+| Better Comments | 更好的注释扩展将帮助您在代码中创建更人性化的注释。使用此扩展，您将能够将注释分类为：警报、查询、待办事项、强调、注释掉的代码也可以设置样式，以使代码不应该存在、您可以在设置中指定任何其他注释样式。 | hhttps://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments |
+| ESLint | ESLint 是一个代码规范和错误检查工具。 | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint |
+| GitLens | GitLens内置到Visual Studio代码Git的能力。它可以帮助您通过Git责任注释和代码镜头一目了然地看到代码作者的身份，无缝地导航和浏览 Git存储库，通过功能强大的比较命令获得有价值的见解，等等。 | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
+| Git History | Git历史记录，搜索和更多内容（包括git log）。 | https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory |
+| Drawio Preview | 在Vs Code中预览绘图图文件。 | https://marketplace.visualstudio.com/items?itemName=purocean.drawio-preview |
+| Path Intellisense | 在编辑器中输入对应文件的路径，会自动补全（在Import、Require导入/引入模块时非常便捷好用）。 | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense |
+| Vetur | Vue多功能集成插件，包括：语法高亮，智能提示，emmet，错误提示，格式化，自动补全，debugger。vscode官方钦定Vue插件，Vue开发者必备。 |  https://marketplace.visualstudio.com/items?itemName=octref.vetur |
+| vscode-element-helper | VSCode-Element-Helper是Element-UI的VS Code扩展，Element-UI是一个很棒的库。越来越多的项目使用它。因此，为了帮助开发人员通过Element-UI编写更高效的代码。 | https://marketplace.visualstudio.com/items?itemName=ElemeFE.vscode-element-helper |
+| Vue VSCode Snippets | Vue 语法片段扩展。 | https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets |
+| Angular Language Service | Visual Studio Code 的 Angular Language Service 扩展提供了与 Angular 项目相关的语言支持和功能，以提高开发人员在 VS Code 中的 Angular 开发体验。 | https://marketplace.visualstudio.com/items?itemName=Angular.ng-template |
+| Code Runner | 运行多种语言的代码段或代码文件C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA,和自定义命令。 | https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner |
+| Icon Fonts | icon fonts是一款提供VS Code图标、字体缩写的的插件。虽然看上去很不起眼，但是对于前端开发，这款工具可以说能够极大的提高开发效率。通过一些缩写，能够快速补全icon fonts相关的代码片段，这样能够减少80%以上的手动输入内容。icon fonts支持html、css、less、sass、scss、stylus、jsx、blade、vue。 | https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts |
+| Gitlink | gitlink是一款辅助和增强VS Code GitHub使用的插件。 | https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink |
+| GraphQL | GraphQL扩展包括自动完成功能它会在您键入时建议在查询中使用的字段和参数，从而更容易编写有效的 GraphQL 代码。此功能可为您节省时间并降低出现语法错误的可能性。它安装了一个内置的 linter，可以检查您的代码是否有错误并提出修复建议。使用此扩展可防止 GraphQL 错误并提高效率。 | https://marketplace.visualstudio.com/items?itemName=mquandalle.graphql |
 |  |  |  |
 |  |  |  |
 |  |  |  |
