@@ -420,10 +420,15 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🌝Chrome实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Octotree | 这款浏览器扩展专为增强GitHub的代码审查和探索而设计，对于喜欢逛GitHub查看开源代码的同学来说非常的方便且实用。 | https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg |
+| 沉浸式翻译 | 非常实用的一款免费的（原文/译文）双语对照网页翻译插件，同时支持PDF翻译（保留原文档排版），视频双语字幕翻译（Youtube, Netflix等），EPUB电子书翻译等；支持调用人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等 ）对以上内容进行更准确的翻译。 | https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg |
+| 字幕精灵  | 字幕精灵可实时识别语音，自动翻译并展示双语字幕，可导出字幕和音频，支持在线编辑字幕文本。 借助先进的语音识别和AI翻译技术，无论是听演讲、看课程，还是追剧、听歌，字幕精灵都能快速识别、翻译，并自动生成字幕，让您无惧外语，不再不知所云。 | https://microsoftedge.microsoft.com/addons/detail/%E5%AD%97%E5%B9%95%E7%B2%BE%E7%81%B5-%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E3%80%81ai%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91/hodednmbnoemidigafhfpbfcafhjlkki |
+| AdGuard 广告拦截器 | AdGuard 广告拦截器可有效的拦截所有网页上的所有类型的广告，甚至是在 Facebook，Youtube 以及其它网站的广告！ | https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh |
+| 封锁网站 | 永久或按计划阻止有害或恶意网站。节省您的时间并防止访问不需要的Web资源。 | https://microsoftedge.microsoft.com/addons/detail/%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99/hmpjnnapbocaoahekckcphgliangbndk |
+| 超级复制SuperCopy | SuperCopy 超级复制，一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，启用复制，启用右键，启用选择，启用粘贴。 | https://microsoftedge.microsoft.com/addons/detail/%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6supercopy/flpbdpehhdkifokenkkljcnfkbnekofg |
+| 捕捉网页截图 | 最佳扩展，全面截取网页屏幕截图，保存为PDF，PNG或JPEG。 | https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm |
+| 篡改猴（Tampermonkey） | 篡改猴 (Tampermonkey) 是拥有 超过 1000 万用户 的最流行的浏览器扩展之一。它允许用户自定义并增强您最喜爱的网页的功能。用户脚本是小型 JavaScript 程序，可用于向网页添加新功能或修改现有功能。使用 篡改猴，您可以轻松在任何网站上创建、管理和运行这些用户脚本。 | https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd |
+| CSDN·浏览器助手 | CSDN开发助手插件由CSDN官方开发，集成一键呼出搜索、万能快捷工具、个性化新标签页和官方免广告四大功能。帮助您的浏览器提升10倍效率！ | https://microsoftedge.microsoft.com/addons/detail/csdn%C2%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/igbflnhjjpcakhcjakbnbkncjofahlil |
 |  |  |  |
 |  |  |  |
 
@@ -432,11 +437,33 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## ⭐Visual Studio实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| ReSharper（付费） | ReSharper 是一个用于 Visual Studio 的强大插件，它为.NET开发者提供了许多功能，以提高编码效率、代码质量和开发体验。旨在帮助.NET开发者编写高质量、高效的代码，并提供了许多辅助工具来改进开发流程和减少常见的编码错误。（特别注意：电脑内存小的同学慎用，该插件十分占用电脑内存）！ | https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper |
+| CodeRush（免费） | CodeRush是用于Visual Studio 2022的功能强大且快速的代码创建、调试、导航、重构、分析和可视化工具（一个完全免费的能和ReSharper匹敌插件）。 | https://marketplace.visualstudio.com/items?itemName=DevExpress.CodeRushforVS2022 |
+| GitHub Copilot（付费） | GitHub Copilot 是一款AI辅助工具，帮助开发者更快速、智能地编写高质量代码（支持Python、JavaScript、TypeScript、Ruby、Go、C# 和 C++等多种语言）。 | https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs |
+| CodeGeeX（免费） | CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能（支持Python、Java、C#、C++/C、JavaScript、Go等多种语言）。 | https://marketplace.visualstudio.com/items?itemName=aminer.CodeGeeXVisualStudio |
+| CodeWhisperer（免费） | CodeWhisperer是亚⻢逊出品的一款基于机器学习的通用代码生成器，可实时提供代码建议。在编写代码时，它会自动根据我们现有的代码和注释生成建议。从单行代码建议到完整的函数，它可为我们提供各种大小和范围的个性化建议（支持Python、Java、C#、JavaScript、Typescript等15种编程语言）。 | https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.AWSToolkitforVisualStudio2022 |
+| Fitten Code（免费） | Fitten Code是由非十大模型驱动的AI编程助手，它可以自动生成代码，提升开发效率，帮您调试Bug，节省您的时间。还可以对话聊天，解决您编程碰到的问题（支持javascript, markdown, java, json, php, python, csharp, typescript, html, c, cpp, yaml, zig, go, ruby, css, kotlin, shell等80多种语言）。 | https://marketplace.visualstudio.com/items?itemName=FittenTech.fittencode |
+| CodeMaid（免费） | CodeMaid 是 Visual Studio 的开源扩展，用于清理和简化 C#、C++、F#、VB、PHP、PowerShell、R、JSON、XAML、XML、ASP、HTML、CSS、LESS、SCSS、JavaScript 和 TypeScript 编码。 | https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022 |
+| CSharpier（免费） | CSharpier 是一个用于 C# 代码的代码格式化工具。它是一个基于 Roslyn 的工具，它会解析您的 C# 代码，然后根据特定的规则重新格式化它，使其符合 CSharpier 的代码风格。这个工具的设计目的是使代码风格保持一致，从而提高代码的可读性和可维护性。 | https://marketplace.visualstudio.com/items?itemName=csharpier.CSharpier#report-abuse |
+| XAML Styler for Visual Studio 2022（免费） | XAML Styler 是一个 Visual Studio 扩展，它根据一组样式规则格式化 XAML 源代码。此工具可以帮助您/您的团队保持更好的 XAML 编码风格以及更好的 XAML 可读性。 | https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022 |
+| EFCore.Visualizer（免费） | 一款可以直接在Visual Studio中查看EF Core查询计划调试器可视化工具（帮助开发者分析和优化数据库查询性能），支持SQL Server和PostgreSQL两个数据库。 | https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer |
+| Solution Colors（免费） | Solution Colors允许将颜色与解决方案关联起来，并在 Visual Studio 的不同位置显示。灵感来自 VS Code 的 Peacock 扩展。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors |
+| Visual Studio Theme Pack（免费） | 基于默认 VS Code 主题的主题包，使用主题转换器创建。这些主题与 Visual Studio 2022 Preview 4 及更高版本最兼容（支持的主题包括：Abyss、Dark+、Kimbie Dark、Light+、Monokai、Monokai Dimmed、Quiet Light、Red、Solarized Dark、Solarized Light、Tomorrow Night Blue）。 | https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack |
+| Indent Guides（免费） | 显示代码缩进线，有助于保持代码的结构清晰。页宽标记有三种样式：实线、点线面和虚线，有粗细之分，颜色也可自定义。默认为灰色虚线，如图所示。每个缩进级别可以有不同的样式和颜色。 | https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides2022 |
+| Markdown Editor（免费） | 功能齐全的 Markdown 编辑器，具有实时预览和语法高亮功能。支持 GitHub 版本的 Markdown。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor |
+| HTML Snippet Pack（免费） | 它提供了一组预定义的 HTML 代码段（snippets），以帮助开发者更快速地编写 HTML 代码。这些代码段是预先定义的代码模板，可以通过简单的代码缩写触发，然后自动生成相应的 HTML 代码块，从而提高编写 HTML 的效率和准确性。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack |
+| Ozcode（付费） | Ozcode 是一个用于 Visual Studio 的插件拓展，旨在优化和简化 C# 调试过程。它提供了一系列功能，可以帮助开发人员更快速地检测和解决代码中的错误，从而提高调试效率和开发生产力。这个插件拓展使调试变得更加直观和高效，有助于加速软件开发周期。 | https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode |
+| Live Share（免费） | 它的主要功能是支持实时协作开发，并让开发人员能够在他们最喜欢的开发工具中进行协作。 | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs |
+| Codist（免费） | 致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展，增强了语法高亮、快速信息（工具提示）、导航栏、滚动条、显示质量，并带来了自动更新的版本号、智能工具栏与高级编辑、代码分析和重构命令等。 | https://marketplace.visualstudio.com/items?itemName=wmj.Codist |
+| EF Core Power Tools（免费） | 其作用是增强Entity Framework Core（EF Core）的开发体验,旨在简化Entity Framework Core应用程序的开发和维护过程，提供可视化工具和分析功能，以加速数据库相关任务的完成。 | https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools |
+| Visual Assist（付费） | 一款提高C/C++和C#开发者生产力的工具，改进了与IDE相关的导航、重构、代码生成和编码辅助功能，同时提供了针对UE4的特定工具。 | https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist |
+| SQL Search（免费） | 加速SQL Server数据库开发，通过在Visual Studio中快速查找SQL对象。可快速搜索数据库中的SQL片段，并轻松导航到这些对象。这可以节省时间，提高团队的生产力，让您可以回到手头的任务。 | https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch |
+| Supercharger（免费） | Supercharger是一款用于Visual Studio的插件，旨在提供性能优化、代码增强、代码导航、文档和项目管理等功能，以增强开发体验和提高开发效率。 | https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger22 |
+| SQLite and SQL Server Compact Toolbox（免费） | 适用于 Visual Studio 的 SQLite / SQL Server Compact 工具箱扩展。此扩展添加了多项功能来帮助您的嵌入式数据库开发工作：表和数据的脚本编写、从 SQL Server 和 CSV 文件导入等等。 | https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox |
+| ClaudiaIDE（免费） | 这是一个 Visual Studio 扩展，可让您设置自定义背景图像或幻灯片。 | https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE |
+| GhostDoc Community for VS2017 and Later（免费） | GhostDoc 是一个 Visual Studio 扩展，适用于需要使用可自定义模板从源代码生成 XML 注释、维护干净且最新的文档、生成多种格式的帮助文档、使用 Visual Studio 中的智能源代码拼写检查器等的开发人员。 | https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc |
+| JavaScript Snippet Pack（免费） | 一个基于Atom片段的代码段包，可以让你在处理JavaScript时更加高效。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack |
+| Open in Visual Studio Code（免费） | 这个扩展适用于你在Visual Studio中打开了一个项目，但又想快速在Visual Studio Code中打开它的情况。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -444,6 +471,24 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🌟Visual Studio Code实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
