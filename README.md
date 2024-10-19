@@ -349,6 +349,11 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | YesPlayMusic | 一个高颜值的第三方网易云播放器，支持 Windows / macOS / Linux。 | https://github.com/qier222/YesPlayMusic |
+| MusicPlayer2 | MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。 | https://github.com/zhongyang219/MusicPlayer2 |
+| Harmonoid | 一款播放和管理音乐库的软件，界面美观且富有活力。具备功能播放列表、视觉效果、同步歌词、音高转换、音量提升等等。 | https://github.com/harmonoid/harmonoid |
+| MusicFree | 一个插件化、定制化、无广告的免费音乐播放器，目前只支持 Android 和 Harmony OS。 | https://github.com/maotoumao/MusicFree |
+| TTKMusicPlayer | 音乐播放器模仿酷狗，基于Qt和Qmmp库开发，支持Windows和Linux平台。 | https://github.com/Greedysky/TTKMusicPlayer/tree/master |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
