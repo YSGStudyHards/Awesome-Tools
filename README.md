@@ -51,6 +51,15 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 豆包MarsCode | 基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。  | https://www.marscode.cn/events/s/iBsbXQST/ |
+| Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，它可以自动生成代码，提升开发效率，帮您调试Bug，节省您的时间。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。 | https://code.fittentech.com/ |
+| CodeGeeX | CodeGeeX,AI编程助手,AI编程辅助工具,AI写代码,AI代码生成,代码生成模型,编程工具,copilot,智谱华章,智谱AI,智谱大模型, AI Programming Tool, Code Generation, Code Completion, AI Coding Assistant。 | https://codegeex.cn/zh-CN |
+| 小浣熊家族 | 基于商汤大语言模型打造的 AI Native 生产力系列工具，覆盖软件开发、数据分析、编程教育等多个场景，旨在通过先进的人工智能技术优化和提升工作效率。 | https://xiaohuanxiong.com/ |
+| 通义灵码 | 通义灵码，基于通义大模型的 AI 研发辅助工具，提供代码智能生成、研发智能问答、任务自主执行等能力，为开发者带来智能化研发体验，引领 AI 原生研发新范式。包含智能编码助手和 AI 程序员。 | https://tongyi.aliyun.com/lingma |
+| GitHub Copilot | GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。 | https://docs.github.com/zh/copilot/quickstart |
+| Baidu Comate | 基于文心大模型，结合百度编程大数据，为你生成优质编程代码。文心快码 - Baidu Comate，更懂你的AI编程伙伴，研发效率提升好帮手。 | https://comate.baidu.com/zh |
+| Cursor | Cursor 是一款由 AI 驱动的代码编辑器，通过代码库理解、预测性编辑、自然语言代码生成和与现有工具的无缝集成等高级功能，提升开发者的生产力。它结合了传统 IDE 的熟悉感与尖端 AI 能力，简化了编码过程。 | https://www.cursor.com/ |
+| CodeWhisperer | Amazon CodeWhisperer 使用您的 AI 编码配套应用程序更快、更安全地构建应用程序。 | https://aws.amazon.com/cn/pm/codewhisperer/ |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
