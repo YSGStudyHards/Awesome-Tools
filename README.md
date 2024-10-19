@@ -9,6 +9,8 @@
 ## 🛠Awesome Tools
 Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器，以下工具、软件排名不分先后（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 
+- [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NDc1NDkyMQ==&action=getalbum&album_id=3687181925824643075#wechat_redirect)
+
 > 欢迎关注作者（公众号：**效率工具探索**）！
 
 ![](https://files.mdnice.com/user/16275/b21f4d73-69b9-40aa-b242-4e0762bc3f57.jpg)
