@@ -4,6 +4,8 @@
 ## ✨前言
 在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。
 
+- 欢迎**PR**或**Issues**投稿：[https://github.com/YSGStudyHards/Awesome-Tools/issues](https://github.com/YSGStudyHards/Awesome-Tools/issues)
+
 ## 🛠Awesome Tools
 Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器，以下工具、软件排名不分先后（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 
