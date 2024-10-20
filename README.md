@@ -82,13 +82,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
-## 📰思维导图流程图工具
+## 📈信息可视化工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | ProcessOn | 【强力推荐】ProcessOn是一款专业强大在线作图工具，提供AI生成思维导图流程图，支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形。同时可实现人与人之间的实时协作和共享，提升团队工作效率。 | https://www.processon.com/i/5c0db7cbe4b0c87510c69fdc |
 | XMind | XMind是一款非常实用的商业思维导图软件，简单易用、美观、功能强大，拥有高效的可视化思维模式，具备可扩展、跨平台、稳定性和性能，脑图的首选。 | https://xmind.cn/ |
 | Excalidraw | Excalidaw是一个开源的虚拟协作白板画图工具，可让你轻松绘制具有手绘感觉的图表，基于这个项目可以轻松定制属于你自己的白板、思维导图、原型草图设计、流程图工具等。 | https://github.com/excalidraw/excalidraw |
-|  |  |  |
+| VisionOn | VisionOn是一个轻量在线图形工具，实现了Visio的大部分功能，满足流程图、电路图、平面制图、软件设计、工程管理、思维导图、结构化分析等各种图形绘制。 | https://pub.visionon.cn/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -99,8 +99,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 语雀 | 免费的在线文档神器，用于做笔记，编写技术文档非常的好用，简洁舒适&方便实用，最关键的是支持Markdown语法，非常适合极简主义者。注册后在会员信息页填写邀请码 `TBEPM8` 即可免费领取 30 天语雀会员。 | https://www.yuque.com/about |
+| 飞书文档 | 飞书文档作为新一代高效协作工具，融合了在线文档和协同文档的所有功能，不仅能插入在线表格，将数据表转换成看板，还能用思维笔记，将思考路径可视化，更有丰富模板满足多场景创作需求。 | https://docs.feishu.cn/ |
+| 有道云笔记 | 有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、微博等优质内容一键收藏到笔记，全面助力高效学习和工作。 | https://note.youdao.com/ |
 | docsify  | docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 .html 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 index.html 就可以开始编写文档并直接部署在 GitHub Pages。 | https://docsify.js.org/#/zh-cn/ |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -171,7 +172,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Fiddler | Fiddler是一款功能强大的HTTP网页抓包调试工具。Fiddler支持监视、设置断点、甚至修改输入输出数据等功能，能够记录并检查所有你的电脑和互联网之间的http通讯，设置断点，查看所有的“进出”Fiddler的数据（指cookie,html,js,css等文件）。同时Fiddler要比其他网络调试器更加简单，不仅暴露http通讯，还提供了一个友好的用户格式。 | https://www.telerik.com/download/fiddler |
-|  |  |  |
+| Reqable | Reqable是一款跨平台的专业HTTP开发和调试工具，在全平台支持HTTP1、HTTP2和HTTP3(QUIC)协议，简单易用、功能强大、性能高效，助力程序开发和测试人员提高生产力！本产品需要一定的网络基础知识，适合开发、测试、网络、安全、爬虫等工程专业人员使用，或者在专业人员的指导下使用。 | https://reqable.com/zh-CN/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -183,7 +184,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | JMeter | Jmeter是由Apache公司开发的一个纯Java的开源项目，旨在对功能行为进行负载测试并测量性能。它最初是为测试 Web 应用程序而设计的，但后来扩展到其他测试功能。 | https://jmeter.apache.org/ |
-|  |  |  |
+| RunnerGo | RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。 | https://github.com/Runner-Go-Team/runnerGo |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -284,6 +285,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Pixso | 一站式产品，研发，设计在线UI协作工具，兼容Figma，Sketch格式。 | https://pixso.cn/ad-figma/ |
 | 摹客RP | 高效易用的在线原型设计工具。 | https://www.mockplus.cn/rp |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -316,18 +320,6 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 1Panel | 一个现代化、开源的 Linux 服务器运维管理面板。 | https://github.com/1Panel-dev/1Panel |
 | 宝塔Linux面板 | 宝塔Linux面板是提升运维效率的服务器管理软件，支持一键LAMP/LNMP/集群/监控/网站/FTP/数据库/JAVA等100多项服务器管理功能。 | https://www.bt.cn/new/product_linux.html |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
-
-## 🍀白板画图工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
-| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Excalidraw | Excalidaw是一个开源的虚拟协作白板画图工具，可让你轻松绘制具有手绘感觉的图表，基于这个项目可以轻松定制属于你自己的白板、思维导图、原型草图设计、流程图工具等。 | https://github.com/excalidraw/excalidraw |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -368,7 +360,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PDFPatcher | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
-|  |  |  |
+| PDF24 Tools | 在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -380,7 +372,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | STranslate | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
-|  |  |  |
+| Umi-OCR | 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | https://github.com/hiroi-sora/Umi-OCR |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -415,6 +407,17 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## ☀Edge实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| Octotree | 这款浏览器扩展专为增强GitHub的代码审查和探索而设计，对于喜欢逛GitHub查看开源代码的同学来说非常的方便且实用。 | https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg |
+| 沉浸式翻译 | 非常实用的一款免费的（原文/译文）双语对照网页翻译插件，同时支持PDF翻译（保留原文档排版），视频双语字幕翻译（Youtube, Netflix等），EPUB电子书翻译等；支持调用人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等 ）对以上内容进行更准确的翻译。 | https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg |
+| 字幕精灵  | 字幕精灵可实时识别语音，自动翻译并展示双语字幕，可导出字幕和音频，支持在线编辑字幕文本。 借助先进的语音识别和AI翻译技术，无论是听演讲、看课程，还是追剧、听歌，字幕精灵都能快速识别、翻译，并自动生成字幕，让您无惧外语，不再不知所云。 | https://microsoftedge.microsoft.com/addons/detail/%E5%AD%97%E5%B9%95%E7%B2%BE%E7%81%B5-%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E3%80%81ai%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91/hodednmbnoemidigafhfpbfcafhjlkki |
+| AdGuard 广告拦截器 | AdGuard 广告拦截器可有效的拦截所有网页上的所有类型的广告，甚至是在 Facebook，Youtube 以及其它网站的广告！ | https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh |
+| 封锁网站 | 永久或按计划阻止有害或恶意网站。节省您的时间并防止访问不需要的Web资源。 | https://microsoftedge.microsoft.com/addons/detail/%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99/hmpjnnapbocaoahekckcphgliangbndk |
+| 超级复制SuperCopy | SuperCopy 超级复制，一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，启用复制，启用右键，启用选择，启用粘贴。 | https://microsoftedge.microsoft.com/addons/detail/%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6supercopy/flpbdpehhdkifokenkkljcnfkbnekofg |
+| 捕捉网页截图 | 最佳扩展，全面截取网页屏幕截图，保存为PDF，PNG或JPEG。 | https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm |
+| 篡改猴（Tampermonkey） | 篡改猴 (Tampermonkey) 是拥有 超过 1000 万用户 的最流行的浏览器扩展之一。它允许用户自定义并增强您最喜爱的网页的功能。用户脚本是小型 JavaScript 程序，可用于向网页添加新功能或修改现有功能。使用 篡改猴，您可以轻松在任何网站上创建、管理和运行这些用户脚本。 | https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd |
+| CSDN·浏览器助手 | CSDN开发助手插件由CSDN官方开发，集成一键呼出搜索、万能快捷工具、个性化新标签页和官方免广告四大功能。帮助您的浏览器提升10倍效率！ | https://microsoftedge.microsoft.com/addons/detail/csdn%C2%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/igbflnhjjpcakhcjakbnbkncjofahlil |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -427,15 +430,12 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🌝Chrome实用插件
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Octotree | 这款浏览器扩展专为增强GitHub的代码审查和探索而设计，对于喜欢逛GitHub查看开源代码的同学来说非常的方便且实用。 | https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg |
-| 沉浸式翻译 | 非常实用的一款免费的（原文/译文）双语对照网页翻译插件，同时支持PDF翻译（保留原文档排版），视频双语字幕翻译（Youtube, Netflix等），EPUB电子书翻译等；支持调用人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等 ）对以上内容进行更准确的翻译。 | https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg |
-| 字幕精灵  | 字幕精灵可实时识别语音，自动翻译并展示双语字幕，可导出字幕和音频，支持在线编辑字幕文本。 借助先进的语音识别和AI翻译技术，无论是听演讲、看课程，还是追剧、听歌，字幕精灵都能快速识别、翻译，并自动生成字幕，让您无惧外语，不再不知所云。 | https://microsoftedge.microsoft.com/addons/detail/%E5%AD%97%E5%B9%95%E7%B2%BE%E7%81%B5-%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E3%80%81ai%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91/hodednmbnoemidigafhfpbfcafhjlkki |
-| AdGuard 广告拦截器 | AdGuard 广告拦截器可有效的拦截所有网页上的所有类型的广告，甚至是在 Facebook，Youtube 以及其它网站的广告！ | https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh |
-| 封锁网站 | 永久或按计划阻止有害或恶意网站。节省您的时间并防止访问不需要的Web资源。 | https://microsoftedge.microsoft.com/addons/detail/%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99/hmpjnnapbocaoahekckcphgliangbndk |
-| 超级复制SuperCopy | SuperCopy 超级复制，一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，启用复制，启用右键，启用选择，启用粘贴。 | https://microsoftedge.microsoft.com/addons/detail/%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6supercopy/flpbdpehhdkifokenkkljcnfkbnekofg |
-| 捕捉网页截图 | 最佳扩展，全面截取网页屏幕截图，保存为PDF，PNG或JPEG。 | https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm |
-| 篡改猴（Tampermonkey） | 篡改猴 (Tampermonkey) 是拥有 超过 1000 万用户 的最流行的浏览器扩展之一。它允许用户自定义并增强您最喜爱的网页的功能。用户脚本是小型 JavaScript 程序，可用于向网页添加新功能或修改现有功能。使用 篡改猴，您可以轻松在任何网站上创建、管理和运行这些用户脚本。 | https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd |
-| CSDN·浏览器助手 | CSDN开发助手插件由CSDN官方开发，集成一键呼出搜索、万能快捷工具、个性化新标签页和官方免广告四大功能。帮助您的浏览器提升10倍效率！ | https://microsoftedge.microsoft.com/addons/detail/csdn%C2%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/igbflnhjjpcakhcjakbnbkncjofahlil |
+| Google 翻译 | 浏览网页时可轻松查看翻译版本。 | https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh |
+| 沉浸式翻译 | 【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。 | https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
