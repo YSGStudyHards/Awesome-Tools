@@ -101,7 +101,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 飞书文档 | 飞书文档作为新一代高效协作工具，融合了在线文档和协同文档的所有功能，不仅能插入在线表格，将数据表转换成看板，还能用思维笔记，将思考路径可视化，更有丰富模板满足多场景创作需求。 | https://docs.feishu.cn/ |
 | 有道云笔记 | 有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、微博等优质内容一键收藏到笔记，全面助力高效学习和工作。 | https://note.youdao.com/ |
 | docsify  | docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 .html 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 index.html 就可以开始编写文档并直接部署在 GitHub Pages。 | https://docsify.js.org/#/zh-cn/ |
-|  |  |  |
+| SiYuan | 思源笔记是一款隐私优先的个人知识管理系统，支持细粒度块级引用和 Markdown 所见即所得。 | https://github.com/siyuan-note/siyuan/tree/master |
 |  |  |  |
 |  |  |  |
 
@@ -221,7 +221,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PortX | PortX是一款跨平台的SSH客户端，它可以在Mac、Windows、Linux、Android和iOS等设备上使用。PortX提供了简单但全面的用户界面，可以提供纯粹的终端模拟体验。使用PortX，您可以同时管理多个会话，并通过选项卡式界面提高工作效率。无论您是在哪个平台上使用PortX，都可以享受到统一的用户体验。 | https://portx.online/zh/ |
 | Xterminal | 一个好用的在线SSH、SFTP工具，随时随地打开，支持文件在线编辑、状态监控，支持私有部署线路，给你最大的数据安全保障 (服务器文件管理 / 状态监控 / AI 命令解释补全)。 | https://www.xterminal.cn/ |
 | Xshell | Xshell是一个功能强大的终端模拟器，支持SSH、SFTP、telnet，rlogin和串行。人们可以使用它在Windows界面下用来访问远端不同系统下的服务器，从而达到远程控制终端的目的。 | https://www.netsarang.com/en/xshell/ |
-|  |  |  |
+| ModengTerm | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
 |  |  |  |
 |  |  |  |
 
