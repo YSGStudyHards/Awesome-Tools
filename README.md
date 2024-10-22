@@ -41,7 +41,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎶实用音乐播放器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8)
 - [🍇PDF管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#pdf%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🍎实用OCR工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8ocr%E5%B7%A5%E5%85%B7)
+- [🍑Mac实用工具箱]()
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
+- [🥇Windows桌面启动器]()
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -381,12 +383,36 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
+## 🍑Mac实用工具箱
+|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| DevHub | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 | https://apps.apple.com/cn/app/devhub-%E5%BC%80%E5%8F%91%E8%80%85%E9%9B%86%E6%88%90%E5%B7%A5%E5%85%B7/id6476452351?mt=12 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
 ## 🌾Windows实用工具箱
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PowerToys | Microsoft PowerToys 是 Windows 用户提升工作效率和个性化体验的有力工具。通过利用这些强大的功能，用户可以更加高效地管理文件、执行快捷操作、调整系统设置以及使用各种实用小工具。同时，开源的特性和活跃的社区支持也使得 PowerToys 能够不断进化，满足更多用户的需求。 | https://github.com/microsoft/PowerToys |
 |  |  |  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 🥇Windows桌面启动器
+|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| CurvaLauncher | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
+| Flow Launcher | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
+| Fluent Search | Fluent Search 一款不满足于只提供「Fluent 流畅」搜索体验，还想在外观、交互、工作流上进一步拓展的高颜值搜索软件。 | https://apps.microsoft.com/detail/9nk1hlwhnp8s?hl=zh-CN&gl=US |
 |  |  |  |
 |  |  |  |
 |  |  |  |
