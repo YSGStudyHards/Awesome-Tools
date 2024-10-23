@@ -24,6 +24,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🧀Markdown编辑器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#markdown%E7%BC%96%E8%BE%91%E5%99%A8)
 - [🌌文本编辑器工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E5%B7%A5%E5%85%B7)
 - [👀数据库管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+- [📝数据库设计工具]()
 - [🍿Git管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎇抓包调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%93%E5%8C%85%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
 - [🎉性能压测工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
@@ -146,6 +147,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Datagrip | DataGrip是JetBrains公司推出的管理数据库的产品，对于JetBrains公司，开发者肯定都不陌生，IDEA和ReSharper都是这个公司的产品，用户体验非常不错。 最开始我用它就单纯看同事在用很酷的界面，后面发现功能也香，高亮文本啥的，很多功能大家可以去挖。 | https://www.jetbrains.com/datagrip/ |
 | SQLiteStudio | SQLiteStudio一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
 | DB Browser for SQLite | DB Browser for SQLite是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 📝数据库设计工具
+|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| PowerDesigner | PowerDesigner是一款功能强大、易于使用、支持多种数据库和集成性好的建模工具，广泛应用于企业信息系统设计、软件开发和数据仓库设计等领域。 | https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html |
+| PDMan | PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，PDManer-v4已完全承接PDManer所有功能，并增加更多更多实用功能。 | https://gitee.com/robergroup/pdman |
+| drawDB | drawDB是一个开源、简单、直观、强大且用户友好的在线数据库设计工具和 SQL 生成器，支持多种数据库。只需点击几下即可构建图表，导出SQL脚本，可以自定义编辑器等，并且无需登录即可使用。 | https://github.com/drawdb-io/drawdb |
 |  |  |  |
 |  |  |  |
 |  |  |  |
