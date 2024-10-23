@@ -24,7 +24,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🧀Markdown编辑器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#markdown%E7%BC%96%E8%BE%91%E5%99%A8)
 - [🌌文本编辑器工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E5%B7%A5%E5%85%B7)
 - [👀数据库管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-- [📝数据库设计工具]()
+- [📝数据库设计工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7)
 - [🍿Git管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎇抓包调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%93%E5%8C%85%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
 - [🎉性能压测工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
