@@ -168,7 +168,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🍿Git管理工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| SourceTree | SourceTree是一款免费的Git和Hg客户端管理工具，同时也是Mercurial和Subversion版本控制系统工具。支持创建、克隆、提交、push、pull 和合并等操作。SourceTree拥有一个精美简洁的界面，大大简化了开发者与代码库之间的Git操作方式，这对于那些不熟悉Git命令的开发者来说非常实用。 | https://www.sourcetreeapp.com/ |
+| SourceTree | Sourcetree 是一款免费的 Git 图形界面客户端工具，适用于 Windows 和 Mac 操作系统。它简化了与 Git 仓库的交互，让开发者可以更轻松地进行版本控制和协作。通过 Sourcetree，用户可以直观地可视化和管理他们的 Git 仓库，从而更专注于编写高质量的代码。这个工具提供了直观的用户界面，使得提交、合并、分支管理等操作变得更加便捷。 | https://www.sourcetreeapp.com/ |
 | Github Desktop | GitHub Desktop 是免费的开放源代码应用程序，可帮助处理托管在 GitHub 或其他 Git 托管服务上的代码。使用 GitHub Desktop，可以在图形用户界面中执行提交和推送更改等 Git 命令，而不是使用命令行。 | https://desktop.github.com/ |
 | Fork | Fork 是一款功能强大的 Git 客户端，支持 Windows 和 Mac 操作系统。它提供了直观的用户界面和丰富的功能，使得开发者能够轻松地进行 Git 仓库的管理和版本控制。 | https://git-fork.com/ |
 | UGit | UGit是一款腾讯自研的Git客户端，为了让每个人都可以轻松使用Git，从而提高开发效率和团队协作的流畅性。支持工蜂MR/CR，工蜂议题管理，另外对于Git的原生特性有着深度支持。 | https://ugit.qq.com/zh/ |
