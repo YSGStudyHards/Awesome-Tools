@@ -30,7 +30,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎉性能压测工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🏄‍♂️API调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%EF%B8%8Fapi%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
-- [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
+- [](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
 - [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
 - [👨‍🎓团队协同工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C%E5%B7%A5%E5%85%B7)
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
@@ -238,6 +238,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Xterminal | 一个好用的在线SSH、SFTP工具，随时随地打开，支持文件在线编辑、状态监控，支持私有部署线路，给你最大的数据安全保障 (服务器文件管理 / 状态监控 / AI 命令解释补全)。 | https://www.xterminal.cn/ |
 | Xshell | Xshell是一个功能强大的终端模拟器，支持SSH、SFTP、telnet，rlogin和串行。人们可以使用它在Windows界面下用来访问远端不同系统下的服务器，从而达到远程控制终端的目的。 | https://www.netsarang.com/en/xshell/ |
 | ModengTerm | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
+| FinalShell | FinalShell是一款功能强大的SSH客户端、服务器管理、远程桌面加速软件，支持Windows,macOS,Linux，专为系统管理员、开发人员和网络工程师设计，以满足他们在远程服务器和网络设备管理上的多样化需求。 | https://finalshell.net/ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
