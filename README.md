@@ -79,7 +79,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Visual Studio 2022 | 比以往更快更可靠的 64 位 Visual Studio。 使用 .NET 6、Blazor、MAUI 开发跨平台和云应用。 在开发人员内部循环中跨 .NET 应用使用热重载功能。 在 Linux 环境中生成、调试、测试 .NET 应用。 一次向多达一行应用增强的 IntelliCode 完成。 开发跨平台 C++ 项目并轻松面向 C++20。| https://visualstudio.microsoft.com/zh-hans/vs/ |
 | Rider  | JetBrains Rider 是一款一体化 IDE，适合使用整个 .NET 技术堆栈以及参与游戏开发的开发者。它的强大功能集允许您开发各种面向 .NET、ASP.NET Core、MAUI 等框架或 Unity、Unreal Engine 或 Godot 等游戏引擎的应用程序。 | https://www.jetbrains.com/zh-cn/rider/ |
 | IDEA | IDEA 是一款由 JetBrains 公司开发的集成开发环境（IDE），主要面向 Java 开发。它内置了对 Git 版本控制系统的完整支持。在 IDEA 中，你可以通过简单的界面操作来执行 Git 的各种操作，例如提交更改、拉取最新代码、创建分支、合并代码等。此外，IntelliJ IDEA 还提供了强大的可视化工具，帮助你更好地理解项目的代码历史和分支结构。 | https://www.jetbrains.com/idea/download/?section=windows |
-|  |  |  |
+| WebStorm | WebStorm是一款由JetBrains公司开发的集成开发环境（IDE），专为Web应用程序开发而设计。它以其强大的功能、智能的代码辅助以及高效的开发体验，赢得了广大JavaScript开发者的青睐，被誉为“Web前端开发神器”、“最强大的HTML5编辑器”以及“最智能的JavaScript IDE”。 | https://www.jetbrains.com/webstorm/ |
 |  |  |  |
 |  |  |  |
 
