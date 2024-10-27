@@ -77,8 +77,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Visual Studio 2022 | 比以往更快更可靠的 64 位 Visual Studio。 使用 .NET 6、Blazor、MAUI 开发跨平台和云应用。 在开发人员内部循环中跨 .NET 应用使用热重载功能。 在 Linux 环境中生成、调试、测试 .NET 应用。 一次向多达一行应用增强的 IntelliCode 完成。 开发跨平台 C++ 项目并轻松面向 C++20。| https://visualstudio.microsoft.com/zh-hans/vs/ |
+| Visual Studio Code | Visual Studio Code（简称 VS Code）是一款由微软开发且跨平台的免费源代码编辑器[7]。该软件以扩展的方式支持语法高亮、代码自动补全（又称 IntelliSense）、代码重构功能，并且内置了命令行工具和 Git 版本控制系统[8]。用户可以更改主题和键盘快捷方式实现个性化设置，也可以通过内置的扩展程序商店安装其他扩展以拓展软件功能。 | https://code.visualstudio.com/ |
 | Rider  | JetBrains Rider 是一款一体化 IDE，适合使用整个 .NET 技术堆栈以及参与游戏开发的开发者。它的强大功能集允许您开发各种面向 .NET、ASP.NET Core、MAUI 等框架或 Unity、Unreal Engine 或 Godot 等游戏引擎的应用程序。 | https://www.jetbrains.com/zh-cn/rider/ |
-| IDEA | IDEA 是一款由 JetBrains 公司开发的集成开发环境（IDE），主要面向 Java 开发。它内置了对 Git 版本控制系统的完整支持。在 IDEA 中，你可以通过简单的界面操作来执行 Git 的各种操作，例如提交更改、拉取最新代码、创建分支、合并代码等。此外，IntelliJ IDEA 还提供了强大的可视化工具，帮助你更好地理解项目的代码历史和分支结构。 | https://www.jetbrains.com/idea/download/?section=windows |
+| IDEA | IntelliJ IDEA 是一个适用于 Java 和 Kotlin的集成开发环境 (IDE)，旨在最大限度地提高开发人员的工作效率。它通过提供整理的代码完成、静态代码分析和重构来为您完成日常和重复性任务，并让您专注于软件开发的光明面，不仅取得成果，而且成为一种愉快的体验。 | https://intellijidea.com.cn/discover-intellij-idea.html |
 | WebStorm | WebStorm是一款由JetBrains公司开发的集成开发环境（IDE），专为Web应用程序开发而设计。它以其强大的功能、智能的代码辅助以及高效的开发体验，赢得了广大JavaScript开发者的青睐，被誉为“Web前端开发神器”、“最强大的HTML5编辑器”以及“最智能的JavaScript IDE”。 | https://www.jetbrains.com/webstorm/ |
 |  |  |  |
 |  |  |  |
@@ -239,6 +240,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Xshell | Xshell是一个功能强大的终端模拟器，支持SSH、SFTP、telnet，rlogin和串行。人们可以使用它在Windows界面下用来访问远端不同系统下的服务器，从而达到远程控制终端的目的。 | https://www.netsarang.com/en/xshell/ |
 | ModengTerm | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
 | FinalShell | FinalShell是一款功能强大的SSH客户端、服务器管理、远程桌面加速软件，支持Windows,macOS,Linux，专为系统管理员、开发人员和网络工程师设计，以满足他们在远程服务器和网络设备管理上的多样化需求。 | https://finalshell.net/ |
+| MobaXterm  | MobaXterm 是一个非常好的一站式服务器管理工具，对于多种协议的支持（比如SSH、Telnet、RDP、VNC、FTP、WSL等），让其不管是Linux、Windows还是VNC等，都可以在一个软件中进行操作管理，配合内置的SFTP文件管理和MobaTextEditor，可以让远程终端文件管理更加便捷。 | https://mobaxterm.mobatek.net/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
