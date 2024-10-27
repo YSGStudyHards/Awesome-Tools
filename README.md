@@ -76,8 +76,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🏆IDE&代码编辑器工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Visual Studio 2022 | 比以往更快更可靠的 64 位 Visual Studio。 使用 .NET 6、Blazor、MAUI 开发跨平台和云应用。 在开发人员内部循环中跨 .NET 应用使用热重载功能。 在 Linux 环境中生成、调试、测试 .NET 应用。 一次向多达一行应用增强的 IntelliCode 完成。 开发跨平台 C++ 项目并轻松面向 C++20。| https://visualstudio.microsoft.com/zh-hans/vs/ |
-| Visual Studio Code | Visual Studio Code（简称 VS Code）是一款由微软开发且跨平台的免费源代码编辑器[7]。该软件以扩展的方式支持语法高亮、代码自动补全（又称 IntelliSense）、代码重构功能，并且内置了命令行工具和 Git 版本控制系统[8]。用户可以更改主题和键盘快捷方式实现个性化设置，也可以通过内置的扩展程序商店安装其他扩展以拓展软件功能。 | https://code.visualstudio.com/ |
+| Visual Studio 2022 | Visual Studio 2022 是一款功能强大的开发人员工具，支持多种编程语言和平台。 这是一种全面的集成开发环境 (IDE)，可用于编写、编辑、调试和生成代码， 然后部署应用。 Visual Studio 还包括编译器、代码完成工具、源代码管理、扩展和许多其他功能，以改进软件开发过程的每个阶段，适用于各种开发需求。 | https://visualstudio.microsoft.com/zh-hans/vs/ |
+| Visual Studio Code | Visual Studio Code是一款由Microsoft开发的免费开源代码编辑器，支持多种编程语言（C++、C#、Java、Python、PHP、Go、 JavaScript、TypeScript 和 Node.js等），具有强大的插件生态系统、智能代码补全、调试功能和高度可定制性，适用于各种开发工作流程。用户可以更改主题和键盘快捷方式实现个性化设置，也可以通过内置的扩展程序商店安装其他扩展以拓展软件功能。 | https://code.visualstudio.com/ |
 | Rider  | JetBrains Rider 是一款一体化 IDE，适合使用整个 .NET 技术堆栈以及参与游戏开发的开发者。它的强大功能集允许您开发各种面向 .NET、ASP.NET Core、MAUI 等框架或 Unity、Unreal Engine 或 Godot 等游戏引擎的应用程序。 | https://www.jetbrains.com/zh-cn/rider/ |
 | IDEA | IntelliJ IDEA 是一个适用于 Java 和 Kotlin的集成开发环境 (IDE)，旨在最大限度地提高开发人员的工作效率。它通过提供整理的代码完成、静态代码分析和重构来为您完成日常和重复性任务，并让您专注于软件开发的光明面，不仅取得成果，而且成为一种愉快的体验。 | https://intellijidea.com.cn/discover-intellij-idea.html |
 | WebStorm | WebStorm是一款由JetBrains公司开发的集成开发环境（IDE），专为Web应用程序开发而设计。它以其强大的功能、智能的代码辅助以及高效的开发体验，赢得了广大JavaScript开发者的青睐，被誉为“Web前端开发神器”、“最强大的HTML5编辑器”以及“最智能的JavaScript IDE”。 | https://www.jetbrains.com/webstorm/ |
