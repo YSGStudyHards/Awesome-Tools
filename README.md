@@ -259,6 +259,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 1Remote | 1Remote是一个功能丰富、易于使用的远程会话管理工具，适用于需要频繁连接和管理远程会话的用户。其支持多种协议、提供详细的配置选项和定制功能，使得远程连接和管理变得更加灵活和高效。同时，项目也鼓励用户通过不同的方式参与和支持其发展。 | https://github.com/1Remote/1Remote |
 | Quasar | Quasar是一个免费、开源的Windows远程管理工具，使用C#编写，具有快速、轻量级的特点。它适用于多种用途，包括用户支持、日常行政工作以及员工监控。Quasar提供了高稳定性和易于使用的用户界面，是远程管理的理想解决方案。 | https://github.com/quasar/Quasar |
 | 爱思远控 | 一款安全稳定的远程控制软件，由爱思助手专业团队打造！爱思远控支持Windows设备之间远控，同时也支持iOS、iPad、Android手机设备与Windows主机设备之间远程控制，具有远程办公、远程管理监控电脑等功能。通过爱思远控，可以实现随时随地使用电脑或手机远控电脑主机，进行多台远程主机设备管理轻松解决不在电脑前无法控制电脑等情况。 | https://www.i4.cn/pro_remote.html |
+| Microsoft Remote Desktop | Microsoft Remote Desktop是微软官方发布的一款RDP（Remote Desktop Protocol，远程桌面协议）远程桌面控制工具，使用 Microsoft 远程桌面客户端，你可以从 Windows Server 和远程电脑连接到远程桌面服务，并使用和控制管理员提供给你的桌面和应用。 可以在不同平台上通过 Web 浏览器为许多不同类型和不同外形规格的设备（例如台式机、笔记本电脑、平板电脑、智能手机）提供客户端。 在台式机和笔记本电脑上使用 Web 浏览器时，无需下载并安装任何软件即可进行连接。 | https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=zh-cn&gl=CN |
+| AnyDesk | Anydesk 是一款远程桌面解决方案，帮助您在多个位置的任意设备上访问文件和文件。它为 Windows、MacOS 和 Android 提供了流畅的远程桌面连接，并提供了优雅的软件。只需在两台设备上安装并启动应用程序，然后在其中一台设备上输入显示的 AnyDesk-ID 即可对该设备进行直接控制。该应用快速下载、易于安装，始终保证安全性。 | https://anydesk.com/en |
+| Chrome remote desktop | Chrome Remote Desktop是一款轻巧而高效的Chrome扩展程序，使您能够在本机Chrome浏览器中直接控制另一台电脑的桌面，就像在浏览器中使用远程桌面一样。无论您的电脑是Windows、Linux、Mac OS还是Chrome OS，都可以安装并使用。 | https://remotedesktop.google.com/?hl=zh-CN |
+| AnyViewer | 远程看看（AnyViewer）是一款安全，快速，易于使用的远程控制软件。 | https://www.anyviewer.cn |
 |  |  |  |
 |  |  |  |
 |  |  |  |
