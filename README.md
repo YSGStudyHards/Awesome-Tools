@@ -55,7 +55,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 💥AI辅助编程工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| 豆包MarsCode | 豆包 MarsCode 编程助手是豆包旗下的 AI 编程助手，基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。  | https://www.marscode.cn/events/s/iBsbXQST/ |
+| 豆包MarsCode | 豆包 MarsCode 编程助手是豆包旗下的一款免费、功能强大、易于使用的 AI 编程助手，基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。  | https://www.marscode.cn/events/s/iBsbXQST/ |
 | Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，它可以自动生成代码，提升开发效率，帮您调试Bug，节省您的时间。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。 | https://code.fittentech.com/ |
 | CodeGeeX | CodeGeeX,AI编程助手,AI编程辅助工具,AI写代码,AI代码生成,代码生成模型,编程工具,copilot,智谱华章,智谱AI,智谱大模型, AI Programming Tool, Code Generation, Code Completion, AI Coding Assistant。 | https://codegeex.cn/zh-CN |
 | 小浣熊家族 | 基于商汤大语言模型打造的 AI Native 生产力系列工具，覆盖软件开发、数据分析、编程教育等多个场景，旨在通过先进的人工智能技术优化和提升工作效率。 | https://xiaohuanxiong.com/ |
