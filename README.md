@@ -390,7 +390,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PDFPatcher | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
 | PDF24 Tools | 在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
-|  |  |  |
+| PDF Arranger | PDF Arranger 是一款功能强大、易于使用的 PDF 文件整理工具，它提供了丰富的功能和直观的界面，能够满足用户在处理 PDF 文件时的各种需求。无论是合并、拆分、旋转、裁剪还是重新排列页面，PDF Arranger 都能够轻松胜任。 | https://github.com/pdfarranger/pdfarranger/releases |
 |  |  |  |
 |  |  |  |
 |  |  |  |
