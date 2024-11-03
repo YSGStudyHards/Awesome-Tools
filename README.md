@@ -12,9 +12,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 - [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NDc1NDkyMQ==&action=getalbum&album_id=3687181925824643075#wechat_redirect)
 
-> 欢迎关注作者（公众号：**效率工具探索**）！
+> 欢迎关注作者（公众号：**程序员效率工具箱**）！
 
-![](https://files.mdnice.com/user/16275/b21f4d73-69b9-40aa-b242-4e0762bc3f57.jpg)
+![](https://files.mdnice.com/user/16275/09a270f9-47b5-4b78-8e24-81ec0634642d.jpg)
 
 ## 🔍目录导航(善用Ctrl+F)
 - [💥AI辅助编程工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ai%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7)
