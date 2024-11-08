@@ -29,7 +29,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎇抓包调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%93%E5%8C%85%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
 - [🎉性能压测工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-- [🏄‍♂️API调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%EF%B8%8Fapi%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
+- [🏄‍♂️API管理工具]()
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
 - [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
 - [👨‍🎓团队协同工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C%E5%B7%A5%E5%85%B7)
@@ -220,13 +220,15 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
-## 🏄‍♂️API调试工具
+## 🏄‍♂️API管理工具
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Apifox | Apifox 是接口管理、开发、测试全流程集成工具，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好接口文档，接口调试、数据 Mock、接口测试就可以直接使用，无需再次定义；接口文档和接口开发调试使用同一个工具，接口调试完成后即可保证和接口文档定义完全一致。高效、及时、准确！ | https://www.apipost.cn/ |
-| Postman | Postman是一款功能强大的网页调试与发送网页HTTP请求的调试工具，开发人员使用Postman为接口优先的模型设计提供了很多便利，调试接口的利器，值得推荐。 | https://www.postman.com/downloads/ |
-|  |  |  |
-|  |  |  |
+| Apifox | Apifox是接口管理、开发、测试全流程集成工具，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好接口文档，接口调试、数据 Mock、接口测试就可以直接使用，无需再次定义；接口文档和接口开发调试使用同一个工具，接口调试完成后即可保证和接口文档定义完全一致。高效、及时、准确！ | https://www.apipost.cn/ |
+| Bruno | Bruno是一款开源、跨平台、安全、创新的 API 客户端，专为API开发者和测试者设计，旨在颠覆 Postman 和其他类似工具。Bruno 直接在你的电脑文件夹中存储你的 API 信息。Bruno 仅限离线使用，并且使用纯文本标记语言 Bru 来保存有关 API 的信息。 | https://github.com/usebruno/bruno |
+| Postman | Postman作为一款强大的API测试工具，为前后端分离开发中的后端接口测试提供了极大的便利。它不仅简化了API请求的构建过程，还支持自动化测试、环境管理和团队协作等功能。通过简单易用的界面和丰富的功能，Postman成为了开发者必不可少的工具之一。 | https://www.postman.com/downloads/ |
+| YApi | YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API，YApi 还为用户提供了优秀的交互体验，开发人员只需利用平台提供的接口数据写入工具以及简单的点击操作就可以实现接口的管理。 | https://github.com/ymfe/yapi |
+| Insomnia | Insomnia是一个开源的、跨平台的API客户端，支持GraphQL、REST、WebSockets、Server-sent events (SSE)、gRPC以及任何其他HTTP兼容协议。 | https://github.com/Kong/insomnia |
+| Reqable | Reqable是一款专业工程软件，旨在为用户提供无缝、高效的 API 调试解决方案。专注于可靠性和用户体验，提供丰富的功能用于调试和测试API请求。无论您是开发人员、质量工程师还是安全工程师，Reqable都能为您提供强大且易于使用的体验。 | https://reqable.com/zh-CN/ |
 |  |  |  |
 |  |  |  |
 
