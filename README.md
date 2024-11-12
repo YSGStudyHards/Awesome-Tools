@@ -224,6 +224,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具访问地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Apifox | Apifox是接口管理、开发、测试全流程集成工具，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好接口文档，接口调试、数据 Mock、接口测试就可以直接使用，无需再次定义；接口文档和接口开发调试使用同一个工具，接口调试完成后即可保证和接口文档定义完全一致。高效、及时、准确！ | https://apifox.com |
+| Apidog | Apidog 是一个用于 API 文档、API 调试、API mocking 和 API 自动化测试的集成协作平台，它结合使用 Postman + Swagger + Mock + JMeter 一组系统和一组数据来解决不同系统之间的数据同步问题。只要 API 文档定义明确，就可以直接使用 API 调试、API 数据模拟和 API 自动化测试，而无需重新定义。 | https://apidog.com/download |
 | Apipost | Apipost是集API设计、API调试、API文档、自动化测试为一体的API研发协同平台,支持grpc,http,websocket,socketio,socketjs类型接口调试,支持私有化部署。 | https://www.apipost.cn/download.html |
 | Hoppscotch | Hoppscotch是一款备受开发人员喜爱的免费、开源、快速且功能强大的API工具，它在GitHub上拥有高人气，支持接口测试、团队协作、WebSocket、服务器端事件和GraphQL查询等多种功能。 | https://github.com/hoppscotch/hoppscotch |
 | Bruno | Bruno是一款开源、跨平台、安全、创新的 API 客户端，专为API开发者和测试者设计，旨在颠覆 Postman 和其他类似工具。Bruno 直接在你的电脑文件夹中存储你的 API 信息。Bruno 仅限离线使用，并且使用纯文本标记语言 Bru 来保存有关 API 的信息。 | https://github.com/usebruno/bruno |
