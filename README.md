@@ -47,6 +47,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
+- [🎨文件同步工具]()
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -457,6 +458,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Bypass | Bypass是一款基于.NET开发的、完全免费的火车票分流抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
 | HyggeImaotai | 一款.NET开源、基于WPF实现的i茅台APP接口自动化每日自动预约（抢茅台）小助手。 | https://github.com/lisongkun/HyggeImaotai |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 🎨文件同步工具
+|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| LocalSend | LocalSend是一款功能强大、易于使用的局域网文件传输工具。它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，都可以通过LocalSend实现高效、便捷和安全的文件传输。 | https://github.com/localsend/localsend |
+| FreeFileSync | FreeFileSync是一款功能强大且易于使用的文件夹比较和同步软件，它能够在Windows系统下轻松实现与远程主机的文件同步。同时支持 Windows、Linux、mac多个平台。 | https://freefilesync.org |
 |  |  |  |
 |  |  |  |
 |  |  |  |
