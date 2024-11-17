@@ -47,7 +47,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
-- [🎨文件同步工具]()
+- [🎨文件同步工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
