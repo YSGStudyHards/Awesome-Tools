@@ -48,14 +48,14 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
 - [🎨文件同步工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
-- [📊报表制作工具]()
+- [📊报表制作工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌟Visual Studio Code实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio-code%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 
 ## 💥AI辅助编程工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 豆包MarsCode | 豆包 MarsCode 编程助手是豆包旗下的一款免费、功能强大、易于使用的 AI 编程助手，基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。  | https://www.marscode.cn/events/s/iBsbXQST/ |
 | Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，它可以自动生成代码，提升开发效率，帮您调试Bug，节省您的时间。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。 | https://code.fittentech.com/ |
@@ -76,7 +76,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🏆IDE&代码编辑器工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Visual Studio 2022 | Visual Studio 2022 是一款功能强大的开发人员工具，支持多种编程语言和平台。 这是一种全面的集成开发环境 (IDE)，可用于编写、编辑、调试和生成代码， 然后部署应用。 Visual Studio 还包括编译器、代码完成工具、源代码管理、扩展和许多其他功能，以改进软件开发过程的每个阶段，适用于各种开发需求。 | https://visualstudio.microsoft.com/zh-hans/vs/ |
 | Visual Studio Code | Visual Studio Code是一款由Microsoft开发的免费开源代码编辑器，支持多种编程语言（C++、C#、Java、Python、PHP、Go、 JavaScript、TypeScript 和 Node.js等），具有强大的插件生态系统、智能代码补全、调试功能和高度可定制性，适用于各种开发工作流程。用户可以更改主题和键盘快捷方式实现个性化设置，也可以通过内置的扩展程序商店安装其他扩展以拓展软件功能。 | https://code.visualstudio.com/ |
@@ -89,7 +89,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 📈信息可视化工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | ProcessOn | 【强力推荐】ProcessOn是一款专业强大在线作图工具，提供AI生成思维导图流程图，支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形。同时可实现人与人之间的实时协作和共享，提升团队工作效率。 | https://www.processon.com/i/5c0db7cbe4b0c87510c69fdc |
 | XMind | XMind是一款非常实用的商业思维导图软件，简单易用、美观、功能强大，拥有高效的可视化思维模式，具备可扩展、跨平台、稳定性和性能，脑图的首选。 | https://xmind.cn/ |
@@ -102,7 +102,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 📚文档和知识库工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 语雀 | 免费的在线文档神器，用于做笔记，编写技术文档非常的好用，简洁舒适&方便实用，最关键的是支持Markdown语法，非常适合极简主义者。注册后在会员信息页填写邀请码 `TBEPM8` 即可免费领取 30 天语雀会员。 | https://www.yuque.com/about |
 | 飞书文档 | 飞书文档作为新一代高效协作工具，融合了在线文档和协同文档的所有功能，不仅能插入在线表格，将数据表转换成看板，还能用思维笔记，将思考路径可视化，更有丰富模板满足多场景创作需求。 | https://docs.feishu.cn/ |
@@ -115,7 +115,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🧀Markdown编辑器
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MarkText | MarkText是一个基于MIT License完全开源免费的Markdown编辑器，支持Windows、macOS和Linux系统平台。它具有实时预览功能，支持数学表达式、代码高亮，并能够输出HTML和PDF文件。此外，MarkText还支持直接从剪贴板粘贴图像，让编辑过程更加简洁和优雅。无论您是写作、笔记还是进行技术文档撰写，MarkText都是一个功能强大且易于使用的工具。 | https://github.com/marktext/marktext |
 | Typora | Typora是一款好用极简收费的跨平台Markdown编辑器，软件使用这款软件能够帮助用户轻松将文本转换到HTML，软件从底层向上设计，软件支持markdown的标准语法，同时这款软件还支持动态预览功能，一键预览，让一切都变得如此干净、纯粹。 | https://www.typora.net/ |
@@ -127,7 +127,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌌文本编辑器工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Notepads | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
 | Notepad Next | 是一个跨平台的 Notepad++ 重新实现工具。 | https://github.com/dail8859/NotepadNext |
@@ -139,7 +139,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 👀数据库管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | DBeaver | DBeaver是一款免费的、开源的数据库管理工具，支持多种数据库平台，包括MySQL、PostgreSQL、Oracle、SQL Server等。它提供了一个功能丰富的图形用户界面（GUI），使得数据库管理、查询、编辑变得更加直观和便捷。 | https://dbeaver.io/ |
 | DbGate | DbGate是一个跨平台的数据库管理器，设计用于简化多数据库同时操作的复杂性，同时提供高级功能如模式比较、可视化查询设计器、图表可视化等。DbGate可作为Windows、Linux和Mac的应用程序运行，也可作为Docker容器在服务器上运行，或在客户端的Web浏览器中运行。 | https://github.com/dbgate/dbgate |
@@ -157,7 +157,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 📝数据库设计工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PowerDesigner | PowerDesigner是一款功能强大、易于使用、支持多种数据库和集成性好的建模工具，广泛应用于企业信息系统设计、软件开发和数据仓库设计等领域。 | https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html |
 | PDMan | PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，PDManer-v4已完全承接PDManer所有功能，并增加更多更多实用功能。 | https://gitee.com/robergroup/pdman |
@@ -169,7 +169,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🍿Git管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | SourceTree | Sourcetree 是一款免费的 Git 图形界面客户端工具，适用于 Windows 和 Mac 操作系统。它简化了与 Git 仓库的交互，让开发者可以更轻松地进行版本控制和协作。通过 Sourcetree，用户可以直观地可视化和管理他们的 Git 仓库，从而更专注于编写高质量的代码。这个工具提供了直观的用户界面，使得提交、合并、分支管理等操作变得更加便捷。 | https://www.sourcetreeapp.com/ |
 | Github Desktop | GitHub Desktop 是免费的开放源代码应用程序，可帮助处理托管在 GitHub 或其他 Git 托管服务上的代码。使用 GitHub Desktop，可以在图形用户界面中执行提交和推送更改等 Git 命令，而不是使用命令行。 | https://desktop.github.com/ |
@@ -187,7 +187,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎇抓包调试工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Fiddler | Fiddler是一款功能强大的HTTP网页抓包调试工具。Fiddler支持监视、设置断点、甚至修改输入输出数据等功能，能够记录并检查所有你的电脑和互联网之间的http通讯，设置断点，查看所有的“进出”Fiddler的数据（指cookie,html,js,css等文件）。同时Fiddler要比其他网络调试器更加简单，不仅暴露http通讯，还提供了一个友好的用户格式。 | https://www.telerik.com/download/fiddler |
 | Reqable | Reqable是一款跨平台的专业HTTP开发和调试工具，在全平台支持HTTP1、HTTP2和HTTP3(QUIC)协议，简单易用、功能强大、性能高效，助力程序开发和测试人员提高生产力！本产品需要一定的网络基础知识，适合开发、测试、网络、安全、爬虫等工程专业人员使用，或者在专业人员的指导下使用。 | https://reqable.com/zh-CN/ |
@@ -199,7 +199,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎉性能压测工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | JMeter | Jmeter是由Apache公司开发的一个纯Java的开源项目，旨在对功能行为进行负载测试并测量性能。它最初是为测试 Web 应用程序而设计的，但后来扩展到其他测试功能。 | https://jmeter.apache.org/ |
 | RunnerGo | RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。 | https://github.com/Runner-Go-Team/runnerGo |
@@ -211,7 +211,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## ⚙Redis管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | RedisDesktopManager | Redis Desktop Manager是一款非常实用的Redis桌面管理工具，它可以支持命令控制台操作，以及常用，查询key，rename，delete等操作。基于 Qt 5 开发，支持通过 SSH Tunnel 连接。 | https://github.com/RedisInsight/RedisDesktopManager |
 | AnotherRedisDesktopManager | 一个更快更好更稳定的redis桌面管理器【GUI客户端】，兼容Linux、Windows、Mac。更重要的是，加载大量密钥时不会崩溃。 | https://github.com/qishibo/AnotherRedisDesktopManager |
@@ -223,7 +223,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🏄‍♂️API管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Apifox | Apifox是接口管理、开发、测试全流程集成工具，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好接口文档，接口调试、数据 Mock、接口测试就可以直接使用，无需再次定义；接口文档和接口开发调试使用同一个工具，接口调试完成后即可保证和接口文档定义完全一致。高效、及时、准确！ | https://apifox.com |
 | Apidog | Apidog 是一个用于 API 文档、API 调试、API mocking 和 API 自动化测试的集成协作平台，它结合使用 Postman + Swagger + Mock + JMeter 一组系统和一组数据来解决不同系统之间的数据同步问题。只要 API 文档定义明确，就可以直接使用 API 调试、API 数据模拟和 API 自动化测试，而无需重新定义。 | https://apidog.com/download |
@@ -242,7 +242,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎁SSH客户端软件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PortX | PortX是一款跨平台的SSH客户端，它可以在Mac、Windows、Linux、Android和iOS等设备上使用。PortX提供了简单但全面的用户界面，可以提供纯粹的终端模拟体验。使用PortX，您可以同时管理多个会话，并通过选项卡式界面提高工作效率。无论您是在哪个平台上使用PortX，都可以享受到统一的用户体验。 | https://portx.online/zh/ |
 | Xterminal | 一个好用的在线SSH、SFTP工具，随时随地打开，支持文件在线编辑、状态监控，支持私有部署线路，给你最大的数据安全保障 (服务器文件管理 / 状态监控 / AI 命令解释补全)。 | https://www.xterminal.cn/ |
@@ -259,7 +259,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🤳远程连接工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | TeamViewer | TeamViewer 是全面的远程访问、远程控制及远程支持解决方案，几乎适用于所有桌面和移动平台，包括 Windows、macOS、Android 及 iOS。 TeamViewer 让您能够远程访问位于世界各地的计算机或移动设备，且操作行云流水，犹如近在眼前。 此外，通过我们安全的全球远程访问网络，您还可随时随地远程连接到服务器、商用级机器及 IoT 设备。 | https://www.teamviewer.cn/cn/products/teamviewer/ |
 | ToDesk | ToDesk是一款稳定流畅，免费的远程控制软件，支持在内网、外网和移动网络环境下，随时随地发起远程控制。 | https://www.todesk.com/index.html |
@@ -279,7 +279,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 👨‍🎓团队协同工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Teambition | Teambition的核心是“协作”，它是一个高效的项目协作平台，相比同类软件，他的强大之处在于极简的页面，在于你可以随时通过电脑（mac、pc、平板电脑）/浏览器/手机等移动设备（iphone、iPad、Android），随时随地与你的团队高效办公。并且您可以在Teambition中设置自己的任务清单，能够让自己有计划的去完成每日任务。 | https://www.teambition.com/ |
 | Worktile | Worktile是新一代简单好用的团队协同工具，解决中小团队的效率、沟通、共享和记录问题，让你的团队随时随地一起工作。 | https://worktile.com/ |
@@ -291,7 +291,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 👩‍💻文件搜索工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Everything | 本地文件搜索的天花板。"Everything" 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。不像 Windows 内置搜索，"Everything" 默认显示电脑上每个文件和文件夹 (就如其名 "Everything")。您在搜索框输入的关键词将会筛选显示的文件和文件夹。 | https://www.voidtools.com/zh-cn/ |
 | Listary | Listary 是一款高效的文件搜索工具，它以极其轻量化的状态运行，能帮你快速查找本地的文件和应用程序。 | https://help.listary.com/zh-Hans/ |
@@ -303,7 +303,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## ☘文件管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Files | Files 是一个现代文件管理器，可帮助用户组织他们的文件和文件夹。Files 的使命是构建适用于 Windows 的最佳文件管理器，我们很自豪能够在公开场合构建它，以便每个人都可以参与其中。用户反馈有助于塑造我们开发的功能，而GitHub上的错误报告有助于使文件更可靠。Files 由开源社区构建和维护，具有强大的多任务处理体验、文件标签、深度集成和直观的设计。 | https://github.com/files-community/Files |
 | QTTabBar | QTTabBar是一款可以让你在Windows资源管理器中使用Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、Opera那样的。QTTabBar还提供了一些功能插件，如：文件操作工具、树型目录、显示状态栏等等。 | https://github.com/indiff/qttabbar/tree/master |
@@ -315,7 +315,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌽原型设计工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 墨刀 | 在线一体化产品设计协作平台,集原型设计、协作、流程图、思维导图为一体，支持团队项目实时协作和管理，金融级数据安全保障，还支持私有化部署，是产品经理、设计师和技术开发团队必备工具。 | https://modao.cc/ |
 | Axure RP | 是最经典的原型设计工具，本地可编辑，非云端。几乎所有初级产品经理或产品助理岗位必备工具。 | https://www.axure.com/ |
@@ -330,7 +330,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🥂代码格式化工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 在线代码格式化 | ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具。 | https://tool.oschina.net/codeformat/json |
 | CSharpier | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
@@ -342,7 +342,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🥝Nginx管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Nginx UI | Nginx UI一个功能丰富、易于使用的 Nginx Web UI 工具，它极大地简化了 Nginx 服务器的管理和配置过程。 | https://github.com/0xJacky/nginx-ui |
 | nginxWebUI | 方便快捷易用的Nginx可视化UI网页管理部署配置工具系统，使用Web网页系统来快速配置部署，支持在线配置你的Nginx/Openresty的反向代理、负载均衡、SSL/HTTPS证书免费签发，自动续签、TCP/UDP 3-4层转发、可以自定义参数字段、均衡负载节点、Nginx服务状态监控故障报警、集群配置同步等，快速部署多个或N个Nginx集群节点，支持导入现有Nginx配置文件让你无忧使用。 | https://gitee.com/cym1102/nginxWebUI |
@@ -354,7 +354,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🍒Linux管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 1Panel | 一个现代化、开源的 Linux 服务器运维管理面板。 | https://github.com/1Panel-dev/1Panel |
 | 宝塔Linux面板 | 宝塔Linux面板是提升运维效率的服务器管理软件，支持一键LAMP/LNMP/集群/监控/网站/FTP/数据库/JAVA等100多项服务器管理功能。 | https://www.bt.cn/new/product_linux.html |
@@ -366,7 +366,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 📋截图&录屏工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PixPin | 功能强大使用简单的截图/贴图工具，帮助你提高效率（截图/贴图/长截图/文字识别/标注）。 | https://pixpinapp.com/ |
 | Snipaste | Snipaste 是一款简单但强大的截图工具，它以其独特的贴图功能、丰富的标注工具、快捷键操作、跨平台支持以及简洁的界面和轻量级的体积，赢得了广大用户的青睐。如果你需要一款高效、便捷的截图工具，那么 Snipaste 绝对是一个值得尝试的选择。 | https://mp.weixin.qq.com/s/XIal1FeGM1_MKlO6Cf8lGw |
@@ -378,7 +378,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎶实用音乐播放器
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | YesPlayMusic | 一个高颜值的第三方网易云播放器，支持 Windows / macOS / Linux。 | https://github.com/qier222/YesPlayMusic |
 | MusicPlayer2 | MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。 | https://github.com/zhongyang219/MusicPlayer2 |
@@ -395,7 +395,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🍇PDF管理工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PDFPatcher | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
 | PDF24 Tools | 在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
@@ -407,7 +407,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🥠实用OCR工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | STranslate | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
 | Umi-OCR | 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | https://github.com/hiroi-sora/Umi-OCR |
@@ -419,7 +419,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🍎Mac实用工具箱
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | DevHub | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 | https://apps.apple.com/cn/app/devhub-%E5%BC%80%E5%8F%91%E8%80%85%E9%9B%86%E6%88%90%E5%B7%A5%E5%85%B7/id6476452351?mt=12 |
 |  |  |  |
@@ -431,7 +431,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌾Windows实用工具箱
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PowerToys | Microsoft PowerToys 是 Windows 用户提升工作效率和个性化体验的有力工具。通过利用这些强大的功能，用户可以更加高效地管理文件、执行快捷操作、调整系统设置以及使用各种实用小工具。同时，开源的特性和活跃的社区支持也使得 PowerToys 能够不断进化，满足更多用户的需求。 | https://github.com/microsoft/PowerToys |
 |  |  |  |
@@ -443,7 +443,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🥇Windows桌面启动器
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | CurvaLauncher | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
 | Flow Launcher | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
@@ -455,7 +455,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🏍实用抢票软件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Bypass | Bypass是一款基于.NET开发的、完全免费的火车票分流抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
 | HyggeImaotai | 一款.NET开源、基于WPF实现的i茅台APP接口自动化每日自动预约（抢茅台）小助手。 | https://github.com/lisongkun/HyggeImaotai |
@@ -467,7 +467,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎨文件同步工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | LocalSend | LocalSend是一款功能强大、易于使用的局域网文件传输工具。它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，都可以通过LocalSend实现高效、便捷和安全的文件传输。 | https://github.com/localsend/localsend |
 | FreeFileSync | FreeFileSync是一款功能强大且易于使用的文件夹比较和同步软件，它能够在Windows系统下轻松实现与远程主机的文件同步。同时支持 Windows、Linux、mac多个平台。 | https://freefilesync.org |
@@ -479,7 +479,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 📊报表制作工具
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | JimuReport | JimuReport是一款免费的数据可视化报表，含报表、仪表盘和大屏设计，像搭建积木一样完全在线设计！功能涵盖：数据报表、打印设计、图表报表、门户设计、大屏设计等！它支持多种数据库类型，能够快速生成各种复杂报表，并实现在线预览和下载。 | https://github.com/jeecgboot/JimuReport |
 |  |  |  |
@@ -491,7 +491,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## ☀Edge实用插件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Octotree | 这款浏览器扩展专为增强GitHub的代码审查和探索而设计，对于喜欢逛GitHub查看开源代码的同学来说非常的方便且实用。 | https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg |
 | 沉浸式翻译 | 非常实用的一款免费的（原文/译文）双语对照网页翻译插件，同时支持PDF翻译（保留原文档排版），视频双语字幕翻译（Youtube, Netflix等），EPUB电子书翻译等；支持调用人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等 ）对以上内容进行更准确的翻译。 | https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg |
@@ -514,7 +514,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌝Chrome实用插件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Google 翻译 | 浏览网页时可轻松查看翻译版本。 | https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh |
 | 沉浸式翻译 | 【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。 | https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh |
@@ -528,7 +528,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## ⭐Visual Studio实用插件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | ReSharper（付费） | ReSharper 是一个用于 Visual Studio 的强大插件，它为.NET开发者提供了许多功能，以提高编码效率、代码质量和开发体验。旨在帮助.NET开发者编写高质量、高效的代码，并提供了许多辅助工具来改进开发流程和减少常见的编码错误。（特别注意：电脑内存小的同学慎用，该插件十分占用电脑内存）！ | https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper |
 | CodeRush（免费） | CodeRush是用于Visual Studio 2022的功能强大且快速的代码创建、调试、导航、重构、分析和可视化工具（一个完全免费的能和ReSharper匹敌插件）。 | https://marketplace.visualstudio.com/items?itemName=DevExpress.CodeRushforVS2022 |
@@ -574,7 +574,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🌟Visual Studio Code实用插件
-|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Chinese (Simplified) Language Pack for Visual Studio Code | 此中文（简体）语言包为 VS Code 提供本地化界面。 | https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans |
 | C# Dev Kit | C# Dev Kit for Visual Studio Code（C# Dev Kit）是一个扩展工具，它为您的C#开发提供了一系列强大的功能和实用工具，以帮助您更高效地编写、调试和维护代码。它能够在Windows、macOS、Linux甚至Codespace等各种开发环境中使用，提升您的C#开发体验。 | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit |
