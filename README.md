@@ -48,6 +48,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
 - [🎨文件同步工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
+- [📊报表制作工具]()
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -470,6 +471,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | LocalSend | LocalSend是一款功能强大、易于使用的局域网文件传输工具。它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，都可以通过LocalSend实现高效、便捷和安全的文件传输。 | https://github.com/localsend/localsend |
 | FreeFileSync | FreeFileSync是一款功能强大且易于使用的文件夹比较和同步软件，它能够在Windows系统下轻松实现与远程主机的文件同步。同时支持 Windows、Linux、mac多个平台。 | https://freefilesync.org |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 📊报表制作工具
+|                工具名称                |                           工具详细介绍                           |           工具访问地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| JimuReport | JimuReport是一款免费的数据可视化报表，含报表、仪表盘和大屏设计，像搭建积木一样完全在线设计！功能涵盖：数据报表、打印设计、图表报表、门户设计、大屏设计等！它支持多种数据库类型，能够快速生成各种复杂报表，并实现在线预览和下载。 | https://github.com/jeecgboot/JimuReport |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
