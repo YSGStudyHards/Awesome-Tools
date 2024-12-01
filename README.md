@@ -308,7 +308,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Files | Files 是一个现代文件管理器，可帮助用户组织他们的文件和文件夹。Files 的使命是构建适用于 Windows 的最佳文件管理器，我们很自豪能够在公开场合构建它，以便每个人都可以参与其中。用户反馈有助于塑造我们开发的功能，而GitHub上的错误报告有助于使文件更可靠。Files 由开源社区构建和维护，具有强大的多任务处理体验、文件标签、深度集成和直观的设计。 | https://github.com/files-community/Files |
 | QTTabBar | QTTabBar是一款可以让你在Windows资源管理器中使用Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、Opera那样的。QTTabBar还提供了一些功能插件，如：文件操作工具、树型目录、显示状态栏等等。 | https://github.com/indiff/qttabbar/tree/master |
 | Xplorer | Xplorer是一个现代化、可定制且跨平台的文件资源管理器工具。它基于Web技术构建，并使用Tauri框架进行封装，使得用户可以在Windows、MacOS、Linux等多个操作系统上无缝运行。 | https://github.com/kimlimjustin/xplorer |
-|  |  |  |
+| Sigma File Manager | Sigma File Manager是一个免费的、开源的、快速发展的现代文件管理器（资源管理器/浏览器）应用程序，适用于Windows和Linux。 | https://github.com/aleksey-hoffman/sigma-file-manager |
 |  |  |  |
 |  |  |  |
 
