@@ -583,7 +583,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | GhostDoc Community for VS2017 and Later（免费） | GhostDoc 是一个 Visual Studio 扩展，适用于需要使用可自定义模板从源代码生成 XML 注释、维护干净且最新的文档、生成多种格式的帮助文档、使用 Visual Studio 中的智能源代码拼写检查器等的开发人员。 | https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc |
 | JavaScript Snippet Pack（免费） | 一个基于Atom片段的代码段包，可以让你在处理JavaScript时更加高效。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack |
 | Open in Visual Studio Code（免费） | 这个扩展适用于你在Visual Studio中打开了一个项目，但又想快速在Visual Studio Code中打开它的情况。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode |
-|  |  |  |
+| FileEncoding（免费） | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://marketplace.visualstudio.com/items?itemName=genrwoody.FileEncoding |
 |  |  |  |
 |  |  |  |
 |  |  |  |
