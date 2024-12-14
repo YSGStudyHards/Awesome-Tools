@@ -178,7 +178,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Fork | Fork 是一款功能强大的 Git 客户端，支持 Windows 和 Mac 操作系统。它提供了直观的用户界面和丰富的功能，使得开发者能够轻松地进行 Git 仓库的管理和版本控制。 | https://git-fork.com/ |
 | UGit | UGit是一款腾讯自研的Git客户端，为了让每个人都可以轻松使用Git，从而提高开发效率和团队协作的流畅性。支持工蜂MR/CR，工蜂议题管理，另外对于Git的原生特性有着深度支持。 | https://ugit.qq.com/zh/ |
 | TortoiseGit | TortoiseGit 是一款免费的 Windows 平台上的 Git 客户端工具，它集成在 Windows 资源管理器中，提供了直观且易于使用的界面，方便开发者进行 Git 版本控制操作。 | https://tortoisegit.org/download/ |
-| Git Extensions | 一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://github.com/gitextensions/gitextensions/releases/tag/v4.2.1 |
+| Git Extensions | 一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://github.com/gitextensions/gitextensions |
 | GitKraken | GitKraken 是一款跨平台的 Git 客户端工具，旨在提供直观、可视化的界面和强大的功能，使 Git 版本控制变得更加简单和高效。GitKraken 可以在 Windows、macOS 和 Linux 等操作系统上运行，使得开发者可以在不同平台上使用相同的 Git 客户端工具。 | https://www.gitkraken.com/download/windows64 |
 | SmartGit | SmartGit 是一款跨平台的 Git 客户端工具，提供了直观的图形用户界面和丰富的功能，使得开发者能够更轻松地进行版本控制操作。它支持提交、拉取、分支管理、合并等基本的 Git 功能，同时还提供了诸如交互式合并、快速切换分支等高级功能。SmartGit 还可以与 GitHub、GitLab、Bitbucket 等代码托管平台无缝集成，方便开发者进行远程仓库的操作和团队协作。 | https://www.syntevo.com/smartgit/download/ |
 |  |  |  |
