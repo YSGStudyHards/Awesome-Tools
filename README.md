@@ -162,7 +162,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | PowerDesigner | PowerDesigner是一款功能强大、易于使用、支持多种数据库和集成性好的建模工具，广泛应用于企业信息系统设计、软件开发和数据仓库设计等领域。 | https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html |
-| PDMan | PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，PDManer-v4已完全承接PDManer所有功能，并增加更多更多实用功能。 | https://gitee.com/robergroup/pdman |
+| PDManer | PDManer元数建模，是一款多操作系统开源免费的桌面版关系数据库模型建模工具，相对于PowerDesigner，他具备界面简洁美观，操作简单，上手容易等特点。支持Windows,Mac,Linux等操作系统，也能够支持国产操作系统。 | https://gitee.com/robergroup/pdmaner |
 | drawDB | drawDB是一个开源、简单、直观、强大且用户友好的在线数据库设计工具和 SQL 生成器，支持多种数据库。只需点击几下即可构建图表，导出SQL脚本，可以自定义编辑器等，并且无需登录即可使用。 | https://github.com/drawdb-io/drawdb |
 |  |  |  |
 |  |  |  |
