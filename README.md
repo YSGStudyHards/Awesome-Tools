@@ -360,7 +360,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 1Panel | 一个现代化、开源的 Linux 服务器运维管理面板。 | https://github.com/1Panel-dev/1Panel |
 | 宝塔Linux面板 | 宝塔Linux面板是提升运维效率的服务器管理软件，支持一键LAMP/LNMP/集群/监控/网站/FTP/数据库/JAVA等100多项服务器管理功能。 | https://www.bt.cn/new/product_linux.html |
-|  |  |  |
+| WDCP | WDCP是一款可通过WEB方式轻松管理Linux服务器的程序，可一键快速部署lnamp,lamp,lnmp,tomcat,nodejs等WEB应用环境，支持N+A组合模式，支持多PHP版本共存和切换等。可轻松创建与发布网站，管理mysql数据库和用户，创建与管理FTP服务。 可查看系统资源，IP设置，进程管理，服务管理，安全设置，端口设置等系统功能。 | https://wdcp.net/download.html |
 |  |  |  |
 |  |  |  |
 |  |  |  |
