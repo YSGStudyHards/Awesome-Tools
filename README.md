@@ -277,7 +277,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | AnyDesk | Anydesk 是一款远程桌面解决方案，帮助您在多个位置的任意设备上访问文件和文件。它为 Windows、MacOS 和 Android 提供了流畅的远程桌面连接，并提供了优雅的软件。只需在两台设备上安装并启动应用程序，然后在其中一台设备上输入显示的 AnyDesk-ID 即可对该设备进行直接控制。该应用快速下载、易于安装，始终保证安全性。 | https://anydesk.com/en |
 | Chrome remote desktop | Chrome Remote Desktop是一款轻巧而高效的Chrome扩展程序，使您能够在本机Chrome浏览器中直接控制另一台电脑的桌面，就像在浏览器中使用远程桌面一样。无论您的电脑是Windows、Linux、Mac OS还是Chrome OS，都可以安装并使用。 | https://remotedesktop.google.com/?hl=zh-CN |
 | AnyViewer | 远程看看（AnyViewer）是一款安全，快速，易于使用的远程控制软件。 | https://www.anyviewer.cn |
-|  |  |  |
+| 网易UU远程 | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，支持手机、平板、电脑、Mac、掌机远程控制电脑，不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验。 | https://uuyc.163.com |
 |  |  |  |
 |  |  |  |
 
