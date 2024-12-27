@@ -32,7 +32,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
 - [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
-- [👨‍🎓项目管理工具]()
+- [👨‍🎓项目管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
 - [☘文件管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🌽原型设计工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7)
