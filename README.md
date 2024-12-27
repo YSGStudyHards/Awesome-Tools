@@ -32,7 +32,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
 - [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
-- [👨‍🎓团队协同工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C%E5%B7%A5%E5%85%B7)
+- [👨‍🎓项目管理工具]()
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
 - [☘文件管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🌽原型设计工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -283,12 +283,12 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
-## 👨‍🎓团队协同工具
+## 👨‍🎓项目管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Teambition | Teambition的核心是“协作”，它是一个高效的项目协作平台，相比同类软件，他的强大之处在于极简的页面，在于你可以随时通过电脑（mac、pc、平板电脑）/浏览器/手机等移动设备（iphone、iPad、Android），随时随地与你的团队高效办公。并且您可以在Teambition中设置自己的任务清单，能够让自己有计划的去完成每日任务。 | https://www.teambition.com/ |
 | Worktile | Worktile是新一代简单好用的团队协同工具，解决中小团队的效率、沟通、共享和记录问题，让你的团队随时随地一起工作。 | https://worktile.com/ |
-|  |  |  |
+| 禅道 | 禅道是第一款国产的开源、功能丰富、界面美观项目管理软件。它集产品管理、项目管理、质量管理、文档管理、 组织管理和事务管理于一体，是一款专业的研发项目管理软件，完整地覆盖了项目管理的核心流程。 | https://gitee.com/wwccss/zentaopms |
 |  |  |  |
 |  |  |  |
 |  |  |  |
