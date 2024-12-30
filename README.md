@@ -377,7 +377,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Snipaste | Snipaste 是一款简单但强大的截图工具，它以其独特的贴图功能、丰富的标注工具、快捷键操作、跨平台支持以及简洁的界面和轻量级的体积，赢得了广大用户的青睐。如果你需要一款高效、便捷的截图工具，那么 Snipaste 绝对是一个值得尝试的选择。 | https://mp.weixin.qq.com/s/XIal1FeGM1_MKlO6Cf8lGw |
 | ShareX | ShareX 是一款免费的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
 | ScreenToGif | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
-|  |  |  |
+| Captura | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。 | https://github.com/MathewSachin/Captura |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
