@@ -125,7 +125,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | MarkText | MarkText是一个基于MIT License完全开源免费的Markdown编辑器，支持Windows、macOS和Linux系统平台。它具有实时预览功能，支持数学表达式、代码高亮，并能够输出HTML和PDF文件。此外，MarkText还支持直接从剪贴板粘贴图像，让编辑过程更加简洁和优雅。无论您是写作、笔记还是进行技术文档撰写，MarkText都是一个功能强大且易于使用的工具。 | https://github.com/marktext/marktext |
 | Typora | Typora是一款好用极简收费的跨平台Markdown编辑器，软件使用这款软件能够帮助用户轻松将文本转换到HTML，软件从底层向上设计，软件支持markdown的标准语法，同时这款软件还支持动态预览功能，一键预览，让一切都变得如此干净、纯粹。 | https://www.typora.net/ |
 | DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
-|  |  |  |
+| WeChat Markdown Editor | WeChat Markdown Editor是一款开源且高度简洁的微信 Markdown 编辑器，支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性。 | https://github.com/doocs/md |
 |  |  |  |
 |  |  |  |
 
