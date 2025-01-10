@@ -218,10 +218,14 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## ⚙Redis管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| AnotherRedisDesktopManager | Another Redis Desktop Manager是一款更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值。支持哨兵, 集群, ssh通道, ssl认证, stream, subscribe订阅, 树状视图, 命令行, 以及暗黑模式; 多种格式化方式, 甚至能够自定义格式化脚本, 满足你的一切需求。 | https://github.com/qishibo/AnotherRedisDesktopManager |
+| RedisInsight | RedisInsight是一个Redis可视化工具（由Redis官方开源），提供设计、开发和优化 Redis 应用程序的功能。查询、分析你的 Redis 数据并与之交互。使用Electron、Monaco Editor和NodeJS构建（基于 Electron 实现，跨平台，界面美观）。 | https://github.com/RedisInsight/RedisInsight |
+| Tiny RDM |一个现代化轻量级的、跨平台的Redis桌面客户端，支持Mac、Windows和Linux。极度轻量，基于Webview2，无内嵌浏览器。界面精美易用，提供浅色/深色主题。支持SSH隧道/SSL/哨兵模式/集群模式/HTTP代理/SOCKS5代理。支持命令实时监控、支持导入/导出数据、支持发布订阅、支持导入/导出连接配置等更多实用功能特性。 | https://github.com/tiny-craft/tiny-rdm |
+| QuickRedis | QuickRedis是一款永久免费的 Redis 可视化管理工具。它支持直连、哨兵、集群模式，支持亿万数量级的 key，还有令人兴奋的UI。QuickRedis 支持 Windows 、 Mac OS X 和 Linux 下运行。 | https://gitee.com/quick123official/quick_redis_blog |
+| RedisFront | RedisFront是一款开源跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式，哨兵模式以及 SSH 隧道连接。 | https://gitee.com/dromara/RedisFront |
 | RedisDesktopManager | Redis Desktop Manager是一款非常实用的Redis桌面管理工具，它可以支持命令控制台操作，以及常用，查询key，rename，delete等操作。基于 Qt 5 开发，支持通过 SSH Tunnel 连接。 | https://github.com/RedisInsight/RedisDesktopManager |
-| AnotherRedisDesktopManager | 一个更快更好更稳定的redis桌面管理器【GUI客户端】，兼容Linux、Windows、Mac。更重要的是，加载大量密钥时不会崩溃。 | https://github.com/qishibo/AnotherRedisDesktopManager |
-| RedisInsight | RedisInsight是一个直观且高效的 Redis GUI，允许您与数据库交互并管理数据 - 内置对 Redis 模块的支持，支持多种操作系统：Linux、Windows 和 macOS。 | https://github.com/RedisInsight/RedisInsight |
-| Tiny RDM | 一个现代化轻量级的、跨平台的Redis桌面客户端，支持Mac、Windows和Linux。 | https://github.com/tiny-craft/tiny-rdm |
+| RedisPlus | RedisPlus是为Redis可视化管理开发的一款开源免费的桌面客户端软件，支持Windows 、Linux 、Mac三大系统平台，RedisPlus提供更加高效、方便、快捷的使用体验，有着更加现代化的用户界面风格。 | https://gitee.com/MaxBill/RedisPlus |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
