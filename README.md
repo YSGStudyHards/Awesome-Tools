@@ -48,7 +48,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
 - [🎨文件同步工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
-- [📊报表制作工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
+- [📊](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
 - [📲文件下载工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 - [🎹Docker管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#docker%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -491,7 +491,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | JimuReport | JimuReport是一款免费的数据可视化报表，含报表、仪表盘和大屏设计，像搭建积木一样完全在线设计！功能涵盖：数据报表、打印设计、图表报表、门户设计、大屏设计等！它支持多种数据库类型，能够快速生成各种复杂报表，并实现在线预览和下载。 | https://github.com/jeecgboot/JimuReport |
-|  |  |  |
+| DataEase | DataEase是一个开源的数据可视化分析工具，可以帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便地与他人分享。 | https://gitee.com/fit2cloud-feizhiyun/DataEase |
 |  |  |  |
 |  |  |  |
 |  |  |  |
