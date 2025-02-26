@@ -48,7 +48,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🥇Windows桌面启动器](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#windows%E6%A1%8C%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [🏍实用抢票软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
 - [🎨文件同步工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
-- [📊](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
+- [📊报表制作工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
 - [📲文件下载工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 - [🎹Docker管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#docker%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
