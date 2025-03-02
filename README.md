@@ -12,7 +12,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 - [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect)
 
-> 欢迎关注作者（公众号：**追逐时光者**），高效实用效率工具等你来挖掘！
+> 欢迎关注作者公众号：**追逐时光者**，更多高效实用效率工具等你来挖掘！
 
 <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="50%"/></a>
 
