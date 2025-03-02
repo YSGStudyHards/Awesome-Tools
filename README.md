@@ -10,11 +10,11 @@
 ## 🛠Awesome Tools
 Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器，以下工具、软件排名不分先后（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 
-- [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NDc1NDkyMQ==&action=getalbum&album_id=3687181925824643075#wechat_redirect)
+- [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect)
 
-> 欢迎关注作者（公众号：**程序员效率工具箱**）！
+> 欢迎关注作者（公众号：**追逐时光者**）！
 
-![](https://files.mdnice.com/user/16275/09a270f9-47b5-4b78-8e24-81ec0634642d.jpg)
+<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="50%"/></a>
 
 ## 🔍目录导航(善用Ctrl+F)
 - [💥AI辅助编程工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ai%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7)
