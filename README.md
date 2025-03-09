@@ -155,7 +155,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Datagrip | DataGrip是JetBrains公司推出的管理数据库的产品，对于JetBrains公司，开发者肯定都不陌生，IDEA和ReSharper都是这个公司的产品，用户体验非常不错。 最开始我用它就单纯看同事在用很酷的界面，后面发现功能也香，高亮文本啥的，很多功能大家可以去挖。 | https://www.jetbrains.com/datagrip/ |
 | SQLiteStudio | SQLiteStudio一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
 | DB Browser for SQLite | DB Browser for SQLite是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
-|  |  |  |
+| HeidiSQL | HeidiSQL 是一款免费的数据库管理工具，适用于与数据库打交道的开发人员和数据库管理员。它支持多种数据库系统，包括 MariaDB、MySQL、Microsoft SQL Server、PostgreSQL、SQLite、Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，使得用户能够方便地连接到数据库、编辑数据、管理数据库结构以及执行各种数据库操作。 | https://www.heidisql.com |
 |  |  |  |
 |  |  |  |
 
