@@ -127,6 +127,11 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Typora | Typora是一款好用极简收费的跨平台Markdown编辑器，软件使用这款软件能够帮助用户轻松将文本转换到HTML，软件从底层向上设计，软件支持markdown的标准语法，同时这款软件还支持动态预览功能，一键预览，让一切都变得如此干净、纯粹。 | https://www.typora.net/ |
 | DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 | WeChat Markdown Editor | WeChat Markdown Editor是一款开源且高度简洁的微信 Markdown 编辑器，支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性。 | https://github.com/doocs/md |
+| VNote | VNote是一个专注于Markdown的基于Qt的开源免费的笔记应用。VNote希望能提供一个拥有完美编辑体验的舒适的笔记平台。VNote 使用 C++ 开发，基于 Qt 5.9。它号称是更懂程序员和 Markdown 的笔记软件，虽然看上去并不十分美观，但它的功能很强大。它有 Vim 模式和一系列强大的快捷键、可以直接从剪切板插入图片、支持 Mermaid、 Flowchart.js、 MathJax、 PlantUML 和 Graphviz、强大的原地预览（图片、图表、公式）等功能，确实是一个很懂程序员的强大 Markdown 编辑器。 | https://github.com/vnotex/vnote |
+| Notable | Notable是一个使用 TypeScript 开发的 Markdown 编辑器。Notable 支持 GFM(GitHub-Flavored Markdown)、KaTeX 以及 Mermaid 图。它与 VS Code 编辑器相同，因此内置了多光标、小地图和漂亮的语法高亮等功能。它采用分栏设计，同时还可以导入 Evernote 笔记。 | https://github.com/notable/notable |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
