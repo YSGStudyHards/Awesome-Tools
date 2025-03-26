@@ -117,6 +117,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | VuePress | VuePress 是一个以 Markdown 为中心的静态网站生成器。你可以使用 Markdown 来书写内容（如文档、博客等），然后 VuePress 会帮助你生成一个静态网站来展示它们。 | https://vuepress.vuejs.org/zh |
 |  |  |  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -162,6 +164,12 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | SQLiteStudio | SQLiteStudio一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
 | DB Browser for SQLite | DB Browser for SQLite是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
 | HeidiSQL | HeidiSQL 是一款免费的数据库管理工具，适用于与数据库打交道的开发人员和数据库管理员。它支持多种数据库系统，包括 MariaDB、MySQL、Microsoft SQL Server、PostgreSQL、SQLite、Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，使得用户能够方便地连接到数据库、编辑数据、管理数据库结构以及执行各种数据库操作。该工具目前只支持在 Windows 平台使用。 | https://www.heidisql.com |
+| Chat2DB | Chat2DB 是一个智能的通用SQL客户端和数据报表工具，它集成了AI的能力。Chat2DB可以帮助您更快地编写SQL查询、管理数据库、生成报告、探索数据、并且可以与多种数据库进行交互。支持多种10+数据库，包括MySQL、PostgreSQL、H2、Oracle、SQLServer、SQLite、MariaDB、ClickHouse、DM、Presto、DB2、OceanBase、Hive、KingBase、MongoDB、Redis、Snowflake等。 | https://github.com/CodePhiliaX/Chat2DB |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
