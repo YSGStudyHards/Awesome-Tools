@@ -320,9 +320,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 👩‍💻文件搜索工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Everything | 本地文件搜索的天花板。"Everything" 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。不像 Windows 内置搜索，"Everything" 默认显示电脑上每个文件和文件夹 (就如其名 "Everything")。您在搜索框输入的关键词将会筛选显示的文件和文件夹。 | https://www.voidtools.com/zh-cn/ |
-| Listary | Listary 是一款高效的文件搜索工具，它以极其轻量化的状态运行，能帮你快速查找本地的文件和应用程序。 | https://help.listary.com/zh-Hans/ |
-| AnyTXT Searcher |  AnyTXT Searcher是一款功能强大的本地全文搜索工具，旨在帮助用户快速定位并查找电脑中的各种文档和文本内容。它支持多种文件格式，包括TXT、DOC、PDF、Excel、PPT等，几乎涵盖了日常办公和学习中常见的所有文档类型。| https://anytxt.net/ |
+| Everything | Everything是一款高效、易用、功能强大的文件搜索工具。它以其即时的搜索响应、高效的索引机制、精准的匹配算法和简洁的用户界面赢得了广大用户的喜爱。无论是个人用户还是企业用户，都可以通过这款工具来提高文件管理的效率和准确性。 | https://www.voidtools.com/zh-cn/downloads |
+| Listary | Listary是一款高效的文件搜索工具，它以极其轻量化的状态运行，能帮你快速查找本地的文件和应用程序。与Everything不同，Listary不仅限于文件名的查找，还可以用于应用启动和联网搜索，适合那些希望提高整体工作效率的用户。 | https://www.listary.com/download |
+| AnyTXT Searcher |  AnyTXT Searcher是一款功能强大的本地全文搜索工具，旨在帮助用户快速定位并查找电脑中的各种文档和文本内容。它支持多种文件格式，包括TXT、DOC、PDF、Excel、PPT等，几乎涵盖了日常办公和学习中常见的所有文档类型。| https://anytxt.net/download |
+| DocFetcher  | DocFetcher是款开源、跨平台的全文搜索工具，它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、HTML等多种格式，适合学生、研究人员及文档管理者。 | https://docfetcher.sourceforge.io/zh/download.html |
+| Flow Launcher | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
