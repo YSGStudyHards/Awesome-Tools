@@ -52,6 +52,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [📲文件下载工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 - [🎹Docker管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#docker%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎃网络管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+- [🚀内网穿透工具]()
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -551,6 +552,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | NETworkManager | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。 | https://github.com/BornToBeRoot/NETworkManager |
 | WireShark | Wireshark是一款功能强大、灵活多样的网络分析工具，适用于网络故障排查、性能优化、安全监测和协议分析等多种场景。无论是网络管理员、开发人员还是安全专家，都可以利用Wireshark提供的强大功能来深入分析和理解网络流量。 | https://www.wireshark.org/download.html |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 🚀内网穿透工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| NSmartProxy | NSmartProxy是一款.NET开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
+| FastTunnel | FastTunnel是一个.NET开源、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+| linker | linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
 |  |  |  |
 |  |  |  |
 |  |  |  |
