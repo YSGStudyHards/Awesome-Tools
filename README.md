@@ -146,7 +146,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Notepads | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
 | Notepad Next | 是一个跨平台的 Notepad++ 重新实现工具。 | https://github.com/dail8859/NotepadNext |
 | notepad-- | 一个国产跨平台、轻量级的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare。 | https://gitee.com/cxasm/notepad-- |
-|  |  |  |
+| Notepad++ | Notepad++ 是一款开源免费、功能强大的代码、文本编辑器，专为程序员和开发人员设计，支持多种编程语言和自然语言。无论是编写代码、处理文本文件，还是进行快速编辑。虽然Notepad++本身提供了一些基本的功能，但通过安装插件，您可以将其功能进一步扩展，满足更复杂的编辑需求。 | https://github.com/notepad-plus-plus/notepad-plus-plus |
 |  |  |  |
 |  |  |  |
 
