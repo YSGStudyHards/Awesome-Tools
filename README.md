@@ -616,7 +616,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | ReSharper（付费） | ReSharper 是一个用于 Visual Studio 的强大插件，它为.NET开发者提供了许多功能，以提高编码效率、代码质量和开发体验。旨在帮助.NET开发者编写高质量、高效的代码，并提供了许多辅助工具来改进开发流程和减少常见的编码错误。（特别注意：电脑内存小的同学慎用，该插件十分占用电脑内存）！ | https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper |
 | CodeRush（免费） | CodeRush是用于Visual Studio 2022的功能强大且快速的代码创建、调试、导航、重构、分析和可视化工具（一个完全免费的能和ReSharper匹敌插件）。 | https://marketplace.visualstudio.com/items?itemName=DevExpress.CodeRushforVS2022 |
-| GitHub Copilot（付费） | GitHub Copilot 是一款AI辅助工具，帮助开发者更快速、智能地编写高质量代码（支持Python、JavaScript、TypeScript、Ruby、Go、C# 和 C++等多种语言）。 | https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs |
+| GitHub Copilot（每月有免费额度） | GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上（支持Python、JavaScript、TypeScript、Ruby、Go、C# 和 C++等多种语言）。 | https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs |
 | CodeGeeX（免费） | CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能（支持Python、Java、C#、C++/C、JavaScript、Go等多种语言）。 | https://marketplace.visualstudio.com/items?itemName=aminer.CodeGeeXVisualStudio |
 | CodeWhisperer（免费） | CodeWhisperer是亚⻢逊出品的一款基于机器学习的通用代码生成器，可实时提供代码建议。在编写代码时，它会自动根据我们现有的代码和注释生成建议。从单行代码建议到完整的函数，它可为我们提供各种大小和范围的个性化建议（支持Python、Java、C#、JavaScript、Typescript等15种编程语言）。 | https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.AWSToolkitforVisualStudio2022 |
 | Fitten Code（免费） | Fitten Code是由非十大模型驱动的AI编程助手，它可以自动生成代码，提升开发效率，帮您调试Bug，节省您的时间。还可以对话聊天，解决您编程碰到的问题（支持javascript, markdown, java, json, php, python, csharp, typescript, html, c, cpp, yaml, zig, go, ruby, css, kotlin, shell等80多种语言）。 | https://marketplace.visualstudio.com/items?itemName=FittenTech.fittencode |
@@ -642,9 +642,14 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | JavaScript Snippet Pack（免费） | 一个基于Atom片段的代码段包，可以让你在处理JavaScript时更加高效。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack |
 | Open in Visual Studio Code（免费） | 这个扩展适用于你在Visual Studio中打开了一个项目，但又想快速在Visual Studio Code中打开它的情况。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode |
 | FileEncoding（免费） | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://marketplace.visualstudio.com/items?itemName=genrwoody.FileEncoding |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Baidu Comate（免费） | Baidu Comate 由文心大模型 ERNIE-Code 提供技术支持，通过对百度多年积累的非涉密代码数据和 GitHub 头部公开代码数据进行训练，为您自动生成完整的、且更符合实际研发场景的代码行或整个代码块，帮助每一位开发者轻松完成研发任务。基于AI的智能代码生成让你的编码更快、更好、更简单（Baidu Comate 支持C#、C/C++、Java、Python、Go、JavaScript、TypeScript、Rust、PHP、Kotlin、ObjectC等100+主流编程语言。）！ | https://marketplace.visualstudio.com/items?itemName=BaiduComate.BaiduComate |
+| TONGYI Lingma 2022（免费） | 通义灵码，是一款基于通义大模型的智能编码辅助工具，提供行级/函数级实时续写、自然语言生成代码、单元测试生成、代码注释生成、代码解释、研发智能问答、异常报错排查等能力，并针对阿里云 SDK/API 的使用场景调优，为开发者带来高效、流畅的编码体验（支持 Java、Python、Go、C/C++、C#、JavaScript、TypeScript、PHP、Ruby、Rust、Scala 等 200 多种语言。）。 | https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.TONGYI-Lingma-2022 |
+| CodeBuddy | 腾讯云代码助手（Tencent Cloud CodeBuddy，以下简称 CodeBuddy），由腾讯云自研的一款开发编程提效辅助工具，基于腾讯混元 + DeepSeek 双轮模型驱动，构建对开发者友好，好用易用的代码助手，为开发者提供 AI 技术问答、Craft 软件编码智能体、智能代码补全、单元测试、智能评审、代码修复等 Agent 智能体拓展能力，兼容 MCP 开放生态，并可支持团队知识库管理、自定义智能体与指令管理、多模型接入、企业账号集成等功能，辅助开发者提升编码效率和质量，助力研发团队提质增效。 | https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot-vs |
+| REST API Client Code Generator for VS 2022（免费） | 一款针对Swagger/OpenAPI规范文件的Visual Studio C#自定义工具代码生成器集合。 | https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator2022 |
+| File Icons（免费） | File Icons 此扩展程序为Visual Studio中未提供图标的文件在“解决方案资源管理器”中添加文件图标。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons |
+| Git Extensions（免费） | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.VS2022 |
+| ILSpy 2022（免费） | ILSpy 反编译器的 Visual Studio 插件。 | https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy2022 |
+| VisualSVN for Visual Studio 2022（免费） | 针对 Studio 2022 的轻松且强大的Subversion（SVN）集成。您所需的一切功能，皆可与版本控制以及诸如交互式差异边距等高级功能无缝协作，从而提升您的工作效率。 | https://marketplace.visualstudio.com/items?itemName=VisualSVNLimited.VisualSVN-VS2022 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
