@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ysgstudyhards-awesome-tools-badge.png)](https://mseep.ai/app/ysgstudyhards-awesome-tools)
+
 
 ![](https://files.mdnice.com/user/16275/d23b1d81-d6a0-4fd4-b5de-769796502614.png)
 
