@@ -656,7 +656,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Git Extensions（免费） | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.VS2022 |
 | ILSpy 2022（免费） | ILSpy 反编译器的 Visual Studio 插件。 | https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy2022 |
 | VisualSVN for Visual Studio 2022（免费） | 针对 Studio 2022 的轻松且强大的Subversion（SVN）集成。您所需的一切功能，皆可与版本控制以及诸如交互式差异边距等高级功能无缝协作，从而提升您的工作效率。 | https://marketplace.visualstudio.com/items?itemName=VisualSVNLimited.VisualSVN-VS2022 |
-|  |  |  |
+| Git Diff Margin（免费） | Git Diff Margin 在 Visual Studio 的边缘和滚动条上显示当前编辑文件的实时 Git 更改。支持 Visual Studio 2012 至 Visual Studio 2022。 | https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin |
 |  |  |  |
 |  |  |  |
 |  |  |  |
