@@ -574,7 +574,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | NSmartProxy | NSmartProxy是一款.NET开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
 | FastTunnel | FastTunnel是一个.NET开源、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
 | linker | linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
-|  |  |  |
+| frp | frp 是一个完全开源、专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议，且支持 P2P 通信。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网。 | https://github.com/fatedier/frp |
 |  |  |  |
 |  |  |  |
 
