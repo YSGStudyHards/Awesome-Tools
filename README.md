@@ -671,7 +671,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🌟Visual Studio Code实用插件
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| Chinese (Simplified)  | 为 VS Code 提供简体中文的本地化用户界面体验。安装此语言包后，用户可以将VS Code的界面语言切换为中文（简体），从而更方便地使用这款编辑器。具体来说，它可以让菜单、工具栏、设置等界面元素以及错误提示、帮助文档等内容以中文显示，降低中文用户的使用门槛，提升使用体验。 | https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans |
+| Chinese (Simplified)  | 为 VS Code 提供简体中文的本地化用户界面体验。安装此语言包后，用户可以将VS Code的界面语言切换为中文（简体），从而更方便地使用这款编辑器。 | https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans |
 | C# Dev Kit | C# Dev Kit for Visual Studio Code（C# Dev Kit）是一个扩展工具，它为您的C#开发提供了一系列强大的功能和实用工具，以帮助您更高效地编写、调试和维护代码。它能够在Windows、macOS、Linux甚至Codespace等各种开发环境中使用，提升您的C#开发体验。 | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit |
 | C# for Visual Studio Code | 一个 Visual Studio Code扩展，为 C# 提供丰富的语言支持，并与 C# 开发工具包一起提供。此扩展由语言服务器协议 （LSP） 服务器提供支持，与 Roslyn 和 Razor 等开源组件集成，以提供丰富的类型信息和更快、更可靠的 C# 体验。 | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp |
 | vscode-icons | vscode-icons不仅能够给文件夹、文件添加上舒适的图标，而且可以自动检测项目，根据项目不同功能配上不同图标，例如，git、Markdown、配置项、工具类等。 | https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons |
