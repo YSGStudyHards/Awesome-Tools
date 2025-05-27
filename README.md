@@ -70,8 +70,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Baidu Comate | 基于文心大模型，结合百度编程大数据，为你生成优质编程代码。文心快码 - Baidu Comate，更懂你的AI编程伙伴，研发效率提升好帮手。 | https://comate.baidu.com/zh |
 | Cursor | Cursor 是一款由 AI 驱动的代码编辑器，通过代码库理解、预测性编辑、自然语言代码生成和与现有工具的无缝集成等高级功能，提升开发者的生产力。它结合了传统 IDE 的熟悉感与尖端 AI 能力，简化了编码过程。 | https://www.cursor.com/ |
 | CodeWhisperer | Amazon CodeWhisperer 使用您的 AI 编码配套应用程序更快、更安全地构建应用程序。 | https://aws.amazon.com/cn/pm/codewhisperer/ |
-|  |  |  |
-|  |  |  |
+| Fynix | Fynix 是一款 AI 编码助手，旨在直接集成到您的 IDE 中，帮助您更高效地编写、审查和交付代码。它解决了开发人员面临的常见挑战，例如耗时的代码审查、调试以及需要不断切换上下文等问题。Fynix 通过学习你的编码风格来提供智能建议、自动代码审查，甚至允许你使用自然语言与终端进行交互。 | https://www.fynix.ai |
+| CodeBuddy | CodeBuddy是一款辅助编码工具，基于混元代码大模型，提供技术对话、代码补全、代码诊断和优化等能力。为你生成优质代码，帮你解决技术难题，提升编码效率。 | https://copilot.tencent.com/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
