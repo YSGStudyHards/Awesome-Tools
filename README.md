@@ -22,6 +22,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🧩实用画图工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E7%94%BB%E5%9B%BE%E5%B7%A5%E5%85%B7)
 - [📚文档和知识库工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%A1%A3%E5%92%8C%E7%9F%A5%E8%AF%86%E5%BA%93%E5%B7%A5%E5%85%B7)
 - [🧀Markdown编辑器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#markdown%E7%BC%96%E8%BE%91%E5%99%A8)
+- [🚀GitHub加速工具]()
 - [🌌文本编辑器工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E5%B7%A5%E5%85%B7)
 - [👀数据库管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [📝数据库设计工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -141,6 +142,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 🚀GitHub加速工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| Watt Toolkit | 一款 C# 开源的、跨平台的GitHub加速神器，多功能 Steam 工具箱。 | 	https://github.com/BeyondDimension/SteamTools |
+| FastGithub | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotNetTreasury/FastGithub |
+| dev-sidecar | 一款开源免费实用加速工具，包含GitHub加速，git clone加速，git release下载加速，stackoverflow加速。 | https://github.com/docmirror/dev-sidecar |
+| 网易UU加速器 | 网易UU加速器，独家自研多项黑科技，提供“不止快，还很稳”的加速服务！为游戏玩家解决延迟、掉线、卡机，高ping等网络问题，有效提升网络稳定性，极致降低延迟。还提供UU云存档功能，解决steam等平台存档异地同步失败、上传失败等问题，一键备份、一键保存，操作方便。还能在UU存档市集中，与更多用户分享及下载存档，交流游戏进度。 | https://uu.163.com/ |
 |  |  |  |
 |  |  |  |
 
