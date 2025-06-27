@@ -317,8 +317,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | AnyViewer | 远程看看（AnyViewer）是一款安全，快速，易于使用的远程控制软件。 | https://www.anyviewer.cn |
 | 网易UU远程 | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，支持手机、平板、电脑、Mac、掌机远程控制电脑，不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验。 | https://uuyc.163.com |
 | mRemoteNG | mRemoteNG是一款基于 .NET 开源（GPL-2.0 license）、免费、功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、VNC、SSH 等多种主流协议、并且提供了标签式界面，用户可同时管理和切换多个远程连接。 | https://github.com/mRemoteNG/mRemoteNG |
-|  |  |  |
-|  |  |  |
+| BilldDesk | BilldDesk 是一款基于 Vue3 + WebRTC + Nodejs + Electron 搭建的远程桌面控制工具，旨在提供类似 ToDesk、向日葵等远程桌面软件的功能，同时保持开源、多端兼容和全能性的特点。 | https://github.com/galaxy-s10/billd-desk |
+| P2P | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
 |  |  |  |
 |  |  |  |
 |  |  |  |
