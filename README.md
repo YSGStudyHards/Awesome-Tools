@@ -563,7 +563,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Docker Desktop | Docker Desktop 是 Docker 公司提供的一款用于 Windows 、Mac和Linux 操作系统的桌面应用程序，它简化了在本地开发和部署应用程序的过程。通过 Docker Desktop，开发人员可以更轻松地创建、测试和运行容器化应用程序。 | https://www.docker.com/products/docker-desktop |
 | Portainer | Portainer是一款免费的容器管理平台，它提供了Web界面管理Docker容器、镜像、网络和数据卷等资源。Portainer支持多种Docker环境，包括Docker Swarm、Kubernetes和Docker单机模式。通过Portainer，用户可以方便地创建、启动、停止和删除容器、查看容器日志、进入容器终端、管理镜像等操作。| https://github.com/portainer/portainer |
 | Docker UI | DockerUI是一个易于使用且轻量级的Docker管理工具。通过Web界面的操作，可以更方便地让不熟悉Docker指令的用户更快地进入Docker世界。DockerUI覆盖了Docker CLI命令行的95％以上的命令功能。通过DockerUI界面提供的可视化操作功能，可以轻松执行Docker环境和Docker Swarm群集环境的管理和维护功能。 | https://github.com/gohutool/docker.ui |
-| DPanel | DPanel是一款开源、全中文界面、易于使用的 Docker 可视化管理面板，提供完善的管理容器的功能。 | https://github.com/donknap/dpanel |
+| DPanel | DPanel 是一个开源的 Docker 可视化面板系统，专为国人设计，提供全面且易于使用的 Docker 管理功能。它旨在简化 Docker 容器和镜像的管理流程，通过直观的界面让用户能够轻松监控、部署和操作 Docker 容器。DPanel 不仅具备基础的管理功能，还提供了诸多高级特性，以满足不同用户的需求。 | https://github.com/donknap/dpanel |
 |  |  |  |
 |  |  |  |
 
