@@ -135,13 +135,12 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MarkText | MarkText是一个基于MIT License完全开源免费的Markdown编辑器，支持Windows、macOS和Linux系统平台。它具有实时预览功能，支持数学表达式、代码高亮，并能够输出HTML和PDF文件。此外，MarkText还支持直接从剪贴板粘贴图像，让编辑过程更加简洁和优雅。无论您是写作、笔记还是进行技术文档撰写，MarkText都是一个功能强大且易于使用的工具。 | https://github.com/marktext/marktext |
 | Typora | Typora是一款好用极简收费的跨平台Markdown编辑器，软件使用这款软件能够帮助用户轻松将文本转换到HTML，软件从底层向上设计，软件支持markdown的标准语法，同时这款软件还支持动态预览功能，一键预览，让一切都变得如此干净、纯粹。 | https://www.typora.net/ |
-| DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
-| WeChat Markdown Editor | WeChat Markdown Editor是一款开源且高度简洁的微信 Markdown 编辑器，支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性。 | https://github.com/doocs/md |
+| WeChat Markdown Editor | WeChat Markdown Editor是一款开源（WTFPL license）且高度简洁的微信 Markdown 编辑器，编辑器支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性。Markdown 文档自动即时渲染为微信图文，让你不再为微信内容排版而发愁！ | https://github.com/doocs/md |
+| Markdown Nice | Markdown Nice是一款 Markdown 微信编辑器，拥有良好的兼容性、海量主题样式、免费的图床、强大的技术团队，提供文章一键排版，同时支持知乎、掘金、微信订阅号等多个平台。 | https://github.com/mdnice/markdown-nice |
+| MilkUp | MilkUp是一个桌面端 Markdown 编辑器，MilkUp提供了一个简单易用的界面，用于编辑 Markdown 文档。它的设计目标是为用户提供高效的 Markdown 操作体验，同时支持多种渲染和编辑功能。 | https://github.com/Auto-Plugin/milkup |
 | VNote | VNote是一个专注于Markdown的基于Qt的开源免费的笔记应用。VNote希望能提供一个拥有完美编辑体验的舒适的笔记平台。VNote 使用 C++ 开发，基于 Qt 5.9。它号称是更懂程序员和 Markdown 的笔记软件，虽然看上去并不十分美观，但它的功能很强大。它有 Vim 模式和一系列强大的快捷键、可以直接从剪切板插入图片、支持 Mermaid、 Flowchart.js、 MathJax、 PlantUML 和 Graphviz、强大的原地预览（图片、图表、公式）等功能，确实是一个很懂程序员的强大 Markdown 编辑器。 | https://github.com/vnotex/vnote |
 | Notable | Notable是一个使用 TypeScript 开发的 Markdown 编辑器。Notable 支持 GFM(GitHub-Flavored Markdown)、KaTeX 以及 Mermaid 图。它与 VS Code 编辑器相同，因此内置了多光标、小地图和漂亮的语法高亮等功能。它采用分栏设计，同时还可以导入 Evernote 笔记。 | https://github.com/notable/notable |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  |  |  |
 |  |  |  |
 
