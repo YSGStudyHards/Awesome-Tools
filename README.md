@@ -678,7 +678,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | VisualSVN for Visual Studio 2022（免费） | 针对 Studio 2022 的轻松且强大的Subversion（SVN）集成。您所需的一切功能，皆可与版本控制以及诸如交互式差异边距等高级功能无缝协作，从而提升您的工作效率。 | https://marketplace.visualstudio.com/items?itemName=VisualSVNLimited.VisualSVN-VS2022 |
 | Git Diff Margin（免费） | Git Diff Margin 在 Visual Studio 的边缘和滚动条上显示当前编辑文件的实时 Git 更改。支持 Visual Studio 2012 至 Visual Studio 2022。 | https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin |
 | EF Core Power Tools（免费） | EF Core Power Tools 是一款基于 C# 编写、开源免费（MIT license）、在 EF Core 命令行工具的基础上构建的适用于 Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件。它提供了反向工程、迁移和模型可视化、生成关系图、生成SQL语句等功能，旨在降低使用 EF Core 的门槛，并通过图形用户界面（GUI）辅助开发者进行数据库的反向工程和DbContext模型的可视化。 | https://github.com/ErikEJ/EFCorePowerTools |
-| AntDeploy | AntDeploy 是一款由 .NET 开源、实用的 Visual Studio 发布部署插件，支持部署 Docker、IIS、Windows 和 Linux 服务，同时支持 .NET Framework 和 .NET Core，支持回滚和增量部署，在支持 Visual Studio 2019 和 2022 中使用。 | https://github.com/yuzd/AntDeploy |
+| AntDeploy（免费） | AntDeploy 是一款由 .NET 开源、实用的 Visual Studio 发布部署插件，支持部署 Docker、IIS、Windows 和 Linux 服务，同时支持 .NET Framework 和 .NET Core，支持回滚和增量部署，在支持 Visual Studio 2019 和 2022 中使用。 | https://github.com/yuzd/AntDeploy |
 |  |  |  |
 |  |  |  |
 |  |  |  |
