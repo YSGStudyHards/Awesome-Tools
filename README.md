@@ -200,7 +200,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PowerDesigner | PowerDesigner是一款功能强大、易于使用、支持多种数据库和集成性好的建模工具，广泛应用于企业信息系统设计、软件开发和数据仓库设计等领域。 | https://www.powerdesigner.biz/EN/powerdesigner-resources/trial-download-167.html |
 | PDManer | PDManer元数建模，是一款多操作系统开源免费的桌面版关系数据库模型建模工具，相对于PowerDesigner，他具备界面简洁美观，操作简单，上手容易等特点。支持Windows,Mac,Linux等操作系统，也能够支持国产操作系统。 | https://gitee.com/robergroup/pdmaner |
 | drawDB | drawDB是一个开源、简单、直观、强大且用户友好的在线数据库设计工具和 SQL 生成器，支持多种数据库。只需点击几下即可构建图表，导出SQL脚本，可以自定义编辑器等，并且无需登录即可使用。 | https://github.com/drawdb-io/drawdb |
-|  |  |  |
+| dbdiagram | dbdiagram 是一款免费、简单、高效的在线图形化数据库设计工具，专为开发者和数据分析师设计。它可以通过输入 DSL（领域特定语言）代码来快速绘制数据库 ER 图。支持 MySQL、PostgreSQL、SQL Server 等多种数据库，支持 SQL 导入与导出（导出为 PDF/PNG/SVG）。 | https://dbdiagram.io/d |
 |  |  |  |
 |  |  |  |
 
