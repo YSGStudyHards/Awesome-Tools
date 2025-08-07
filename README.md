@@ -581,7 +581,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | NETworkManager | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。 | https://github.com/BornToBeRoot/NETworkManager |
 | WireShark | Wireshark是一款功能强大、灵活多样的网络分析工具，适用于网络故障排查、性能优化、安全监测和协议分析等多种场景。无论是网络管理员、开发人员还是安全专家，都可以利用Wireshark提供的强大功能来深入分析和理解网络流量。 | https://www.wireshark.org/download.html |
-|  |  |  |
+| Charles | Charles 是一款 HTTP 代理/HTTP 监控/反向代理工具，它能让开发者查看其计算机与互联网之间所有的 HTTP 和 SSL/HTTPS 流量。这包括请求、响应以及 HTTP 头信息（其中包含 cookie 和缓存信息）。 | https://www.charlesproxy.com |
+| james | james 是一个 HTTP 代理和监控工具，使开发者能够查看和拦截浏览器发出的请求。它是流行开发者工具 Charles 的一个开源替代品。 | https://github.com/james-proxy/james |
+| mitmproxy | mitmproxy 是一套工具，提供交互式、支持 SSL/TLS 的拦截代理，用于 HTTP/1、HTTP/2 和 WebSocket。 | https://www.mitmproxy.org/ |
+| Proxie | Proxie 是一款用于 macOS 的 HTTP 调试代理工具。 | https://proxie.app/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
