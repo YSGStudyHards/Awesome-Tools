@@ -453,13 +453,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🍇PDF管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| PDFPatcher | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
-| PDF24 Tools | 在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
+| PDFPatcher | PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。 | https://github.com/wmjordan/PDFPatcher |
+| PDF24 Tools | PDF24 Tools 是一个免费且易于使用的在线PDF工具，在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
 | PDF Arranger | PDF Arranger 是一款功能强大、易于使用的 PDF 文件整理工具，它提供了丰富的功能和直观的界面，能够满足用户在处理 PDF 文件时的各种需求。无论是合并、拆分、旋转、裁剪还是重新排列页面，PDF Arranger 都能够轻松胜任。 | https://github.com/pdfarranger/pdfarranger/releases |
 | Stirling-PDF | Stirling-PDF是一个功能强大的、本地托管的基于Web的PDF处理工具，它使用Docker技术。该工具使您能够对PDF文件执行各种操作，包括拆分、合并、转换、重新组织、添加图像、旋转、压缩等。作为一个本地托管的Web应用程序，Stirling-PDF已经发展出一套全面的功能，满足您对PDF的所有需求。 | https://github.com/Stirling-Tools/Stirling-PDF |
 | Caly | Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行。 | https://github.com/CalyPdf/Caly |
 | PDF闪电侠 | PDF闪电侠是一个在线的、功能强大、完全免费在线PDF综合操作和管理工具，提供50多种常用PDF功能。 | https://pdf.ognai.com/ |
-|  |  |  |
+| PDFgear | PDFgear 是一个免费 PDF 编辑软件和在线工具，支持编辑文本、合并文件、拆分页面、压缩体积、格式转换（如 PDF 转 Word、Excel、PPT）、添加注释和签名，也可以通过 AI 功能对 PDF 内容进行提问、总结和翻译。 | https://www.pdfgear.com/zh/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
