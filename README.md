@@ -102,7 +102,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Excalidraw | Excalidaw是一个开源的虚拟协作白板画图工具，可让你轻松绘制具有手绘感觉的图表，基于这个项目可以轻松定制属于你自己的白板、思维导图、原型草图设计、流程图工具等。 | https://github.com/excalidraw/excalidraw |
 | VisionOn | VisionOn是一个轻量在线图形工具，实现了Visio的大部分功能，满足流程图、电路图、平面制图、软件设计、工程管理、思维导图、结构化分析等各种图形绘制。 | https://pub.visionon.cn/ |
 | SimpleMindMap | SimpleMindMap是一个简单&强大的Web思维导图库和思维导图软件，基于思维导图库、Vue2.x、ElementUI 开发，支持操作电脑本地文件，可以当做一个在线版思维导图应用使用，也可以自部署和二次开发。 | https://github.com/wanglin2/mind-map |
-|  |  |  |
+| drawnix | drawnix 是一款开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。 | https://github.com/plait-board/drawnix |
 |  |  |  |
 |  |  |  |
 |  |  |  |
