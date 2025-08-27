@@ -54,6 +54,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎹Docker管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#docker%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎃网络管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🚀内网穿透工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%B7%A5%E5%85%B7)
+- [🧳堡垒机工具]()
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -601,6 +602,20 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | NSmartProxy | NSmartProxy 是一款 .NET 开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
 | FastTunnel | FastTunnel 是一个 .NET 开源（Apache License）、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
 | linker | linker 是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 🧳堡垒机工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| JumpServer | JumpServer是一个功能全面、部署方便、广受欢迎的开源堡垒机系统，适用于多种运维管理场景，能够帮助企业提高运维效率和保障系统安全。 | https://github.com/jumpserver/jumpserver |
+| OneTerm | OneTerm 是一款简单、轻量、灵活的企业级堡垒机，基于4A（Authen认证、Authorize授权、Account账号、Audit审计）合规标准设计和开发。它通过严格的访问控制和监控功能，确保系统的安全性和合规性。 | https://github.com/veops/oneterm |
+| Next Terminal | Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。 | https://github.com/dushixiang/next-terminal |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
