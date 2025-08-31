@@ -186,7 +186,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | SQLiteStudio | SQLiteStudio一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
 | DB Browser for SQLite | DB Browser for SQLite是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
 | Chat2DB | Chat2DB 是一个智能的通用SQL客户端和数据报表工具，它集成了AI的能力。Chat2DB可以帮助您更快地编写SQL查询、管理数据库、生成报告、探索数据、并且可以与多种数据库进行交互。支持多种10+数据库，包括MySQL、PostgreSQL、H2、Oracle、SQLServer、SQLite、MariaDB、ClickHouse、DM、Presto、DB2、OceanBase、Hive、KingBase、MongoDB、Redis、Snowflake等。 | https://github.com/CodePhiliaX/Chat2DB |
-|  |  |  |
+| HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -299,7 +299,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ModengTerm | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
 | FinalShell | FinalShell是一款功能强大的SSH客户端、服务器管理、远程桌面加速软件，支持Windows,macOS,Linux，专为系统管理员、开发人员和网络工程师设计，以满足他们在远程服务器和网络设备管理上的多样化需求。 | https://finalshell.net/ |
 | MobaXterm  | MobaXterm 是一个非常好的一站式服务器管理工具，对于多种协议的支持（比如SSH、Telnet、RDP、VNC、FTP、WSL等），让其不管是Linux、Windows还是VNC等，都可以在一个软件中进行操作管理，配合内置的SFTP文件管理和MobaTextEditor，可以让远程终端文件管理更加便捷。 | https://mobaxterm.mobatek.net/ |
-|  |  |  |
+| HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -574,7 +574,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DPanel | DPanel 是一款开源、轻量化的 Docker 可视化管理面板，原生的中文的界面，更适合中文环境使用。同时支持英文、日文等多种语言。安装简单，占用资源极低，更适合各种 Nas 设备、盒子以及小型服务器。面板以容器的方式运行，不需要特权，对宿主机没有依赖及侵入，安全可靠。面板提供了容器、Compose、镜像等容器管理的基础功能。支持管理容器内部文件，支持多种类型添加 Compose 项目。 | https://github.com/donknap/dpanel |
 | Docker UI | DockerUI 是一个易于使用且轻量级的Docker管理工具。通过Web界面的操作，可以更方便地让不熟悉Docker指令的用户更快地进入Docker世界。DockerUI覆盖了Docker CLI命令行的95％以上的命令功能。通过DockerUI界面提供的可视化操作功能，可以轻松执行Docker环境和Docker Swarm群集环境的管理和维护功能。 | https://github.com/gohutool/docker.ui |
 | Dockge | Dockge 是一个开源免费（MIT license）、易于使用且响应迅速的自托管 docker compose.yaml 堆栈型管理器。通过 Dockge 可以轻松的管理你的 compose.yaml 文件（创建、编辑、启动、停止、重启和删除），提供 compose.yaml 交互式编辑器、交互式网页终端等功能。 | https://github.com/louislam/dockge |
-|  |  |  |
+| HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 |  |  |  |
 |  |  |  |
 
