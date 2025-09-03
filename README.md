@@ -104,7 +104,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | VisionOn | VisionOn是一个轻量在线图形工具，实现了Visio的大部分功能，满足流程图、电路图、平面制图、软件设计、工程管理、思维导图、结构化分析等各种图形绘制。 | https://pub.visionon.cn/ |
 | SimpleMindMap | SimpleMindMap是一个简单&强大的Web思维导图库和思维导图软件，基于思维导图库、Vue2.x、ElementUI 开发，支持操作电脑本地文件，可以当做一个在线版思维导图应用使用，也可以自部署和二次开发。 | https://github.com/wanglin2/mind-map |
 | drawnix | drawnix 是一款开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。 | https://github.com/plait-board/drawnix |
-|  |  |  |
+| AmyMind | AmyMind 是一款AI驱动的思维导图工具，支持一键将文本、Markdown、PDF转为思维导图。AI助手帮你完善脑图内容，支持导出PPT、PDF、Word等多种格式。免费在线使用，让思维导图制作更简单。 | https://amymind.com/zh-cn |
 |  |  |  |
 |  |  |  |
 |  |  |  |
