@@ -78,6 +78,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -89,6 +90,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Rider  | JetBrains Rider 是一款一体化 IDE，适合使用整个 .NET 技术堆栈以及参与游戏开发的开发者。它的强大功能集允许您开发各种面向 .NET、ASP.NET Core、MAUI 等框架或 Unity、Unreal Engine 或 Godot 等游戏引擎的应用程序。 | https://www.jetbrains.com/zh-cn/rider/ |
 | IDEA | IntelliJ IDEA 是一个适用于 Java 和 Kotlin的集成开发环境 (IDE)，旨在最大限度地提高开发人员的工作效率。它通过提供整理的代码完成、静态代码分析和重构来为您完成日常和重复性任务，并让您专注于软件开发的光明面，不仅取得成果，而且成为一种愉快的体验。 | https://intellijidea.com.cn/discover-intellij-idea.html |
 | WebStorm | WebStorm是一款由JetBrains公司开发的集成开发环境（IDE），专为Web应用程序开发而设计。它以其强大的功能、智能的代码辅助以及高效的开发体验，赢得了广大JavaScript开发者的青睐，被誉为“Web前端开发神器”、“最强大的HTML5编辑器”以及“最智能的JavaScript IDE”。 | https://www.jetbrains.com/webstorm/ |
+| Lapce | Lapce 是一个用 Rust 编写的开源代码编辑器。通过利用原生 GUI 和 GPU 渲染，以及 Rust 提供的性能，Lapce 是目前最快的代码编辑器之一。  | https://github.com/lapce/lapce |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
