@@ -127,7 +127,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | docsify  | docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 .html 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 index.html 就可以开始编写文档并直接部署在 GitHub Pages。 | https://docsify.js.org/#/zh-cn |
 | SiYuan | 思源笔记是一款隐私优先的个人知识管理系统，支持细粒度块级引用和 Markdown 所见即所得。 | https://github.com/siyuan-note/siyuan/tree/master |
 | VuePress | VuePress 是一个以 Markdown 为中心的静态网站生成器。你可以使用 Markdown 来书写内容（如文档、博客等），然后 VuePress 会帮助你生成一个静态网站来展示它们。 | https://vuepress.vuejs.org/zh |
-|  |  |  |
+| PandaWiki | PandaWiki 是一款开源免费（AGPL-3.0 license）、由 AI 大模型驱动的开源知识库搭建系统，旨在帮助用户快速构建智能化的产品文档、技术文档、FAQ、博客系统等。通过借助大模型的力量，PandaWiki 提供了 AI 创作、AI 问答、AI 搜索等多种能力，极大地提升了知识库的建设效率和使用体验，并且支持与钉钉、飞书、企业微信等聊天工具集成，提供聊天机器人服务。 | https://github.com/chaitin/PandaWiki |
 |  |  |  |
 |  |  |  |
 |  |  |  |
