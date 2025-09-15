@@ -146,6 +146,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Notable | Notable是一个使用 TypeScript 开发的 Markdown 编辑器。Notable 支持 GFM(GitHub-Flavored Markdown)、KaTeX 以及 Mermaid 图。它与 VS Code 编辑器相同，因此内置了多光标、小地图和漂亮的语法高亮等功能。它采用分栏设计，同时还可以导入 Evernote 笔记。 | https://github.com/notable/notable |
 | DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 | 妙言 (MiaoYan)  | 妙言 (MiaoYan) 是一款开源免费、轻灵且安全的 Markdown 编辑器，由一位全栈软件开发工程师兼产品经理精心打造。妙言不仅继承了传统 Markdown 编辑器的简洁与高效，更在安全性、本地化使用、语法高亮、黑暗模式、源文件保存、国际化支持以及演示模式与 PPT 模式等方面进行了全面的创新与升级。 | https://github.com/tw93/MiaoYan |
+| NoteGen | 一款跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁。 | https://github.com/codexu/note-gen |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
