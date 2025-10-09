@@ -621,7 +621,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | JumpServer | JumpServer是一个功能全面、部署方便、广受欢迎的开源堡垒机系统，适用于多种运维管理场景，能够帮助企业提高运维效率和保障系统安全。 | https://github.com/jumpserver/jumpserver |
 | OneTerm | OneTerm 是一款简单、轻量、灵活的企业级堡垒机，基于4A（Authen认证、Authorize授权、Account账号、Audit审计）合规标准设计和开发。它通过严格的访问控制和监控功能，确保系统的安全性和合规性。 | https://github.com/veops/oneterm |
 | Next Terminal | Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。 | https://github.com/dushixiang/next-terminal |
-|  |  |  |
+| Teleport | Teleport 是一款简单易用的堡垒机系统，具有小巧、易用、易于集成的特点，支持RDP和SSH协议的跳转和管理。 | https://github.com/tp4a/teleport |
 |  |  |  |
 |  |  |  |
 |  |  |  |
