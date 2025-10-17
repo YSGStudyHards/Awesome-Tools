@@ -182,17 +182,17 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 👀数据库管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| DBeaver | DBeaver是一款免费的、开源、跨平台的数据库管理工具，支持多种数据库平台，包括 MySQL、PostgreSQL、Oracle、SQL Server、SQLite、Firebird、HSQLDB等。它提供了一个功能丰富的图形用户界面（GUI），使得数据库管理、查询、编辑变得更加直观和便捷。 | https://github.com/dbeaver/dbeaver |
-| HeidiSQL | HeidiSQL是一款免费、轻量级的数据库管理工具，适用于与数据库打交道的开发人员和数据库管理员。它支持多种数据库系统，包括 MariaDB、MySQL、Microsoft SQL Server、PostgreSQL、SQLite、Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，使得用户能够方便地连接到数据库、编辑数据、管理数据库结构以及执行各种数据库操作。该工具完整功能支持在 Windows 平台使用，Linux 平台正在开发中。 | https://www.heidisql.com/download.php |
-| JookDB | JookDB是一种免费通用、跨平台的数据库管理工具，可让你从单个应用程序同时连接到 MySQL、MariaDB、Oracle、PostgreSQL、SQLite、DB2、MongoDB、Redis、达梦、OceanBase、人大金仓、TiDB 和 SQLServer数据库。可以快速，轻松地构建，管理和维护数据库。 | https://jookdb.com/download.html |
+| DBeaver | DBeaver 是一款免费的、开源、跨平台的数据库管理工具，支持多种数据库平台，包括 MySQL、PostgreSQL、Oracle、SQL Server、SQLite、Firebird、HSQLDB等。它提供了一个功能丰富的图形用户界面（GUI），使得数据库管理、查询、编辑变得更加直观和便捷。 | https://github.com/dbeaver/dbeaver |
+| HeidiSQL | HeidiSQL 是一款免费、轻量级的数据库管理工具，适用于与数据库打交道的开发人员和数据库管理员。它支持多种数据库系统，包括 MariaDB、MySQL、Microsoft SQL Server、PostgreSQL、SQLite、Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，使得用户能够方便地连接到数据库、编辑数据、管理数据库结构以及执行各种数据库操作。该工具完整功能支持在 Windows 平台使用，Linux 平台正在开发中。 | https://www.heidisql.com/download.php |
+| JookDB | JookDB 是一种免费通用、跨平台的数据库管理工具，可让你从单个应用程序同时连接到 MySQL、MariaDB、Oracle、PostgreSQL、SQLite、DB2、MongoDB、Redis、达梦、OceanBase、人大金仓、TiDB 和 SQLServer数据库。可以快速，轻松地构建，管理和维护数据库。 | https://jookdb.com/download.html |
 | Navicat Premium Lite | Navicat Premium Lite 是 Navicat 的精简免费版本，支持跨平台使用，它包含了用户执行主要的基本数据库操作所需的核心功能。它允许你同时连接到各种数据库平台，包括 MySQL、PostgreSQL、SQL Server、Oracle、MariaDB，以及 Redis 和 MongoDB 等NoSQL 数据库，所有这些操作都可以通过一个应用程序来完成。 | https://www.navicat.com.cn/download/navicat-premium-lite |
-| DbGate | DbGate是一个开源、免费、跨平台的数据库管理器，支持多种数据库平台，包括 MySQL、PostgreSQL、SQL Server、Oracle、MongoDB、Redis、SQLite等。设计用于简化多数据库同时操作的复杂性，同时提供高级功能如模式比较、可视化查询设计器、图表可视化等。DbGate可作为Windows、Linux和Mac的应用程序运行，也可作为Docker容器在服务器上运行，或在客户端的Web浏览器中运行。 | https://github.com/dbgate/dbgate |
-| Beekeeper Studio | Beekeeper Studio是一款开源、免费、跨平台的 SQL 编辑器和数据库管理工具，适用于 Linux、Mac 和 Windows。支持多种数据库系统，包括 MySQL、PostgreSQL、SQLite、SQL Server 等。 | https://github.com/beekeeper-studio/beekeeper-studio |
+| DbGate | DbGate 是一个开源、免费、跨平台的数据库管理器，支持多种数据库平台，包括 MySQL、PostgreSQL、SQL Server、Oracle、MongoDB、Redis、SQLite等。设计用于简化多数据库同时操作的复杂性，同时提供高级功能如模式比较、可视化查询设计器、图表可视化等。DbGate可作为Windows、Linux和Mac的应用程序运行，也可作为Docker容器在服务器上运行，或在客户端的Web浏览器中运行。 | https://github.com/dbgate/dbgate |
+| Beekeeper Studio | Beekeeper Studio 是一款开源、免费、跨平台的 SQL 编辑器和数据库管理工具，适用于 Linux、Mac 和 Windows。支持多种数据库系统，包括 MySQL、PostgreSQL、SQLite、SQL Server 等。 | https://github.com/beekeeper-studio/beekeeper-studio |
 | Antares SQL | Antares SQL 是一个开源、跨平台的 SQL 客户端工具，旨在为用户提供简洁、易用且功能丰富的 SQL 查询和数据库管理体验。Antares SQL 支持多种常见的数据库系统，包括 MySQL、PostgreSQL、SQLite、Microsoft SQL Server 等，可以连接并管理这些不同类型的数据库。 | https://github.com/antares-sql/antares |
 | Navicat Premium | Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。 | https://navicat.com.cn/ |
 | Datagrip | DataGrip 是 JetBrains 推出的一款跨平台（在 Windows、macOS 和 Linux 上提供一致的体验）数据库 IDE，专为 SQL 开发与数据库管理而打造。它集智能代码补全、AI 辅助、Git 集成等强大功能于一身，支持多种关系型与 NoSQL 数据库，在简洁现代的界面中显著提升开发效率、保障查询准确性，并加速数据库操作流程。 | https://www.jetbrains.com/datagrip/ |
-| SQLiteStudio | SQLiteStudio一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
-| DB Browser for SQLite | DB Browser for SQLite是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
+| SQLiteStudio | SQLiteStudio 是一个免费、开源的、跨平台的SQLite数据库管理工具，使用C++编写，采用Qt框架。它提供了一个直观的界面，方便用户管理和操作SQLite数据库。 | https://github.com/pawelsalawa/sqlitestudio |
+| DB Browser for SQLite | DB Browser for SQLite 是一个高质量、可视化、开源的工具，用于创建、设计和编辑与SQLite兼容的数据库文件。它适用于想要创建、搜索和编辑数据库的用户和开发人员。DB Browser for SQLite使用熟悉的类电子表格界面，因此无需学习复杂的SQL命令。 | https://github.com/sqlitebrowser/sqlitebrowser |
 | Chat2DB | Chat2DB 是一个智能的通用SQL客户端和数据报表工具，它集成了AI的能力。Chat2DB可以帮助您更快地编写SQL查询、管理数据库、生成报告、探索数据、并且可以与多种数据库进行交互。支持多种10+数据库，包括MySQL、PostgreSQL、H2、Oracle、SQLServer、SQLite、MariaDB、ClickHouse、DM、Presto、DB2、OceanBase、Hive、KingBase、MongoDB、Redis、Snowflake等。 | https://github.com/CodePhiliaX/Chat2DB |
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 |  |  |  |
