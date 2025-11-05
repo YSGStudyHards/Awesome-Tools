@@ -288,7 +288,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Postcat  | Postcat 是一个强大的开源、跨平台（Windows、Mac、Linux、Browsers...）的 API 开发测试工具，支持 REST、Websocket 等协议（即将支持 GraphQL、gRPC、TCP、UDP），帮助你加速完成 API 开发和测试工作。 | https://docs.postcat.com/ |
 | Apikit | Apikit是面向研发团队的一站式API生产平台，支持 REST、Websocket、gRPC、TCP、UDP、SOAP等多种协议，提供从接口生成到接口管理，测试，接口运维监控和发布的全流程协同和工具支撑，Eolink Apikit可助力企业实现API规范化治理，并优化API研发流程，提高API性能和安全保障，提升企业研发效能。 | https://www.eolink.com/pc |
 | WebCurl  | WebCurl 是一个开源、极简的网页版 API 调试工具，旨在为开发者提供一个轻量级、无需安装的软件环境来测试和调试 HTTP 请求（一个文件搞定所有API测试需求、替代Postman的轻量级选择、数据本地化，安全无忧）。 | https://github.com/o8oo8o/WebCurl |
-|  |  |  |
+| Yaak | Yaak 是一个开源免费（MIT license）、快速、注重隐私的 API 客户端，支持 REST、GraphQL、SSE、WebSocket 和 gRPC——使用 Tauri、Rust 和 React 构建。 | https://github.com/mountain-loop/yaak |
 |  |  |  |
 |  |  |  |
 |  |  |  |
