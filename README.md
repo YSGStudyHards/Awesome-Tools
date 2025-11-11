@@ -128,7 +128,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | SiYuan | 思源笔记是一款隐私优先的个人知识管理系统，支持细粒度块级引用和 Markdown 所见即所得。 | https://github.com/siyuan-note/siyuan/tree/master |
 | VuePress | VuePress 是一个以 Markdown 为中心的静态网站生成器。你可以使用 Markdown 来书写内容（如文档、博客等），然后 VuePress 会帮助你生成一个静态网站来展示它们。 | https://vuepress.vuejs.org/zh |
 | PandaWiki | PandaWiki 是一款开源免费（AGPL-3.0 license）、由 AI 大模型驱动的开源知识库搭建系统，旨在帮助用户快速构建智能化的产品文档、技术文档、FAQ、博客系统等。通过借助大模型的力量，PandaWiki 提供了 AI 创作、AI 问答、AI 搜索等多种能力，极大地提升了知识库的建设效率和使用体验，并且支持与钉钉、飞书、企业微信等聊天工具集成，提供聊天机器人服务。 | https://github.com/chaitin/PandaWiki |
-|  |  |  |
+| Obsidian | Obsidian 是一款功能强大、高度可定制的本地优先（local-first）的知识管理和笔记软件，深受学生、研究人员、作家、开发者以及知识工作者的喜爱。它基于 Markdown 文件格式，所有笔记都以纯文本形式保存在你的本地设备上，确保数据完全由你掌控。 | https://obsidian.md/download |
+| 印象笔记 | 印象笔记是一款全球闻名的效率软件和知识管理工具。集笔记、思维导图、剪藏文章、待办任务、日程管理等强大功能于一身全平台支持，多设备间无缝同步。 | https://www.yinxiang.com/ |
+| Notion | Notion 是一款近年来风靡全球的一体化工作空间工具（All-in-One Workspace），集笔记、数据库、任务管理、知识库、协作办公甚至轻量级网站搭建于一体。它以模块化设计和高度可视化的界面，吸引了学生、个人创作者、初创团队到大型企业的广泛用户群体。 | https://www.notion.com/zh-cn/product/wikis |
 |  |  |  |
 |  |  |  |
 
@@ -147,7 +149,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DownmarkerWPF | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 | 妙言 (MiaoYan)  | 妙言 (MiaoYan) 是一款开源免费、轻灵且安全的 Markdown 编辑器，由一位全栈软件开发工程师兼产品经理精心打造。妙言不仅继承了传统 Markdown 编辑器的简洁与高效，更在安全性、本地化使用、语法高亮、黑暗模式、源文件保存、国际化支持以及演示模式与 PPT 模式等方面进行了全面的创新与升级。 | https://github.com/tw93/MiaoYan |
 | NoteGen | 一款跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁。 | https://github.com/codexu/note-gen |
-|  |  |  |
+| Obsidian | Obsidian 是一款功能强大、高度可定制的本地优先（local-first）的知识管理和笔记软件，深受学生、研究人员、作家、开发者以及知识工作者的喜爱。它基于 Markdown 文件格式，所有笔记都以纯文本形式保存在你的本地设备上，确保数据完全由你掌控。 | https://obsidian.md/download |
 |  |  |  |
 |  |  |  |
 |  |  |  |
