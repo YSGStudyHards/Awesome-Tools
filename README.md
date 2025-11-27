@@ -76,7 +76,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CodeBuddy | CodeBuddy是一款辅助编码工具，基于混元代码大模型，提供技术对话、代码补全、代码诊断和优化等能力。为你生成优质代码，帮你解决技术难题，提升编码效率。 | https://copilot.tencent.com/ |
 | Kiro | Kiro 是亚马逊推出的 AI IDE，帮助开发者从概念到开发高效交付。通过两大核心模式——Specs（规范）和Hooks（自动化触发器），简化开发流程。Specs 能将模糊需求拆解为具体的用户故事、设计文档和技术任务，让开发目标明确且可追溯；Hooks 通过事件驱动自动化，自动完成测试更新、文档刷新等重复性任务，提升开发效率并减少错误。 | https://kiro.dev/ |
 | Qoder | Qoder 是一个智能代理编程平台，专为真实软件开发而设计。提供最优AI模型、上下文感知补全、智能代码生成，让编程更高效。 | https://qoder.com/ |
-|  |  |  |
+| Gemini | Gemini 是由 Google DeepMind 开发的一系列大型人工智能模型，旨在实现多模态理解和生成能力。它于2023年12月首次发布，是谷歌在人工智能领域的重要战略产品，对标 OpenAI 的 GPT 系列、Anthropic 的 Claude 等先进模型。 | https://gemini.google.com |
 |  |  |  |
 |  |  |  |
 
