@@ -152,7 +152,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Obsidian | Obsidian 是一款功能强大、高度可定制的本地优先（local-first）的知识管理和笔记软件，深受学生、研究人员、作家、开发者以及知识工作者的喜爱。它基于 Markdown 文件格式，所有笔记都以纯文本形式保存在你的本地设备上，确保数据完全由你掌控。 | https://obsidian.md/download |
 | Arya | Arya 是一款基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。 | https://github.com/nicejade/markdown-online-editor |
 | Vditor | Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript 以及 Vue、React、Angular 和 Svelte 等框架。 | https://github.com/Vanessa219/vditor |
-|  |  |  |
+| Markdown Viewer | Markdown在线编辑器——免费实时预览Markdown。 | https://onlinenotepad101.org/markdown-editor  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -180,6 +180,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Notepad Next | 是一个跨平台的 Notepad++ 重新实现工具。 | https://github.com/dail8859/NotepadNext |
 | notepad-- | 一个国产跨平台、轻量级的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare。 | https://gitee.com/cxasm/notepad-- |
 | Notepad++ | Notepad++ 是一款开源免费、功能强大的代码、文本编辑器，专为程序员和开发人员设计，支持多种编程语言和自然语言。无论是编写代码、处理文本文件，还是进行快速编辑。虽然Notepad++本身提供了一些基本的功能，但通过安装插件，您可以将其功能进一步扩展，满足更复杂的编辑需求。 | https://github.com/notepad-plus-plus/notepad-plus-plus |
+|  在线记事本 | 轻松在线创建、编辑、保存和分享笔记 – 无需注册。| https://onlinenotepad101.org/zh |  
+|  Share Text | 在线创建、编辑和分享文本，使用安全链接和二维码——无需登录和注册。 | https://share-text.org/ |  
 |  |  |  |
 |  |  |  |
 
