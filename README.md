@@ -22,6 +22,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🧩实用画图工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E7%94%BB%E5%9B%BE%E5%B7%A5%E5%85%B7)
 - [📚文档和知识库工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%A1%A3%E5%92%8C%E7%9F%A5%E8%AF%86%E5%BA%93%E5%B7%A5%E5%85%B7)
 - [🧀Markdown编辑器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#markdown%E7%BC%96%E8%BE%91%E5%99%A8)
+- [⚡开发环境管理工具]()
 - [🚀GitHub加速工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
 - [🌌文本编辑器工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E5%B7%A5%E5%85%B7)
 - [👀数据库管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
@@ -154,6 +155,18 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Vditor | Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript 以及 Vue、React、Angular 和 Svelte 等框架。 | https://github.com/Vanessa219/vditor |
 | Markdown Viewer | Markdown在线编辑器——免费实时预览Markdown。 | https://onlinenotepad101.org/markdown-editor  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## ⚡开发环境管理工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| ServBay | ServBay 是一个为 Web 开发者精心打造的本地开发环境集成平台。它集成了您日常开发所需的各种工具和组件，例如多种编程语言（PHP, Node.js, Python, Go, Java, .NET, Ruby, Rust 等）、常用的 SQL数据库（MySQL, MariaDB, PostgreSQL, MongoDB 等）、NoSQL数据库（Redis, Memcached 等）、高性能 Web 服务器（Caddy, Nginx, Apache 等）、DNS 服务、邮件服务、SSL 证书服务以及AI/LLM（Ollama 等）。 | https://www.servbay.com/download |
+| FlyEnv | FlyEnv 是一款一体化全栈环境管理工具。帮助开发者快速设置本地开发环境。它通过 极速多版本切换、全栈技术支持 和 无缝跨平台体验，简化开发流程。无论你是使用 PHP、NodeJS、Java、Go 还是 Python，FlyEnv 都能通过一条命令集成所有必要工具，消除配置烦恼，让你专注于真正重要的事情——创造，而非调试。 | https://www.flyenv.com/zh/download.html |
 |  |  |  |
 |  |  |  |
 |  |  |  |
