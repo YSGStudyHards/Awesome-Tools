@@ -643,7 +643,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | OneTerm | OneTerm 是一款简单、轻量、灵活的企业级堡垒机，基于4A（Authen认证、Authorize授权、Account账号、Audit审计）合规标准设计和开发。它通过严格的访问控制和监控功能，确保系统的安全性和合规性。 | https://github.com/veops/oneterm |
 | Next Terminal | Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。 | https://github.com/dushixiang/next-terminal |
 | Teleport | Teleport 是一款简单易用的堡垒机系统，具有小巧、易用、易于集成的特点，支持RDP和SSH协议的跳转和管理。 | https://github.com/tp4a/teleport |
-|  |  |  |
+| orion-visor | 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。 | https://gitee.com/dromara/orion-visor |
 |  |  |  |
 |  |  |  |
 |  |  |  |
