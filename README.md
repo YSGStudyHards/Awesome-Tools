@@ -707,7 +707,6 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | HTML Snippet Pack（免费） | 它提供了一组预定义的 HTML 代码段（snippets），以帮助开发者更快速地编写 HTML 代码。这些代码段是预先定义的代码模板，可以通过简单的代码缩写触发，然后自动生成相应的 HTML 代码块，从而提高编写 HTML 的效率和准确性。 | https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack |
 | Ozcode（付费） | Ozcode 是一个用于 Visual Studio 的插件拓展，旨在优化和简化 C# 调试过程。它提供了一系列功能，可以帮助开发人员更快速地检测和解决代码中的错误，从而提高调试效率和开发生产力。这个插件拓展使调试变得更加直观和高效，有助于加速软件开发周期。 | https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode |
 | Live Share（免费） | 它的主要功能是支持实时协作开发，并让开发人员能够在他们最喜欢的开发工具中进行协作。 | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs |
-| Codist（免费） | 致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展，增强了语法高亮、快速信息（工具提示）、导航栏、滚动条、显示质量，并带来了自动更新的版本号、智能工具栏与高级编辑、代码分析和重构命令等。 | https://marketplace.visualstudio.com/items?itemName=wmj.Codist |
 | EF Core Power Tools（免费） | 其作用是增强Entity Framework Core（EF Core）的开发体验,旨在简化Entity Framework Core应用程序的开发和维护过程，提供可视化工具和分析功能，以加速数据库相关任务的完成。 | https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools |
 | Visual Assist（付费） | 一款提高C/C++和C#开发者生产力的工具，改进了与IDE相关的导航、重构、代码生成和编码辅助功能，同时提供了针对UE4的特定工具。 | https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist |
 | SQL Search（免费） | 加速SQL Server数据库开发，通过在Visual Studio中快速查找SQL对象。可快速搜索数据库中的SQL片段，并轻松导航到这些对象。这可以节省时间，提高团队的生产力，让您可以回到手头的任务。 | https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch |
