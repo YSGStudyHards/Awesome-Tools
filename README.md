@@ -154,7 +154,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Arya | Arya 是一款基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。 | https://github.com/nicejade/markdown-online-editor |
 | Vditor | Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript 以及 Vue、React、Angular 和 Svelte 等框架。 | https://github.com/Vanessa219/vditor |
 | Markdown Viewer | Markdown在线编辑器——免费实时预览Markdown。 | https://onlinenotepad101.org/markdown-editor  |
-|  |  |  |
+| bm.md | bm.md 是一款更好用的 Markdown 排版助手，一键适配微信公众号、网页与图片。 | https://github.com/miantiao-me/bm.md |
 |  |  |  |
 |  |  |  |
 |  |  |  |
