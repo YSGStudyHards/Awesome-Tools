@@ -78,6 +78,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Kiro | Kiro 是亚马逊推出的 AI IDE，帮助开发者从概念到开发高效交付。通过两大核心模式——Specs（规范）和Hooks（自动化触发器），简化开发流程。Specs 能将模糊需求拆解为具体的用户故事、设计文档和技术任务，让开发目标明确且可追溯；Hooks 通过事件驱动自动化，自动完成测试更新、文档刷新等重复性任务，提升开发效率并减少错误。 | https://kiro.dev/ |
 | Qoder | Qoder 是一个智能代理编程平台，专为真实软件开发而设计。提供最优AI模型、上下文感知补全、智能代码生成，让编程更高效。 | https://qoder.com/ |
 | Gemini | Gemini 是由 Google DeepMind 开发的一系列大型人工智能模型，旨在实现多模态理解和生成能力。它于2023年12月首次发布，是谷歌在人工智能领域的重要战略产品，对标 OpenAI 的 GPT 系列、Anthropic 的 Claude 等先进模型。 | https://gemini.google.com |
+| Claude Code | Claude Code 是 Anthropic 推出的一款智能编程代理（AI coding agent），可在命令行（CLI / terminal）中通过自然语言与开发者交互。它能够理解整个项目的上下文，支持代码编辑、调试、运行命令、执行 Git 操作等，旨在提升开发效率。 | https://code.claude.com/docs |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
