@@ -56,6 +56,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎃网络管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🚀内网穿透工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%B7%A5%E5%85%B7)
 - [🧳堡垒机工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%A0%A1%E5%9E%92%E6%9C%BA%E5%B7%A5%E5%85%B7)
+- [⚒Kafka管理工具]()
 - [☀Edge实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#edge%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [🌝Chrome实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#chrome%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 - [⭐Visual Studio实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
@@ -653,6 +654,20 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## ⚒Kafka管理工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| [KnowStreaming](https://github.com/didi/KnowStreaming) | Know Streaming是一套云原生的Kafka管控平台，脱胎于众多互联网内部多年的Kafka运营实践经验，专注于Kafka运维管控、监控告警、资源治理、多活容灾等核心场景。在用户体验、监控、运维管控上进行了平台化、可视化、智能化的建设，提供一系列特色的功能，极大地方便了用户和运维人员的日常使用，让普通运维人员都能成为Kafka专家。 | https://github.com/didi/KnowStreaming |
+| [Kafka-King](https://github.com/Bronya0/Kafka-King) | Kafka-King 是一款现代化、实用的 Kafka GUI 客户端，旨在通过直观的桌面界面简化 Apache Kafka 管理。作为一款跨平台应用程序，它为开发人员和管理员提供了强大的工具，可与 Kafka 集群交互，无需依赖命令行界面或基于 Web 的解决方案。 | https://github.com/Bronya0/Kafka-King |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
 
 ## ☀Edge实用插件
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
