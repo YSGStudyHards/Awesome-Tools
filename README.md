@@ -160,7 +160,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Vditor | Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript 以及 Vue、React、Angular 和 Svelte 等框架。 | https://github.com/Vanessa219/vditor |
 | Markdown Viewer | Markdown在线编辑器——免费实时预览Markdown。 | https://onlinenotepad101.org/markdown-editor  |
 | bm.md | bm.md 是一款更好用的 Markdown 排版助手，一键适配微信公众号、网页与图片。 | https://github.com/miantiao-me/bm.md |
-|  |  |  |
+| WeMD | WeMD 是一款开源免费、让你专注书写、告别格式烦恼的公众号编辑器。WeMD 内置了一套色彩语义保全算法，可在编辑器中预览微信公众号深色模式下的实际效果，还原度达 98% 以上。 | https://github.com/tenngoxars/WeMD |
 |  |  |  |
 |  |  |  |
 |  |  |  |
