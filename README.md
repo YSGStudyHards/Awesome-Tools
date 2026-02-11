@@ -137,6 +137,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Obsidian | Obsidian 是一款功能强大、高度可定制的本地优先（local-first）的知识管理和笔记软件，深受学生、研究人员、作家、开发者以及知识工作者的喜爱。它基于 Markdown 文件格式，所有笔记都以纯文本形式保存在你的本地设备上，确保数据完全由你掌控。 | https://obsidian.md/download |
 | 印象笔记 | 印象笔记是一款全球闻名的效率软件和知识管理工具。集笔记、思维导图、剪藏文章、待办任务、日程管理等强大功能于一身全平台支持，多设备间无缝同步。 | https://www.yinxiang.com/ |
 | Notion | Notion 是一款近年来风靡全球的一体化工作空间工具（All-in-One Workspace），集笔记、数据库、任务管理、知识库、协作办公甚至轻量级网站搭建于一体。它以模块化设计和高度可视化的界面，吸引了学生、个人创作者、初创团队到大型企业的广泛用户群体。 | https://www.notion.com/zh-cn/product/wikis |
+| ZeroNote（秒开笔记） | ZeroNote（秒开笔记）是一款面向知识工作者与开发者的轻量化笔记工具，强调“秒开、秒记、秒搜”的记录体验。支持本地优先、Markdown 组织、跨端同步与快速检索，适合用于灵感速记、项目资料沉淀和个人知识库管理。 | https://github.com/zeronote-app/zeronote |
 |  |  |  |
 |  |  |  |
 
