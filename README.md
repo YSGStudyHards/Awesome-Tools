@@ -11,6 +11,7 @@
 Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器，以下工具、软件排名不分先后（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 
 - [Awesome Tools，高效率工具详细介绍👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 > 欢迎关注作者公众号：**[追逐时光者](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect)**，更多高效实用效率工具等你来挖掘！
 
