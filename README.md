@@ -2,6 +2,9 @@
 ![](https://files.mdnice.com/user/16275/d23b1d81-d6a0-4fd4-b5de-769796502614.png)
 
 ## ✨前言
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
 在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。
 
 - **🚀Gitee加速访问：** https://gitee.com/ysgdaydayup/Awesome-Tools
