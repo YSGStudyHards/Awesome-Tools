@@ -621,6 +621,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ToolBox Pro 开发者工具箱 | 一款免费的在线开发者工具集合，包含PDF合并/拆分、图片压缩、二维码解码、密码生成器、UUID生成器、时间戳转换、YAML与JSON互转、SQL格式化、URL解析、Cron表达式生成、日期计算器、HTTP状态码参考、.gitignore生成器、调色板、Markdown表格生成器、Meta标签生成器、README生成器等20+实用工具，加上21合一的ToolBox Pro。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，开源免费。 | https://dingpeng29.github.io/ |
 | TimedSubs Subtitle Checker | 免费在线字幕检查工具，支持检查 SRT/VTT 字幕的时间码、重叠、行长、阅读速度和文件结构，适合字幕交付前快速校验。 | https://timedsubs.com/zh/tools/subtitle-checker |
 | TimedSubs Subtitle Converter | 免费在线字幕转换工具，支持 SRT 转 VTT、VTT 转 SRT，以及从 SRT/VTT 提取 TXT 文本；无需登录，文件在浏览器本地处理，不上传服务器。 | https://timedsubs.com/zh/tools/subtitle-converter |
+| gottrix | 免费的浏览器端文件工具箱，提供 500+ 款实用工具，涵盖 PDF 合并/拆分/压缩/OCR/签名、图片格式转换、音视频转换、数据格式转换及 3D 模型转换等，基于 WebAssembly 在浏览器本地运行，文件不上传服务器，首次访问后可离线使用，支持 25+ 种语言（含简繁中文、日语、韩语） | https://gottrix.app |
 | ToolGarden | 一站式在线工具箱：JSON处理、图片处理、PDF处理，文件合并等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh |
 | 捷帮工具站 | 捷帮工具站是一个免费在线工具集合，提供170+款实用工具，涵盖JSON格式化、Base64编解码、二维码生成、图片格式转换、密码生成器、Cron表达式解析、Chmod权限计算器等开发工具，以及文本处理、数据转换、SEO工具等，所有工具均在浏览器本地运行，数据不上传服务器，隐私安全。 | https://www.jiebang.site/ |
 | Typing Words GIF | 免费在线打字文字 GIF 生成工具，输入文字即可生成打字动画效果并导出为 GIF。无需注册，支持自定义字体、颜色、速度，适合用于 GitHub README、Discord 状态、Notion 页面等场景。 | https://typingwordsgif.com/ |
