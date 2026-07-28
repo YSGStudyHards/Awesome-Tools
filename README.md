@@ -625,6 +625,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 捷帮工具站 | 捷帮工具站是一个免费在线工具集合，提供170+款实用工具，涵盖JSON格式化、Base64编解码、二维码生成、图片格式转换、密码生成器、Cron表达式解析、Chmod权限计算器等开发工具，以及文本处理、数据转换、SEO工具等，所有工具均在浏览器本地运行，数据不上传服务器，隐私安全。 | https://www.jiebang.site/ |
 | Typing Words GIF | 免费在线打字文字 GIF 生成工具，输入文字即可生成打字动画效果并导出为 GIF。无需注册，支持自定义字体、颜色、速度，适合用于 GitHub README、Discord 状态、Notion 页面等场景。 | https://typingwordsgif.com/ |
 | Korelyy | Korelyy 是一个不断扩充的浏览器端在线工具集合，面向开发者、创作者和日常任务，涵盖图片编辑与转换、PDF 工具、二维码生成、文本处理、密码工具和开发者辅助工具。支持 6 种语言（英语、中文、西班牙语、法语、印地语、阿拉伯语），大部分工具在浏览器本地运行，无需注册。A growing collection of browser-based online tools for developers, creators and everyday tasks - image editing, PDF, QR codes, text processing and developer utilities. Available in 6 languages, most tools run locally in the browser, no signup required. | https://korelyy.com/en/ |
+| BarcodeGen | 免费在线条码生成器，支持 Code 128、EAN-13、UPC-A、QR Code、Data Matrix 等 35+ 种条码格式，支持批量生成和 PNG/SVG 下载，无需注册。 | https://www.barcodegen.net |
 |  |  |  |
 |  |  |  |
 |  |  |  |
