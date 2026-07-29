@@ -105,6 +105,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | WorkBuddy | WorkBuddy 是由腾讯推出的智能办公助手，它通过AI技术深度集成文档处理、数据分析、会议管理和自动化流程等核心功能，能够帮助用户快速总结文档、生成报告、整理会议纪要，并连接企业系统实现自然语言指令操作。其特点是深度融入腾讯文档、企业微信等生态，提供安全可靠的企业级服务，支持私有化部署，并针对中文办公场景进行优化，适合企业团队及职场人士提升效率、简化工作流程，实现智能协作与决策。 | [https://www.codebuddy.cn/fission](https://www.codebuddy.cn/fission/?inviteCode=aht9pm7xu85dklj) |
+| Orkas | Orkas 是一款开源、本地优先的 AI 团队桌面应用。Commander 将目标转成可执行计划，并协调专业 Agent 并行或串行完成研究、编程、数据分析、文档、演示和视频等复杂工作。 | [官网](https://orkas.ai/?source=gh_ysgtools) / [GitHub](https://github.com/Orkas-AI/Orkas) |
 | OpenClaw | OpenClaw 是一款本地优先、完全开源的新一代 AI 助手。它直接部署在你的 macOS、Windows 或 Linux 设备（及服务器）上，将大模型的智慧与您的操作系统深度融合。它不仅能理解上下文，更拥有长时记忆与系统级权限，能真正“动手”执行文件管理、数据抓取、应用操控等真实任务。OpenClaw 不是一个普通的聊天机器人，而是一个住在你电脑里的私人秘书，它能通过微信、WhatsApp、Telegram 等聊天软件接收指令，帮你发邮件、查日历、打开浏览器、运行命令，甚至 24 小时自动做事！ | https://github.com/openclaw/openclaw |
 | Hermes Agent | Hermes Agent 是一款由 Nous Research 开发的开源（MIT license）免费的自托管 AI 智能体框架，与其他 AI 助手工具不同，Hermes Agent 具备真正的自我进化能力它能在与你的每次对话中自动学习、提炼技能、更新记忆，让智能体随使用时间持续成长。 | https://github.com/NousResearch/hermes-agent |
 | openilink-hub | 基于微信官方 iLink 协议的开源消息管理平台。接入 Claude/ChatGPT/Gemini 自动回复，微信号变 AI 助手。应用市场一键装功能：飞书（34 个 AI Tools）、Slack（23 个）、Discord（19 个）、钉钉（20 个）、企业微信（18 个）、Google Workspace（40+）、Notion 多平台互通。还能查股票、生成图片、AI 对话，20+ 命令不写代码。一行命令安装，内置 SQLite 零配置，7 种语言 SDK，MIT 开源。 | https://github.com/openilink/openilink-hub |
@@ -621,11 +622,14 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ToolBox Pro 开发者工具箱 | 一款免费的在线开发者工具集合，包含PDF合并/拆分、图片压缩、二维码解码、密码生成器、UUID生成器、时间戳转换、YAML与JSON互转、SQL格式化、URL解析、Cron表达式生成、日期计算器、HTTP状态码参考、.gitignore生成器、调色板、Markdown表格生成器、Meta标签生成器、README生成器等20+实用工具，加上21合一的ToolBox Pro。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，开源免费。 | https://dingpeng29.github.io/ |
 | TimedSubs Subtitle Checker | 免费在线字幕检查工具，支持检查 SRT/VTT 字幕的时间码、重叠、行长、阅读速度和文件结构，适合字幕交付前快速校验。 | https://timedsubs.com/zh/tools/subtitle-checker |
 | TimedSubs Subtitle Converter | 免费在线字幕转换工具，支持 SRT 转 VTT、VTT 转 SRT，以及从 SRT/VTT 提取 TXT 文本；无需登录，文件在浏览器本地处理，不上传服务器。 | https://timedsubs.com/zh/tools/subtitle-converter |
+| gottrix | 免费的浏览器端文件工具箱，提供 500+ 款实用工具，涵盖 PDF 合并/拆分/压缩/OCR/签名、图片格式转换、音视频转换、数据格式转换及 3D 模型转换等，基于 WebAssembly 在浏览器本地运行，文件不上传服务器，首次访问后可离线使用，支持 25+ 种语言（含简繁中文、日语、韩语） | https://gottrix.app |
 | ToolGarden | 一站式在线工具箱：JSON处理、图片处理、PDF处理，文件合并等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh |
 | 捷帮工具站 | 捷帮工具站是一个免费在线工具集合，提供170+款实用工具，涵盖JSON格式化、Base64编解码、二维码生成、图片格式转换、密码生成器、Cron表达式解析、Chmod权限计算器等开发工具，以及文本处理、数据转换、SEO工具等，所有工具均在浏览器本地运行，数据不上传服务器，隐私安全。 | https://www.jiebang.site/ |
 | Typing Words GIF | 免费在线打字文字 GIF 生成工具，输入文字即可生成打字动画效果并导出为 GIF。无需注册，支持自定义字体、颜色、速度，适合用于 GitHub README、Discord 状态、Notion 页面等场景。 | https://typingwordsgif.com/ |
 | Korelyy | Korelyy 是一个不断扩充的浏览器端在线工具集合，面向开发者、创作者和日常任务，涵盖图片编辑与转换、PDF 工具、二维码生成、文本处理、密码工具和开发者辅助工具。支持 6 种语言（英语、中文、西班牙语、法语、印地语、阿拉伯语），大部分工具在浏览器本地运行，无需注册。A growing collection of browser-based online tools for developers, creators and everyday tasks - image editing, PDF, QR codes, text processing and developer utilities. Available in 6 languages, most tools run locally in the browser, no signup required. | https://korelyy.com/en/ |
 | BarcodeGen | 免费在线条码生成器，支持 Code 128、EAN-13、UPC-A、QR Code、Data Matrix 等 35+ 种条码格式，支持批量生成和 PNG/SVG 下载，无需注册。 | https://www.barcodegen.net |
+| All Tools Verse | 一个包含 1,000 多款免费浏览器工具的在线合集，涵盖开发、文件、图像、文本、数据转换、计算和日常任务。无需注册即可使用。A collection of 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. | https://alltoolsverse.com/ |
+| WizGenerator | 免费在线生成工具集合，覆盖名称、写作、创意、营销和实用生成器；无需注册，可直接进入具体工具页面使用。 | https://wizgenerator.com/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
