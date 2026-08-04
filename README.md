@@ -112,6 +112,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | lifeos-cli | 终端原生的个人操作系统，涵盖任务、笔记、习惯追踪和时间审计。特别针对 AI Agent 的操作进行了优化，支持通过命令行与 Agent 深度协作，实现意图与现实的闭环。 | https://github.com/liujuanjuan1984/lifeos-cli |
 | CCHub | CCHub 是一个面向 Claude Code / Codex / Gemini 命令行工具生态系统的桌面控制面板。通过单一的 Tauri 应用程序（支持 Windows / macOS / Linux 系统），您可以集中管理 MCP 服务器、配置文件、智能体技能、CLAUDE.md 文档、钩子函数以及工作流模板。 | https://github.com/Moresl/cchub |
 | igly.ai | igly.ai 是一款免费的AI图像编辑平台，提供一键抠图（背景移除）、AI智能修复（Inpainting）、图像超分辨率放大、生成式填充等功能。特别适合电商产品摄影、社交媒体图片处理等场景。[Demo演示](https://www.youtube.com/watch?v=HB2E1WZ12is) | https://igly.ai |
+| Rao Edits | Rao Edits 是一款 AI 图像生成与照片编辑平台，支持通过文本提示创建和编辑图片，适用于创意设计、社交媒体内容和 CapCut 模板等场景。 | https://raoedits.top/ |
 | nika | nika 是一款用 Rust 编写的开源（AGPL）AI 工作流引擎：用 .nika.yaml 声明式描述工作流 DAG，执行前进行静态检查（schema 校验、权限控制、成本预估），执行后生成防篡改的执行轨迹，便于审计与复现。本地优先，支持 Ollama、llama.cpp、vLLM 等本地模型及离线 mock（零密钥可跑），同时内置 MCP 客户端与服务端，通过 infer/exec/invoke/agent 四个动词把重复的 AI 任务固化为可靠、可审计的工作流。 | https://github.com/supernovae-st/nika |
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
