@@ -71,6 +71,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🌟Visual Studio Code实用插件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#visual-studio-code%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6)
 
 ## 💥AI辅助编程工具
+- [FreePNGConvert](https://freepngconvert.com) - Free online image converter supporting WebP/GIF/JPG to PNG, PNG to JPG/WEBP/PDF. Browser-based, no upload required.
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Trae | Trae 是字节跳动推出的新一代 AI 开发编程助手，旨在提升中文开发者的开发效率。深度集成 Doubao-1.5-pro 与 DeepSeek模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复BUG。首创Builder模式实现需求到代码的自动化开发，兼容Windows/macOS系统，灵活集成于你的本地 IDE 中，符合原有开发习惯，为开发者学习、工作、开发、创造全流程场景。 | https://www.trae.cn |
