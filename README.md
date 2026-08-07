@@ -141,6 +141,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MoneyPrinterTurbo | MoneyPrinterTurbo 是一个开源并且只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 | https://github.com/harry0703/MoneyPrinterTurbo |
 | CreateFaceless | CreateFaceless 是一款 AI 不出镜 YouTube Shorts 一键生成工具，可自动完成脚本、画面、配音、字幕、封面、YouTube 元数据和 MP4 成片，无需剪辑经验。 | https://createfaceless.com/en |
+| Cloud Clipboard 短剧 Agent (cv.cm) | Cloud Clipboard 短剧 Agent 支持一句话生成分镜大纲、概念图与成片，覆盖 AI 视频/图片生成与多镜头一致性，适合短剧与短视频创作。 | https://cv.cm/v/agent |
 |  |  |  |
 |  |  |  |
 |  |  |  |
