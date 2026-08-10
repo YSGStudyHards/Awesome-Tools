@@ -92,7 +92,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | codex-profiles | codex-profiles 是一个无依赖的 Bash 工具，可通过独立的 CODEX_HOME 切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口；不会复制或读取认证令牌。 | https://github.com/Ducksss/codex-profiles |
 | Huiyu-Pi | Huiyu-Pi 是一款本地优先的 AI 编程助手，提供纯浏览器 Web UI。核心优势：~80 tokens 系统提示（接近零上下文）、~0.3s 首字响应、成本降低 90%+。支持 Claude、GPT、DeepSeek、Gemini 等多种 LLM 一键切换。内置文件浏览器、Monaco 代码编辑器、xterm 终端、Git 集成。一行命令启动（npx pi-forge），完全本地部署，MIT 开源免费。 | https://github.com/huiyu9144/Huiyu-Pi |
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
-| Agent Island | Agent Island 是一款开源免费的 AI 编程状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态收进 Mac 刘海或 Windows 菜单栏：谁在跑、谁卡住了、谁在等你回话，一眼可见，轮到你时会主动提醒。额度与费用全部在本机计算，不需要注册账号，会话数据不上传。支持 macOS 与 Windows，MIT 协议开源。 | https://github.com/tristan666666/agent-island |
+| Agent Island | Agent Island 是一款开源免费的 AI 编程状态伴侣，把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态收进 Mac 刘海或 Windows 菜单栏：谁在跑、谁卡住了、谁在等你回话，一眼可见，轮到你时会主动提醒。额度与费用全部在本机计算，不需要注册账号，会话数据不上传。支持 macOS 与 Windows，MIT 协议开源。 | https://github.com/tristan666666/agent-island |
 |  |  |  |
 |  |  |  |
 |  |  |  |
