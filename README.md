@@ -418,6 +418,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | MobaXterm  | MobaXterm 是一个非常好的一站式服务器管理工具，对于多种协议的支持（比如SSH、Telnet、RDP、VNC、FTP、WSL等），让其不管是Linux、Windows还是VNC等，都可以在一个软件中进行操作管理，配合内置的SFTP文件管理和MobaTextEditor，可以让远程终端文件管理更加便捷。 | https://mobaxterm.mobatek.net/ |
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 | WindTerm | 一款专业的跨平台 SSH/Sftp/Shell/Telnet/Tmux/串口终端。 | https://github.com/kingToolbox/WindTerm |
+| Nexus Shell | Nexus Shell 是一款面向 Apple Silicon 的原生 macOS SSH 客户端，集成多标签终端、双栏 SFTP、SSH 密钥管理、服务器监控与 Docker 管理，并提供可选的本地 AI Agent 桥接能力。 | https://nexusshell.app/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
