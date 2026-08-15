@@ -105,6 +105,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🤖AI实用效率工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| AI Dictation | AI Dictation 是一款采用 MIT 许可证的开源语音输入和语音转文字应用，支持 macOS、Windows、iPhone、iPad 和 Android；在受支持的设备上可使用离线语音识别，并可选择云端转录和文本整理。 | [官网](https://aidictation.com) / [GitHub](https://github.com/writingmate/aidictation) |
 | WorkBuddy | WorkBuddy 是由腾讯推出的智能办公助手，它通过AI技术深度集成文档处理、数据分析、会议管理和自动化流程等核心功能，能够帮助用户快速总结文档、生成报告、整理会议纪要，并连接企业系统实现自然语言指令操作。其特点是深度融入腾讯文档、企业微信等生态，提供安全可靠的企业级服务，支持私有化部署，并针对中文办公场景进行优化，适合企业团队及职场人士提升效率、简化工作流程，实现智能协作与决策。 | [https://www.codebuddy.cn/fission](https://www.codebuddy.cn/fission/?inviteCode=aht9pm7xu85dklj) |
 | OpenClaw | OpenClaw 是一款本地优先、完全开源的新一代 AI 助手。它直接部署在你的 macOS、Windows 或 Linux 设备（及服务器）上，将大模型的智慧与您的操作系统深度融合。它不仅能理解上下文，更拥有长时记忆与系统级权限，能真正“动手”执行文件管理、数据抓取、应用操控等真实任务。OpenClaw 不是一个普通的聊天机器人，而是一个住在你电脑里的私人秘书，它能通过微信、WhatsApp、Telegram 等聊天软件接收指令，帮你发邮件、查日历、打开浏览器、运行命令，甚至 24 小时自动做事！ | https://github.com/openclaw/openclaw |
 | Hermes Agent | Hermes Agent 是一款由 Nous Research 开发的开源（MIT license）免费的自托管 AI 智能体框架，与其他 AI 助手工具不同，Hermes Agent 具备真正的自我进化能力它能在与你的每次对话中自动学习、提炼技能、更新记忆，让智能体随使用时间持续成长。 | https://github.com/NousResearch/hermes-agent |
