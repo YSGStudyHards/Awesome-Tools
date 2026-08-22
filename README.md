@@ -293,7 +293,6 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | DBeaver | DBeaver 是一款免费的、开源、跨平台的数据库管理工具，支持多种数据库平台，包括 MySQL、PostgreSQL、Oracle、SQL Server、SQLite、Firebird、HSQLDB等。它提供了一个功能丰富的图形用户界面（GUI），使得数据库管理、查询、编辑变得更加直观和便捷。 | https://github.com/dbeaver/dbeaver |
-| DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
 | HeidiSQL | HeidiSQL 是一款免费、轻量级的数据库管理工具，适用于与数据库打交道的开发人员和数据库管理员。它支持多种数据库系统，包括 MariaDB、MySQL、Microsoft SQL Server、PostgreSQL、SQLite、Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，使得用户能够方便地连接到数据库、编辑数据、管理数据库结构以及执行各种数据库操作。该工具完整功能支持在 Windows 平台使用，Linux 平台正在开发中。 | https://www.heidisql.com/download.php |
 | JookDB | JookDB 是一种免费通用、跨平台的数据库管理工具，可让你从单个应用程序同时连接到 MySQL、MariaDB、Oracle、PostgreSQL、SQLite、DB2、MongoDB、Redis、达梦、OceanBase、人大金仓、TiDB 和 SQLServer数据库。可以快速，轻松地构建，管理和维护数据库。 | https://jookdb.com/download.html |
 | Navicat Premium Lite | Navicat Premium Lite 是 Navicat 的精简免费版本，支持跨平台使用，它包含了用户执行主要的基本数据库操作所需的核心功能。它允许你同时连接到各种数据库平台，包括 MySQL、PostgreSQL、SQL Server、Oracle、MariaDB，以及 Redis 和 MongoDB 等NoSQL 数据库，所有这些操作都可以通过一个应用程序来完成。 | https://www.navicat.com.cn/download/navicat-premium-lite |
@@ -308,6 +307,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 | GoNavi | GoNavi 是一款现代化、轻量级、高性能的跨平台数据库客户端工具，采用 Wails (Go + WebView) 构建，提供原生应用般的响应速度和低资源占用。 | https://github.com/Syngnat/GoNavi |
 | DBX | DBX 是一款基于 Rust 开发的极致轻量级（仅约15MB）开源跨平台数据库管理工具，支持 50+ 种主流数据库（MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server、Oracle、Elasticsearch、MariaDB、TiDB、OceanBase、openGauss、GaussDB、KWDB、KingBase、Vastbase、GoldenDB、Doris、SelectDB、StarRocks、Manticore Search、Redshift等），并原生集成了 AI 助手与 MCP 协议。 | https://github.com/t8y2/dbx |
+| DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
 |  |  |  |
 |  |  |  |
 |  |  |  |
