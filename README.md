@@ -117,7 +117,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | nika | nika 是一款用 Rust 编写的开源（AGPL）AI 工作流引擎：用 .nika.yaml 声明式描述工作流 DAG，执行前进行静态检查（schema 校验、权限控制、成本预估），执行后生成防篡改的执行轨迹，便于审计与复现。本地优先，支持 Ollama、llama.cpp、vLLM 等本地模型及离线 mock（零密钥可跑），同时内置 MCP 客户端与服务端，通过 infer/exec/invoke/agent 四个动词把重复的 AI 任务固化为可靠、可审计的工作流。 | https://github.com/supernovae-st/nika |
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
-|  |  |  |
+| BrandQuill | BrandQuill 是一款在浏览器本地运行的 AI 文档发布工具，可将 ChatGPT、Claude、Gemini 和 Copilot 生成的结构化内容套用到用户自己的 Word 模板中并导出 DOCX。它还提供免费的 ChatGPT 转 Word 模板、DOCX 样式检查器和 AI 政策检查器，文档处理无需上传到服务器。 | https://brandquill.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=ysg_awesome_tools_ai_productivity |
 |  |  |  |
 |  |  |  |
 |  |  |  |
