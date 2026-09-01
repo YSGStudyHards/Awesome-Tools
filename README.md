@@ -819,6 +819,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | FreePNGConvert | 免费在线WebP转PNG转换器。无需上传到服务器，所有图片处理在浏览器本地完成，保护隐私。快速、免费、无限次使用。 | https://freepngconvert.com |
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
 | ToolGarden-Image | 一站式图片处理工具：图片压缩、合并、编辑、裁剪、尺寸修改、格式转换、OCR识别、抠图去背景、证件照制作、去水印、加水印等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/image |
+| Nutilz HEIC to PNG | 免费在线 HEIC 转 PNG 工具，一键将 iPhone 拍摄的 HEIC/HEIF 照片转换为通用的 PNG 格式，无需安装软件、无需注册，浏览器直接处理。 | https://nutilz.com/heic-to-png |
 |  |  |  |
 |  |  |  |
 |  |  |  |
