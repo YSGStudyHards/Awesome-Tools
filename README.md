@@ -117,6 +117,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | nika | nika 是一款用 Rust 编写的开源（AGPL）AI 工作流引擎：用 .nika.yaml 声明式描述工作流 DAG，执行前进行静态检查（schema 校验、权限控制、成本预估），执行后生成防篡改的执行轨迹，便于审计与复现。本地优先，支持 Ollama、llama.cpp、vLLM 等本地模型及离线 mock（零密钥可跑），同时内置 MCP 客户端与服务端，通过 infer/exec/invoke/agent 四个动词把重复的 AI 任务固化为可靠、可审计的工作流。 | https://github.com/supernovae-st/nika |
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
+| Agent QA | Agent QA 是一款采用 FSL-1.1-ALv2 许可证、源代码可用的智能 QA 工具，可通过自然语言编写并运行 Web 和移动端测试，并利用执行记忆适应 UI 变化。在许可范围内软件本身不收费，但用户配置的模型、浏览器或设备服务可能另行收费。 | https://github.com/vostride/agent-qa |
 |  |  |  |
 |  |  |  |
 |  |  |  |
