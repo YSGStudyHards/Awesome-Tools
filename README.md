@@ -638,6 +638,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | All Tools Verse | 一个包含 1,000 多款免费浏览器工具的在线合集，涵盖开发、文件、图像、文本、数据转换、计算和日常任务。无需注册即可使用。A collection of 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. | https://alltoolsverse.com/ |
 | WizGenerator | 免费在线生成工具集合，覆盖名称、写作、创意、营销和实用生成器；无需注册，可直接进入具体工具页面使用。 | https://wizgenerator.com/ |
 | Mydentify llms.txt Generator and Validator | 免费的浏览器端 llms.txt 生成和检查工具，可创建符合提议格式的文件，或检查现有内容的标题、摘要、分区和绝对链接；无需注册。 | https://mydentify.com/tools/llms-txt-generator-validator |
+| A Box of Tools | 免费的浏览器端工具箱，30 多款工具，一个工具只干一件事：图片（压到指定大小、缩放、HEIC 转 JPG、清 EXIF、转 ICO 图标、打码）、视频与动画（裁剪、剪辑、倒放、截帧、转 GIF、延时摄影）、文档与音频（PDF 合并/压缩/涂黑、图片转 PDF、DICOM 查看、音频剪辑）、文本与编码（JSON 格式化、文本对比、Base64 编解码、哈希校验、二维码与条码读写、密码生成）。全程在你自己的浏览器里跑，文件不上传服务器，也不用注册；每个工具都能装成 PWA 离线使用。支持 15 种语言（含简体、繁体中文），开源（MIT）。 | https://abox.tools/zh/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
