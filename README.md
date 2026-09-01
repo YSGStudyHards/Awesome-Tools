@@ -715,7 +715,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | LocalSend | LocalSend是一款功能强大、易于使用的局域网文件传输工具。它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，都可以通过LocalSend实现高效、便捷和安全的文件传输。 | https://github.com/localsend/localsend |
 | FreeFileSync | FreeFileSync是一款功能强大且易于使用的文件夹比较和同步软件，它能够在Windows系统下轻松实现与远程主机的文件同步。同时支持 Windows、Linux、mac多个平台。 | https://freefilesync.org |
-|  |  |  |
+| FileShipper | FileShipper 是一款局域网文件互传工具（支持 Windows、macOS），无需云端、无需账号，手机端也无需安装任何 App。同一 Wi-Fi 下运行 FileShipper 的电脑会自动出现在类似 AirDrop 的雷达界面上，点击即可选文件发送；手机扫描二维码即可通过浏览器网页与电脑双向收发文件。传输在设备之间直连完成，不经过任何服务器，大文件也快速且私密。支持 PIN 码保护、公共文件池共享、自定义接收目录，切换 Wi-Fi 后地址与二维码会自动刷新。免费使用。 | https://getapps.cafe/app/fileshipper |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -738,7 +738,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Gopeed | Gopeed是一款由Golang+Flutter开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台（如Windows、macOS、Linux、Android和iOS等）使用。除了基本的下载功能外，Gopeed 还是一款高度可定制化的下载器，支持通过对接APIs或者安装和开发扩展来实现更多的功能。 | https://github.com/GopeedLab/gopeed |
-|  |  |  |
+| TorrentMilk | TorrentMilk 是一款支持边下边播的种子下载与串流播放工具（支持 Windows、macOS）。粘贴磁力链接或拖入 .torrent 文件后，首批数据到达即可点击播放，无需等待进度条走完，并可随意拖动进度。内置海报墙式媒体库、收藏与自定义合集、断点续播记忆、字幕自动加载与大小/位置/延迟实时调节、画中画与全屏播放器；MP4/WebM 原生播放，MKV/AVI 通过内置播放组件支持。数据全部保存在本地，无需账号，无遥测。 | https://getapps.cafe/app/torrentmilk |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -841,8 +841,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | FreePNGConvert | 免费在线WebP转PNG转换器。无需上传到服务器，所有图片处理在浏览器本地完成，保护隐私。快速、免费、无限次使用。 | https://freepngconvert.com |
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
 | ToolGarden-Image | 一站式图片处理工具：图片压缩、合并、编辑、裁剪、尺寸修改、格式转换、OCR识别、抠图去背景、证件照制作、去水印、加水印等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/image |
-|  |  |  |
-|  |  |  |
+| Pixpresso | Pixpresso 是一款 macOS 原生的轻量级图片查看与编辑工具，专为那些不值得打开 Photoshop 的日常小活而生：裁剪截图、摆正照片、给同事标注、发送前调整尺寸。打开任意一张图片，侧边栏会自动列出同文件夹内的全部图片缩略图，支持裁剪（可指定 1:1、3:2、4:3、16:9 等比例或精确输入坐标）、缩放、旋转翻转、标注（矩形/椭圆/直线/箭头/自由绘制/文字，带图层与撤销重做）、9 种滤镜预设与亮度对比度饱和度模糊调节、图片文字提取复制，并可导出为 JPG/PNG/WebP。支持 PNG、JPG、WebP、GIF、BMP、TIFF，免费使用。 | https://getapps.cafe/app/pixpresso |
+| TinyImage | TinyImage 是一款免费的本地图片压缩工具（支持 Windows、macOS），可在几乎不损失可见画质的前提下压缩 PNG、JPEG 和 WebP。整个窗口即拖放区，拖入单张图片或整个文件夹便立即开始批量压缩，支持“更小/均衡/最佳”三档压缩强度。不修改原图，压缩结果以自定义后缀另存为副本；保持原始尺寸与格式不变，保留色彩配置文件，并自动清除 EXIF/XMP 等隐私信息；若重新编码后反而变大会自动保留原文件。全部处理在本地完成，无需上传、无需注册。 | https://getapps.cafe/app/tinyimage |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
