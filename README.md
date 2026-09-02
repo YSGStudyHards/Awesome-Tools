@@ -843,8 +843,14 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | FreePNGConvert | 免费在线WebP转PNG转换器。无需上传到服务器，所有图片处理在浏览器本地完成，保护隐私。快速、免费、无限次使用。 | https://freepngconvert.com |
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
 | ToolGarden-Image | 一站式图片处理工具：图片压缩、合并、编辑、裁剪、尺寸修改、格式转换、OCR识别、抠图去背景、证件照制作、去水印、加水印等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/image |
+| Nutilz HEIC to PNG | 免费在线 HEIC 转 PNG 工具，一键将 iPhone 拍摄的 HEIC/HEIF 照片转换为通用的 PNG 格式，无需安装软件、无需注册，浏览器直接处理。 | https://nutilz.com/heic-to-png |
 | Pixpresso | Pixpresso 是一款 macOS 原生的轻量级图片查看与编辑工具，专为那些不值得打开 Photoshop 的日常小活而生：裁剪截图、摆正照片、给同事标注、发送前调整尺寸。打开任意一张图片，侧边栏会自动列出同文件夹内的全部图片缩略图，支持裁剪（可指定 1:1、3:2、4:3、16:9 等比例或精确输入坐标）、缩放、旋转翻转、标注（矩形/椭圆/直线/箭头/自由绘制/文字，带图层与撤销重做）、9 种滤镜预设与亮度对比度饱和度模糊调节、图片文字提取复制，并可导出为 JPG/PNG/WebP。支持 PNG、JPG、WebP、GIF、BMP、TIFF，免费使用。 | https://getapps.cafe/app/pixpresso |
 | TinyImage | TinyImage 是一款免费的本地图片压缩工具（支持 Windows、macOS），可在几乎不损失可见画质的前提下压缩 PNG、JPEG 和 WebP。整个窗口即拖放区，拖入单张图片或整个文件夹便立即开始批量压缩，支持“更小/均衡/最佳”三档压缩强度。不修改原图，压缩结果以自定义后缀另存为副本；保持原始尺寸与格式不变，保留色彩配置文件，并自动清除 EXIF/XMP 等隐私信息；若重新编码后反而变大会自动保留原文件。全部处理在本地完成，无需上传、无需注册。 | https://getapps.cafe/app/tinyimage |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
