@@ -517,6 +517,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 在线代码格式化 | ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具。 | https://tool.oschina.net/codeformat/json |
 | CSharpier | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
 | CodeMaid | CodeMaid是一款由.NET开源、免费、强大的Visual Studio实用插件，旨在帮助开发者简化、清理和格式化他们的C#、C++、VB.NET、F#、XAML、CSS、LESS、SCSS、JavaScript和TypeScript代码。它提供了多种功能，如清理代码、格式化注释、连接多行、移除全部 #region、排序多行等，以提高代码的可读性和一致性，从而提高你的开发效率。 | https://github.com/codecadwallader/codemaid |
+| JsonToolBox | 开源、免费、隐私优先的浏览器端 JSON 工具集，支持格式化、验证、压缩、对比、转换与树形查看，后续将支持50M大文件的处理，纯前端处理，无需账号。 | https://jsontoolbox.cc/zh |
 |  |  |  |
 |  |  |  |
 |  |  |  |
