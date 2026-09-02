@@ -92,6 +92,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | codex-profiles | codex-profiles 是一个无依赖的 Bash 工具，可通过独立的 CODEX_HOME 切换命名的 Codex CLI 配置，并在 macOS 上启动具有独立本地状态的 ChatGPT 桌面窗口；不会复制或读取认证令牌。 | https://github.com/Ducksss/codex-profiles |
 | Huiyu-Pi | Huiyu-Pi 是一款本地优先的 AI 编程助手，提供纯浏览器 Web UI。核心优势：~80 tokens 系统提示（接近零上下文）、~0.3s 首字响应、成本降低 90%+。支持 Claude、GPT、DeepSeek、Gemini 等多种 LLM 一键切换。内置文件浏览器、Monaco 代码编辑器、xterm 终端、Git 集成。一行命令启动（npx pi-forge），完全本地部署，MIT 开源免费。 | https://github.com/huiyu9144/Huiyu-Pi |
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
+| DSH Studio | DSH Studio 是一款 MIT 开源的跨平台桌面工具，可一键安装、启动和监控 DeepSeek Harness，并提供运行状态检查及进程树清理，支持 Windows、macOS 与 Linux。 | https://github.com/Moresyl/dsh-studio |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -107,13 +108,16 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | WorkBuddy | WorkBuddy 是由腾讯推出的智能办公助手，它通过AI技术深度集成文档处理、数据分析、会议管理和自动化流程等核心功能，能够帮助用户快速总结文档、生成报告、整理会议纪要，并连接企业系统实现自然语言指令操作。其特点是深度融入腾讯文档、企业微信等生态，提供安全可靠的企业级服务，支持私有化部署，并针对中文办公场景进行优化，适合企业团队及职场人士提升效率、简化工作流程，实现智能协作与决策。 | [https://www.codebuddy.cn/fission](https://www.codebuddy.cn/fission/?inviteCode=aht9pm7xu85dklj) |
 | OpenClaw | OpenClaw 是一款本地优先、完全开源的新一代 AI 助手。它直接部署在你的 macOS、Windows 或 Linux 设备（及服务器）上，将大模型的智慧与您的操作系统深度融合。它不仅能理解上下文，更拥有长时记忆与系统级权限，能真正“动手”执行文件管理、数据抓取、应用操控等真实任务。OpenClaw 不是一个普通的聊天机器人，而是一个住在你电脑里的私人秘书，它能通过微信、WhatsApp、Telegram 等聊天软件接收指令，帮你发邮件、查日历、打开浏览器、运行命令，甚至 24 小时自动做事！ | https://github.com/openclaw/openclaw |
 | Hermes Agent | Hermes Agent 是一款由 Nous Research 开发的开源（MIT license）免费的自托管 AI 智能体框架，与其他 AI 助手工具不同，Hermes Agent 具备真正的自我进化能力它能在与你的每次对话中自动学习、提炼技能、更新记忆，让智能体随使用时间持续成长。 | https://github.com/NousResearch/hermes-agent |
+| Orkas | Orkas 是一款开源、本地优先的 AI 团队桌面应用。Commander 将目标转成可执行计划，并协调专业 Agent 并行或串行完成研究、编程、数据分析、文档、演示和视频等复杂工作。 | [官网](https://orkas.ai/?source=gh_ysgtools) / [GitHub](https://github.com/Orkas-AI/Orkas) |
 | openilink-hub | 基于微信官方 iLink 协议的开源消息管理平台。接入 Claude/ChatGPT/Gemini 自动回复，微信号变 AI 助手。应用市场一键装功能：飞书（34 个 AI Tools）、Slack（23 个）、Discord（19 个）、钉钉（20 个）、企业微信（18 个）、Google Workspace（40+）、Notion 多平台互通。还能查股票、生成图片、AI 对话，20+ 命令不写代码。一行命令安装，内置 SQLite 零配置，7 种语言 SDK，MIT 开源。 | https://github.com/openilink/openilink-hub |
 | lifeos-cli | 终端原生的个人操作系统，涵盖任务、笔记、习惯追踪和时间审计。特别针对 AI Agent 的操作进行了优化，支持通过命令行与 Agent 深度协作，实现意图与现实的闭环。 | https://github.com/liujuanjuan1984/lifeos-cli |
 | CCHub | CCHub 是一个面向 Claude Code / Codex / Gemini 命令行工具生态系统的桌面控制面板。通过单一的 Tauri 应用程序（支持 Windows / macOS / Linux 系统），您可以集中管理 MCP 服务器、配置文件、智能体技能、CLAUDE.md 文档、钩子函数以及工作流模板。 | https://github.com/Moresl/cchub |
 | igly.ai | igly.ai 是一款免费的AI图像编辑平台，提供一键抠图（背景移除）、AI智能修复（Inpainting）、图像超分辨率放大、生成式填充等功能。特别适合电商产品摄影、社交媒体图片处理等场景。[Demo演示](https://www.youtube.com/watch?v=HB2E1WZ12is) | https://igly.ai |
+| Rao Edits | Rao Edits 是一款 AI 图像生成与照片编辑平台，支持通过文本提示创建和编辑图片，适用于创意设计、社交媒体内容和 CapCut 模板等场景。 | https://raoedits.top/ |
 | nika | nika 是一款用 Rust 编写的开源（AGPL）AI 工作流引擎：用 .nika.yaml 声明式描述工作流 DAG，执行前进行静态检查（schema 校验、权限控制、成本预估），执行后生成防篡改的执行轨迹，便于审计与复现。本地优先，支持 Ollama、llama.cpp、vLLM 等本地模型及离线 mock（零密钥可跑），同时内置 MCP 客户端与服务端，通过 infer/exec/invoke/agent 四个动词把重复的 AI 任务固化为可靠、可审计的工作流。 | https://github.com/supernovae-st/nika |
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
+| Agent QA | Agent QA 是一款采用 FSL-1.1-ALv2 许可证、源代码可用的智能 QA 工具，可通过自然语言编写并运行 Web 和移动端测试，并利用执行记忆适应 UI 变化。在许可范围内软件本身不收费，但用户配置的模型、浏览器或设备服务可能另行收费。 | https://github.com/vostride/agent-qa |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -139,6 +143,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MoneyPrinterTurbo | MoneyPrinterTurbo 是一个开源并且只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 | https://github.com/harry0703/MoneyPrinterTurbo |
 | CreateFaceless | CreateFaceless 是一款 AI 不出镜 YouTube Shorts 一键生成工具，可自动完成脚本、画面、配音、字幕、封面、YouTube 元数据和 MP4 成片，无需剪辑经验。 | https://createfaceless.com/en |
+| Cloud Clipboard 短剧 Agent (cv.cm) | Cloud Clipboard 短剧 Agent 支持一句话生成分镜大纲、概念图与成片，覆盖 AI 视频/图片生成与多镜头一致性，适合短剧与短视频创作。 | https://cv.cm/v/agent |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -176,7 +181,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | drawnix | drawnix 是一款开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。 | https://github.com/plait-board/drawnix |
 | AmyMind | AmyMind 是一款AI驱动的思维导图工具，支持一键将文本、Markdown、PDF转为思维导图。AI助手帮你完善脑图内容，支持导出PPT、PDF、Word等多种格式。免费在线使用，让思维导图制作更简单。 | https://amymind.com/zh-cn |
 | next-ai-draw-io | next-ai-draw-io 是一个集成了 AI 功能的 Next.js 网页应用，与 draw.io 图表无缝结合。通过自然语言命令和 AI 辅助可视化来创建、修改和增强图表，帮你快速绘制你想要的图表。 | https://github.com/DayuanJiang/next-ai-draw-io |
-|  |  |  |
+| boardmix | boardmix博思白板是一款AI驱动的可视化协作平台，集成AIGC生成、思维导图、流程图及多人实时协作功能。支持AI一键生成PPT、专业脑图及图表，打破团队创作边界，让灵感即刻视觉化落地，全面提升办公协作效率。 | https://boardmix.cn |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -303,6 +308,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 | GoNavi | GoNavi 是一款现代化、轻量级、高性能的跨平台数据库客户端工具，采用 Wails (Go + WebView) 构建，提供原生应用般的响应速度和低资源占用。 | https://github.com/Syngnat/GoNavi |
 | DBX | DBX 是一款基于 Rust 开发的极致轻量级（仅约15MB）开源跨平台数据库管理工具，支持 50+ 种主流数据库（MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server、Oracle、Elasticsearch、MariaDB、TiDB、OceanBase、openGauss、GaussDB、KWDB、KingBase、Vastbase、GoldenDB、Doris、SelectDB、StarRocks、Manticore Search、Redshift等），并原生集成了 AI 助手与 MCP 协议。 | https://github.com/t8y2/dbx |
+| DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -415,6 +421,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | MobaXterm  | MobaXterm 是一个非常好的一站式服务器管理工具，对于多种协议的支持（比如SSH、Telnet、RDP、VNC、FTP、WSL等），让其不管是Linux、Windows还是VNC等，都可以在一个软件中进行操作管理，配合内置的SFTP文件管理和MobaTextEditor，可以让远程终端文件管理更加便捷。 | https://mobaxterm.mobatek.net/ |
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
 | WindTerm | 一款专业的跨平台 SSH/Sftp/Shell/Telnet/Tmux/串口终端。 | https://github.com/kingToolbox/WindTerm |
+| Nexus Shell | Nexus Shell 是一款面向 Apple Silicon 的原生 macOS SSH 客户端，集成多标签终端、双栏 SFTP、SSH 密钥管理、服务器监控与 Docker 管理，并提供可选的本地 AI Agent 桥接能力。 | https://nexusshell.app/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -510,6 +517,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 在线代码格式化 | ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具。 | https://tool.oschina.net/codeformat/json |
 | CSharpier | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
 | CodeMaid | CodeMaid是一款由.NET开源、免费、强大的Visual Studio实用插件，旨在帮助开发者简化、清理和格式化他们的C#、C++、VB.NET、F#、XAML、CSS、LESS、SCSS、JavaScript和TypeScript代码。它提供了多种功能，如清理代码、格式化注释、连接多行、移除全部 #region、排序多行等，以提高代码的可读性和一致性，从而提高你的开发效率。 | https://github.com/codecadwallader/codemaid |
+| JsonToolBox | 开源、免费、隐私优先的浏览器端 JSON 工具集，支持格式化、验证、压缩、对比、转换与树形查看，后续将支持50M大文件的处理，纯前端处理，无需账号。 | https://jsontoolbox.cc/zh |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -611,17 +619,32 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Mini-Tools | 一个包含 20+ 款日常效率工具的在线合集网站，涵盖了文档处理、开发者工具、AI 辅助和财务计算等功能。  | https://mini-tools.uk/?lang=zh |
 | DevKits | 提供 24 款免费在线开发者工具，包括代码格式化器、数据转换器、开发者实用工具等。无需安装，打开即用，完全免费且注重隐私保护。 | https://aiforeverthing.com |
 | TinyTools | A free collection of single-purpose web utilities, all browser-based and no signup required. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. Open source. 一个免费的单一功能在线工具集合，浏览器端运行，无需注册。包含域名生成器、OG图像生成器、本地运行的AI抠图工具、Favicon生成器、配色方案生成器、SEO Meta标签生成器、AI成本计算器、AI内容披露生成器（符合欧盟AI法案）和AI robots.txt生成器，开源。 | https://tinytools-smoky.vercel.app/ |
+| Nutilz | A free online tools collection covering calculators, text utilities, image tools, developer tools, and finance/wellness calculators — JSON formatter, unit converter, PDF tools, QR generator, BMI/loan/tax calculators, and more. No signup required, most tools run entirely in the browser. 一个免费的在线工具集合，涵盖计算器、文本工具、图片工具、开发者工具和财务/健康计算器，包括 JSON 格式化、单位换算、PDF 工具、二维码生成器、BMI/贷款/税务计算器等。无需注册，大部分工具在浏览器本地运行。 | https://nutilz.com/ |
 | FastDo Pro | FastDo Pro 是一个 AI全能多媒体效率工具站、方便快捷、安全私密、本地处理。 | https://fastdo.tools/ |
 | 专业在线工具集 | 在线工具集是一个综合性在线工具平台。为用户提供简单、高效、安全的在线工具服务。平台涵盖了 AI 智能应用、JSON 数据处理、代码开发辅助、图像编辑处理、数据加密解密、便民查询等多个领域200多个的实用工具。所有工具均经过精心设计，大部分功能直接在浏览器本地运行。 | https://www.tooljson.com/ |
 | Vaultool | Vaultool 是一款免费在线开发者工具箱，提供 30+ 款实用工具，涵盖图片压缩/格式转换/抠图、PDF 合并/拆分/压缩/转换、文本处理、代码格式化、颜色选择器、Base64 编解码、JSON 格式化、哈希生成等。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，安全私密。界面简洁清爽，打开即用，适合开发者在日常工作中快速处理各类格式转换和数据处理任务。 | https://vaultool.com/ |
 | 计算器3000 | 面向国内用户的免费在线计算器工具站，覆盖房贷、个税、工资到手、车贷落地价、复利、BMI、体脂率等场景，页面提供公式说明、来源依据和更新时间。 | https://jsq3000.com |
+| Concrete Estimator Hub | 免费在线混凝土估算计算器集合，适合快速计算板基础体积、混凝土袋数、柱洞用量、预拌混凝土和袋装混凝土对比，以及材料成本；无需注册，浏览器中直接使用。 | https://concreteestimatorhub.com/ |
 | 闲鱼虚拟资料网盘发货检查器 | 一款免费的浏览器端发货前检查工具，适合闲鱼模板、教程、Excel、PPT、提示词等虚拟资料卖家，在发送网盘链接前检查提取码、文件清单、打开方式、补发规则、退款边界和订单记录字段；无需登录，核心处理在本地浏览器完成。 | https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/ |
 | 1024工具箱 | 一款免费的程序员在线工具箱。 | https://1024toolbox.com/zh-cn/ |
 | ToolBox Pro 开发者工具箱 | 一款免费的在线开发者工具集合，包含PDF合并/拆分、图片压缩、二维码解码、密码生成器、UUID生成器、时间戳转换、YAML与JSON互转、SQL格式化、URL解析、Cron表达式生成、日期计算器、HTTP状态码参考、.gitignore生成器、调色板、Markdown表格生成器、Meta标签生成器、README生成器等20+实用工具，加上21合一的ToolBox Pro。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，开源免费。 | https://dingpeng29.github.io/ |
 | TimedSubs Subtitle Checker | 免费在线字幕检查工具，支持检查 SRT/VTT 字幕的时间码、重叠、行长、阅读速度和文件结构，适合字幕交付前快速校验。 | https://timedsubs.com/zh/tools/subtitle-checker |
 | TimedSubs Subtitle Converter | 免费在线字幕转换工具，支持 SRT 转 VTT、VTT 转 SRT，以及从 SRT/VTT 提取 TXT 文本；无需登录，文件在浏览器本地处理，不上传服务器。 | https://timedsubs.com/zh/tools/subtitle-converter |
+| gottrix | 免费的浏览器端文件工具箱，提供 500+ 款实用工具，涵盖 PDF 合并/拆分/压缩/OCR/签名、图片格式转换、音视频转换、数据格式转换及 3D 模型转换等，基于 WebAssembly 在浏览器本地运行，文件不上传服务器，首次访问后可离线使用，支持 25+ 种语言（含简繁中文、日语、韩语） | https://gottrix.app |
 | ToolGarden | 一站式在线工具箱：JSON处理、图片处理、PDF处理，文件合并等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh |
 | 捷帮工具站 | 捷帮工具站是一个免费在线工具集合，提供170+款实用工具，涵盖JSON格式化、Base64编解码、二维码生成、图片格式转换、密码生成器、Cron表达式解析、Chmod权限计算器等开发工具，以及文本处理、数据转换、SEO工具等，所有工具均在浏览器本地运行，数据不上传服务器，隐私安全。 | https://www.jiebang.site/ |
+| Typing Words GIF | 免费在线打字文字 GIF 生成工具，输入文字即可生成打字动画效果并导出为 GIF。无需注册，支持自定义字体、颜色、速度，适合用于 GitHub README、Discord 状态、Notion 页面等场景。 | https://typingwordsgif.com/ |
+| Korelyy | Korelyy 是一个不断扩充的浏览器端在线工具集合，面向开发者、创作者和日常任务，涵盖图片编辑与转换、PDF 工具、二维码生成、文本处理、密码工具和开发者辅助工具。支持 6 种语言（英语、中文、西班牙语、法语、印地语、阿拉伯语），大部分工具在浏览器本地运行，无需注册。A growing collection of browser-based online tools for developers, creators and everyday tasks - image editing, PDF, QR codes, text processing and developer utilities. Available in 6 languages, most tools run locally in the browser, no signup required. | https://korelyy.com/en/ |
+| BarcodeGen | 免费在线条码生成器，支持 Code 128、EAN-13、UPC-A、QR Code、Data Matrix 等 35+ 种条码格式，支持批量生成和 PNG/SVG 下载，无需注册。 | https://www.barcodegen.net |
+| All Tools Verse | 一个包含 1,000 多款免费浏览器工具的在线合集，涵盖开发、文件、图像、文本、数据转换、计算和日常任务。无需注册即可使用。A collection of 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. | https://alltoolsverse.com/ |
+| WizGenerator | 免费在线生成工具集合，覆盖名称、写作、创意、营销和实用生成器；无需注册，可直接进入具体工具页面使用。 | https://wizgenerator.com/ |
+| Mydentify llms.txt Generator and Validator | 免费的浏览器端 llms.txt 生成和检查工具，可创建符合提议格式的文件，或检查现有内容的标题、摘要、分区和绝对链接；无需注册。 | https://mydentify.com/tools/llms-txt-generator-validator |
+| A Box of Tools | 免费的浏览器端工具箱，30 多款工具，一个工具只干一件事：图片（压到指定大小、缩放、HEIC 转 JPG、清 EXIF、转 ICO 图标、打码）、视频与动画（裁剪、剪辑、倒放、截帧、转 GIF、延时摄影）、文档与音频（PDF 合并/压缩/涂黑、图片转 PDF、DICOM 查看、音频剪辑）、文本与编码（JSON 格式化、文本对比、Base64 编解码、哈希校验、二维码与条码读写、密码生成）。全程在你自己的浏览器里跑，文件不上传服务器，也不用注册；每个工具都能装成 PWA 离线使用。支持 15 种语言（含简体、繁体中文），开源（MIT）。 | https://abox.tools/zh/ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -634,7 +657,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DevHub | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac/离线使用)，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 | https://wangchujiang.com/DevHub/index.zh.html |
 | uTools | uTools是一款功能丰富、高度可定制的桌面软件（实用工具箱）支持Windows, Mac, Linux版本，通过集成多种实用插件，为用户提供了一个便捷高效的工作平台。无论是专业人士还是普通用户，都能在uTools中找到适合自己的功能，提高工作效率和生活品质。如果你正在寻找一款能够提升工作效率的桌面软件，uTools绝对是一个值得尝试的选择。 | https://u.tools/download |
 | MooTool | MooTool 是一个功能丰富、跨平台（Windows • Linux • macOS）、开源免费的开发者工具箱，能够显著提高开发效率，简化开发流程。无论是代码编写与调试、数据处理与转换、网络请求调试还是加密解密与安全等方面，MooTool 都能提供有力的支持。 | https://github.com/rememberber/MooTool |
-|  |  |  |
+| ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，安装包仅 2.9 MB，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
 |  |  |  |
 |  |  |  |
 
@@ -647,6 +670,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | uTools | uTools是一款功能丰富、高度可定制的桌面软件（实用工具箱）支持Windows, Mac, Linux版本，通过集成多种实用插件，为用户提供了一个便捷高效的工作平台。无论是专业人士还是普通用户，都能在uTools中找到适合自己的功能，提高工作效率和生活品质。如果你正在寻找一款能够提升工作效率的桌面软件，uTools绝对是一个值得尝试的选择。 | https://u.tools/download |
 | MooTool | MooTool 是一个功能丰富、跨平台（Windows • Linux • macOS）、开源免费的开发者工具箱，能够显著提高开发效率，简化开发流程。无论是代码编写与调试、数据处理与转换、网络请求调试还是加密解密与安全等方面，MooTool 都能提供有力的支持。 | https://github.com/rememberber/MooTool |
 | PowerToolbox | PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。 | https://github.com/Gaoyifei1011/PowerToolbox |
+| TFFileExtractor | TFFileExtractor 是一款 Windows 原生 GUI 工具，用于从 FAT32 格式的 TF/存储卡中恢复隐藏或加密的音频文件。直接读取 FAT 表恢复数据，支持 ID3v2 和 MPEG 帧同步双重检测，开源免费（MIT License）。 | https://github.com/niyongsheng/TFFileExtractor |
 |  |  |  |
 |  |  |  |
 
@@ -693,7 +717,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | LocalSend | LocalSend是一款功能强大、易于使用的局域网文件传输工具。它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，都可以通过LocalSend实现高效、便捷和安全的文件传输。 | https://github.com/localsend/localsend |
 | FreeFileSync | FreeFileSync是一款功能强大且易于使用的文件夹比较和同步软件，它能够在Windows系统下轻松实现与远程主机的文件同步。同时支持 Windows、Linux、mac多个平台。 | https://freefilesync.org |
-|  |  |  |
+| FileShipper | FileShipper 是一款局域网文件互传工具（支持 Windows、macOS），无需云端、无需账号，手机端也无需安装任何 App。同一 Wi-Fi 下运行 FileShipper 的电脑会自动出现在类似 AirDrop 的雷达界面上，点击即可选文件发送；手机扫描二维码即可通过浏览器网页与电脑双向收发文件。传输在设备之间直连完成，不经过任何服务器，大文件也快速且私密。支持 PIN 码保护、公共文件池共享、自定义接收目录，切换 Wi-Fi 后地址与二维码会自动刷新。免费使用。 | https://getapps.cafe/app/fileshipper |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -716,7 +740,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Gopeed | Gopeed是一款由Golang+Flutter开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台（如Windows、macOS、Linux、Android和iOS等）使用。除了基本的下载功能外，Gopeed 还是一款高度可定制化的下载器，支持通过对接APIs或者安装和开发扩展来实现更多的功能。 | https://github.com/GopeedLab/gopeed |
-|  |  |  |
+| TorrentMilk | TorrentMilk 是一款支持边下边播的种子下载与串流播放工具（支持 Windows、macOS）。粘贴磁力链接或拖入 .torrent 文件后，首批数据到达即可点击播放，无需等待进度条走完，并可随意拖动进度。内置海报墙式媒体库、收藏与自定义合集、断点续播记忆、字幕自动加载与大小/位置/延迟实时调节、画中画与全屏播放器；MP4/WebM 原生播放，MKV/AVI 通过内置播放组件支持。数据全部保存在本地，无需账号，无遥测。 | https://getapps.cafe/app/torrentmilk |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -820,6 +844,11 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
 | ToolGarden-Image | 一站式图片处理工具：图片压缩、合并、编辑、裁剪、尺寸修改、格式转换、OCR识别、抠图去背景、证件照制作、去水印、加水印等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/image |
 | Nutilz HEIC to PNG | 免费在线 HEIC 转 PNG 工具，一键将 iPhone 拍摄的 HEIC/HEIF 照片转换为通用的 PNG 格式，无需安装软件、无需注册，浏览器直接处理。 | https://nutilz.com/heic-to-png |
+| Pixpresso | Pixpresso 是一款 macOS 原生的轻量级图片查看与编辑工具，专为那些不值得打开 Photoshop 的日常小活而生：裁剪截图、摆正照片、给同事标注、发送前调整尺寸。打开任意一张图片，侧边栏会自动列出同文件夹内的全部图片缩略图，支持裁剪（可指定 1:1、3:2、4:3、16:9 等比例或精确输入坐标）、缩放、旋转翻转、标注（矩形/椭圆/直线/箭头/自由绘制/文字，带图层与撤销重做）、9 种滤镜预设与亮度对比度饱和度模糊调节、图片文字提取复制，并可导出为 JPG/PNG/WebP。支持 PNG、JPG、WebP、GIF、BMP、TIFF，免费使用。 | https://getapps.cafe/app/pixpresso |
+| TinyImage | TinyImage 是一款免费的本地图片压缩工具（支持 Windows、macOS），可在几乎不损失可见画质的前提下压缩 PNG、JPEG 和 WebP。整个窗口即拖放区，拖入单张图片或整个文件夹便立即开始批量压缩，支持“更小/均衡/最佳”三档压缩强度。不修改原图，压缩结果以自定义后缀另存为副本；保持原始尺寸与格式不变，保留色彩配置文件，并自动清除 EXIF/XMP 等隐私信息；若重新编码后反而变大会自动保留原文件。全部处理在本地完成，无需上传、无需注册。 | https://getapps.cafe/app/tinyimage |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
