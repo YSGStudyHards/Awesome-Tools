@@ -99,6 +99,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| OrcaReplay | OrcaReplay 是开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都落在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode、Qwen Code 等。Apache-2.0 开源，本地运行。 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
