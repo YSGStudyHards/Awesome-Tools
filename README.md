@@ -311,7 +311,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | GoNavi | GoNavi 是一款现代化、轻量级、高性能的跨平台数据库客户端工具，采用 Wails (Go + WebView) 构建，提供原生应用般的响应速度和低资源占用。 | https://github.com/Syngnat/GoNavi |
 | DBX | DBX 是一款基于 Rust 开发的极致轻量级（仅约15MB）开源跨平台数据库管理工具，支持 50+ 种主流数据库（MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server、Oracle、Elasticsearch、MariaDB、TiDB、OceanBase、openGauss、GaussDB、KWDB、KingBase、Vastbase、GoldenDB、Doris、SelectDB、StarRocks、Manticore Search、Redshift等），并原生集成了 AI 助手与 MCP 协议。 | https://github.com/t8y2/dbx |
 | DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
-| LibreDB Studio | LibreDB Studio 是一款开源（MIT 协议）、可自托管的 Web 端 SQL IDE，部署在服务器上，团队成员通过浏览器访问，无需在每台电脑上单独安装客户端。内置 16 种数据库驱动，可连接 PostgreSQL、MySQL、Oracle、SQL Server、SQLite、MongoDB、Redis、ClickHouse、Elasticsearch、Apache Druid、Trino 等 42 种数据库。它面向团队使用，支持 OIDC 单点登录、基于角色的权限控制（RBAC）和查询审计日志。支持 Docker 镜像、Helm Chart 部署，也可用 npx 一条命令启动。 | https://github.com/libredb/libredb-studio |
+| LibreDB Studio | LibreDB Studio 是一款开源（MIT 协议）、可自托管的 Web 端 SQL IDE，部署在服务器上，团队成员通过浏览器访问，无需在每台电脑上单独安装客户端。内置 16 种数据库驱动，可连接 PostgreSQL、MySQL、Oracle、SQL Server、SQLite、MongoDB、Redis、ClickHouse、Elasticsearch、Apache Druid、Trino 等 42 种数据库。它面向团队使用，支持 OIDC 单点登录和基于角色的访问控制（RBAC）。支持 Docker 镜像、Helm Chart 部署，也可用 npx 一条命令启动。 | https://github.com/libredb/libredb-studio |
 |  |  |  |
 |  |  |  |
 
