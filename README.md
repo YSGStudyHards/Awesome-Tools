@@ -94,6 +94,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
 | DSH Studio | DSH Studio 是一款 MIT 开源的跨平台桌面工具，可一键安装、启动和监控 DeepSeek Harness，并提供运行状态检查及进程树清理，支持 Windows、macOS 与 Linux。 | https://github.com/Moresyl/dsh-studio |
 | YYLO | YYLO 是一款 MIT 开源的命令行编码代理编排器，面向重复工作流与带回执（receipt-backed）的仓库变更：`task start` 冻结受保护目标 SHA 并创建专用分支/worktree，合并队列按风险等级执行评审，提供类型化任务、验证、合并和发布就绪边界；支持 Pi 与 Codex 子代理，通过 npm 安装 @yylo/cli，提供 yylo/yy 命令。 | https://github.com/yylo-dev/yylo |
+| Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -106,6 +107,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🤖AI实用效率工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 | WorkBuddy | WorkBuddy 是由腾讯推出的智能办公助手，它通过AI技术深度集成文档处理、数据分析、会议管理和自动化流程等核心功能，能够帮助用户快速总结文档、生成报告、整理会议纪要，并连接企业系统实现自然语言指令操作。其特点是深度融入腾讯文档、企业微信等生态，提供安全可靠的企业级服务，支持私有化部署，并针对中文办公场景进行优化，适合企业团队及职场人士提升效率、简化工作流程，实现智能协作与决策。 | [https://www.codebuddy.cn/fission](https://www.codebuddy.cn/fission/?inviteCode=aht9pm7xu85dklj) |
 | OpenClaw | OpenClaw 是一款本地优先、完全开源的新一代 AI 助手。它直接部署在你的 macOS、Windows 或 Linux 设备（及服务器）上，将大模型的智慧与您的操作系统深度融合。它不仅能理解上下文，更拥有长时记忆与系统级权限，能真正“动手”执行文件管理、数据抓取、应用操控等真实任务。OpenClaw 不是一个普通的聊天机器人，而是一个住在你电脑里的私人秘书，它能通过微信、WhatsApp、Telegram 等聊天软件接收指令，帮你发邮件、查日历、打开浏览器、运行命令，甚至 24 小时自动做事！ | https://github.com/openclaw/openclaw |
 | Hermes Agent | Hermes Agent 是一款由 Nous Research 开发的开源（MIT license）免费的自托管 AI 智能体框架，与其他 AI 助手工具不同，Hermes Agent 具备真正的自我进化能力它能在与你的每次对话中自动学习、提炼技能、更新记忆，让智能体随使用时间持续成长。 | https://github.com/NousResearch/hermes-agent |
@@ -310,7 +312,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | GoNavi | GoNavi 是一款现代化、轻量级、高性能的跨平台数据库客户端工具，采用 Wails (Go + WebView) 构建，提供原生应用般的响应速度和低资源占用。 | https://github.com/Syngnat/GoNavi |
 | DBX | DBX 是一款基于 Rust 开发的极致轻量级（仅约15MB）开源跨平台数据库管理工具，支持 50+ 种主流数据库（MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server、Oracle、Elasticsearch、MariaDB、TiDB、OceanBase、openGauss、GaussDB、KWDB、KingBase、Vastbase、GoldenDB、Doris、SelectDB、StarRocks、Manticore Search、Redshift等），并原生集成了 AI 助手与 MCP 协议。 | https://github.com/t8y2/dbx |
 | DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
-|  |  |  |
+| LibreDB Studio | LibreDB Studio 是一款开源（MIT 协议）、可自托管的 Web 端 SQL IDE，部署在服务器上，团队成员通过浏览器访问，无需在每台电脑上单独安装客户端。内置 16 种数据库驱动，可连接 PostgreSQL、MySQL、Oracle、SQL Server、SQLite、MongoDB、Redis、ClickHouse、Elasticsearch、Apache Druid、Trino 等 42 种数据库。它面向团队使用，支持 OIDC 单点登录和基于角色的访问控制（RBAC）。支持 Docker 镜像、Helm Chart 部署，也可用 npx 一条命令启动。 | https://github.com/libredb/libredb-studio |
 |  |  |  |
 |  |  |  |
 
