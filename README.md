@@ -145,7 +145,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MoneyPrinterTurbo | MoneyPrinterTurbo 是一个开源并且只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 | https://github.com/harry0703/MoneyPrinterTurbo |
 | CreateFaceless | CreateFaceless 是一款 AI 不出镜 YouTube Shorts 一键生成工具，可自动完成脚本、画面、配音、字幕、封面、YouTube 元数据和 MP4 成片，无需剪辑经验。 | https://createfaceless.com/en |
-| Cloud Clipboard 短剧 Agent (cv.cm) | Cloud Clipboard 短剧 Agent 支持一句话生成分镜大纲、概念图与成片，覆盖 AI 视频/图片生成与多镜头一致性，适合短剧与短视频创作。 | https://cv.cm/v/agent |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -596,7 +596,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PDF Toolbox | PDF Toolbox 是一款完全免费的在线PDF工具集，支持压缩、合并、拆分、转换等操作。所有处理均在浏览器本地完成，文件不会上传到任何服务器，100%保护隐私。无需注册，无每日限制。 | https://pdftoolbox-three.vercel.app |
 | PDFgear | PDFgear 是一个免费 PDF 编辑软件和在线工具，支持编辑文本、合并文件、拆分页面、压缩体积、格式转换（如 PDF 转 Word、Excel、PPT）、添加注释和签名，也可以通过 AI 功能对 PDF 内容进行提问、总结和翻译。 | https://www.pdfgear.com/zh/ |
 | ToolGarden-PDF | PDF在线处理： PDF转化、合并、拆分、加密/解密、加水印、转图片等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/pdf |
-|  |  |  |
+| cv.cm | cv.cm 是开源（MIT）的浏览器 PDF 工具：合并、拆分、压缩、PDF 与 JPG 互转。文件在当前标签页处理，不上传服务器，无需注册。 | https://cv.cm/en/merge-pdf/ |
 |  |  |  |
 |  |  |  |
 
