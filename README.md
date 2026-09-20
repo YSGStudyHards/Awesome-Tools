@@ -94,6 +94,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
 | DSH Studio | DSH Studio 是一款 MIT 开源的跨平台桌面工具，可一键安装、启动和监控 DeepSeek Harness，并提供运行状态检查及进程树清理，支持 Windows、macOS 与 Linux。 | https://github.com/Moresyl/dsh-studio |
 | Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
+| NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
