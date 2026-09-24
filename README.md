@@ -121,6 +121,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
 | Agent QA | Agent QA 是一款采用 FSL-1.1-ALv2 许可证、源代码可用的智能 QA 工具，可通过自然语言编写并运行 Web 和移动端测试，并利用执行记忆适应 UI 变化。在许可范围内软件本身不收费，但用户配置的模型、浏览器或设备服务可能另行收费。 | https://github.com/vostride/agent-qa |
+| SummarizeVideoToText | SummarizeVideoToText 是一款在线视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的视频链接，就能拿到带时间戳的章节摘要和完整字幕稿，字幕每一句都能点回原视频对应的那一秒，方便边读边核对。支持把字幕翻译成中文等多种语言，整理好的内容可以导出 Markdown，或一键存进 Obsidian、Notion。免注册即可试用。 | [官网](https://summarizevideototext.com/zh?utm_source=awesome-tools) / [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
