@@ -107,7 +107,6 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🤖AI实用效率工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 | WorkBuddy | WorkBuddy 是由腾讯推出的智能办公助手，它通过AI技术深度集成文档处理、数据分析、会议管理和自动化流程等核心功能，能够帮助用户快速总结文档、生成报告、整理会议纪要，并连接企业系统实现自然语言指令操作。其特点是深度融入腾讯文档、企业微信等生态，提供安全可靠的企业级服务，支持私有化部署，并针对中文办公场景进行优化，适合企业团队及职场人士提升效率、简化工作流程，实现智能协作与决策。 | [https://www.codebuddy.cn/fission](https://www.codebuddy.cn/fission/?inviteCode=aht9pm7xu85dklj) |
 | OpenClaw | OpenClaw 是一款本地优先、完全开源的新一代 AI 助手。它直接部署在你的 macOS、Windows 或 Linux 设备（及服务器）上，将大模型的智慧与您的操作系统深度融合。它不仅能理解上下文，更拥有长时记忆与系统级权限，能真正“动手”执行文件管理、数据抓取、应用操控等真实任务。OpenClaw 不是一个普通的聊天机器人，而是一个住在你电脑里的私人秘书，它能通过微信、WhatsApp、Telegram 等聊天软件接收指令，帮你发邮件、查日历、打开浏览器、运行命令，甚至 24 小时自动做事！ | https://github.com/openclaw/openclaw |
 | Hermes Agent | Hermes Agent 是一款由 Nous Research 开发的开源（MIT license）免费的自托管 AI 智能体框架，与其他 AI 助手工具不同，Hermes Agent 具备真正的自我进化能力它能在与你的每次对话中自动学习、提炼技能、更新记忆，让智能体随使用时间持续成长。 | https://github.com/NousResearch/hermes-agent |
@@ -122,6 +121,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
 | Agent QA | Agent QA 是一款采用 FSL-1.1-ALv2 许可证、源代码可用的智能 QA 工具，可通过自然语言编写并运行 Web 和移动端测试，并利用执行记忆适应 UI 变化。在许可范围内软件本身不收费，但用户配置的模型、浏览器或设备服务可能另行收费。 | https://github.com/vostride/agent-qa |
 | SummarizeVideoToText | SummarizeVideoToText 是一款在线视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的视频链接，就能拿到带时间戳的章节摘要和完整字幕稿，字幕每一句都能点回原视频对应的那一秒，方便边读边核对。支持把字幕翻译成中文等多种语言，整理好的内容可以导出 Markdown，或一键存进 Obsidian、Notion。免注册即可试用。 | [官网](https://summarizevideototext.com/zh?utm_source=awesome-tools) / [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) |
+| AI Novel Writer | AI Novel Writer 是一款面向长篇小说创作的开源、本地优先桌面工作台，把故事前提、角色、世界观、大纲、章节蓝图、草稿、审稿和修订放在同一个项目流程中。支持 Windows、macOS、Ollama 及用户自行配置的模型服务，所有模型建议均由作者审核后决定是否采用。 | [官网](https://www.orz.md/ai-novel-writer/) / [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) |
+| InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
