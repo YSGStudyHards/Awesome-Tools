@@ -126,7 +126,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | SummarizeVideoToText | SummarizeVideoToText 是一款在线视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的视频链接，就能拿到带时间戳的章节摘要和完整字幕稿，字幕每一句都能点回原视频对应的那一秒，方便边读边核对。支持把字幕翻译成中文等多种语言，整理好的内容可以导出 Markdown，或一键存进 Obsidian、Notion。免注册即可试用。 | [官网](https://summarizevideototext.com/zh?utm_source=awesome-tools) / [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) |
 | AI Novel Writer | AI Novel Writer 是一款面向长篇小说创作的开源、本地优先桌面工作台，把故事前提、角色、世界观、大纲、章节蓝图、草稿、审稿和修订放在同一个项目流程中。支持 Windows、macOS、Ollama 及用户自行配置的模型服务，所有模型建议均由作者审核后决定是否采用。 | [官网](https://www.orz.md/ai-novel-writer/) / [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) |
 | InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
-|  |  |  |
+| Jev 聊天助手 | Jev 聊天助手是一个装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | https://github.com/jev-chat/jev-chat-jarvis |
 |  |  |  |
 |  |  |  |
 |  |  |  |
