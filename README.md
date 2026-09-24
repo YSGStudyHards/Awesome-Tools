@@ -93,6 +93,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Huiyu-Pi | Huiyu-Pi 是一款本地优先的 AI 编程助手，提供纯浏览器 Web UI。核心优势：~80 tokens 系统提示（接近零上下文）、~0.3s 首字响应、成本降低 90%+。支持 Claude、GPT、DeepSeek、Gemini 等多种 LLM 一键切换。内置文件浏览器、Monaco 代码编辑器、xterm 终端、Git 集成。一行命令启动（npx pi-forge），完全本地部署，MIT 开源免费。 | https://github.com/huiyu9144/Huiyu-Pi |
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
 | DSH Studio | DSH Studio 是一款 MIT 开源的跨平台桌面工具，可一键安装、启动和监控 DeepSeek Harness，并提供运行状态检查及进程树清理，支持 Windows、macOS 与 Linux。 | https://github.com/Moresyl/dsh-studio |
+| YYLO | YYLO 是一款 MIT 开源的命令行编码代理编排器，面向重复工作流与带回执（receipt-backed）的仓库变更：`task start` 冻结受保护目标 SHA 并创建专用分支/worktree，合并队列按风险等级执行评审，提供类型化任务、验证、合并和发布就绪边界；支持 Pi 与 Codex 子代理，通过 npm 安装 @yylo/cli，提供 yylo/yy 命令。 | https://github.com/yylo-dev/yylo |
 | Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
 | NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
 |  |  |  |
