@@ -94,6 +94,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Tura | Tura 是一款本地开源 AI 编码代理，支持自定义模型供应商，提供 CLI、TUI 和跨平台桌面界面；项目还公开长时程任务中逐轮的工具调用、令牌用量、补丁及验证结果。 | https://github.com/Tura-AI/tura |
 | DSH Studio | DSH Studio 是一款 MIT 开源的跨平台桌面工具，可一键安装、启动和监控 DeepSeek Harness，并提供运行状态检查及进程树清理，支持 Windows、macOS 与 Linux。 | https://github.com/Moresyl/dsh-studio |
 | OrcaReplay | OrcaReplay 是开源的 AI 编程 agent 调试器。在进程和 socket 层记录整场会话——模型请求、shell 命令的退出码、每轮的文件变更、MCP 调用都落在同一条时间线上；之后可断网离线逐字节重放，或从任一检查点分叉到另一个模型对比决策。支持 Claude Code、Cursor、Codex、opencode、Qwen Code 等。Apache-2.0 开源，本地运行。 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| YYLO | YYLO 是一款 MIT 开源的命令行编码代理编排器，面向重复工作流与带回执（receipt-backed）的仓库变更：`task start` 冻结受保护目标 SHA 并创建专用分支/worktree，合并队列按风险等级执行评审，提供类型化任务、验证、合并和发布就绪边界；支持 Pi 与 Codex 子代理，通过 npm 安装 @yylo/cli，提供 yylo/yy 命令。 | https://github.com/yylo-dev/yylo |
+| Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
+| NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -119,6 +122,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
 | OpenClaw Monitor | 让 AI 来盯着 AI 干活，这是一个免费开源的监控面板，专门用来观察 OpenClaw 智能体的运行情况。它能实时显示会话状态、Token 使用量和任务执行进度，前端基于 Vue 3 和 ECharts 打造。 | https://github.com/flik2002/openclaw-monitor |
 | Agent QA | Agent QA 是一款采用 FSL-1.1-ALv2 许可证、源代码可用的智能 QA 工具，可通过自然语言编写并运行 Web 和移动端测试，并利用执行记忆适应 UI 变化。在许可范围内软件本身不收费，但用户配置的模型、浏览器或设备服务可能另行收费。 | https://github.com/vostride/agent-qa |
+| SummarizeVideoToText | SummarizeVideoToText 是一款在线视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的视频链接，就能拿到带时间戳的章节摘要和完整字幕稿，字幕每一句都能点回原视频对应的那一秒，方便边读边核对。支持把字幕翻译成中文等多种语言，整理好的内容可以导出 Markdown，或一键存进 Obsidian、Notion。免注册即可试用。 | [官网](https://summarizevideototext.com/zh?utm_source=awesome-tools) / [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) |
+| AI Novel Writer | AI Novel Writer 是一款面向长篇小说创作的开源、本地优先桌面工作台，把故事前提、角色、世界观、大纲、章节蓝图、草稿、审稿和修订放在同一个项目流程中。支持 Windows、macOS、Ollama 及用户自行配置的模型服务，所有模型建议均由作者审核后决定是否采用。 | [官网](https://www.orz.md/ai-novel-writer/) / [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) |
+| InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -144,7 +150,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | MoneyPrinterTurbo | MoneyPrinterTurbo 是一个开源并且只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 | https://github.com/harry0703/MoneyPrinterTurbo |
 | CreateFaceless | CreateFaceless 是一款 AI 不出镜 YouTube Shorts 一键生成工具，可自动完成脚本、画面、配音、字幕、封面、YouTube 元数据和 MP4 成片，无需剪辑经验。 | https://createfaceless.com/en |
-| Cloud Clipboard 短剧 Agent (cv.cm) | Cloud Clipboard 短剧 Agent 支持一句话生成分镜大纲、概念图与成片，覆盖 AI 视频/图片生成与多镜头一致性，适合短剧与短视频创作。 | https://cv.cm/v/agent |
+| shortshort | shortshort 是一款网页端 AI 长视频转竖屏短视频工具：上传一段自己拥有的长视频（演讲、播客、课程、网络研讨会等，MP4/MOV/WebM，最长 3 小时、2 GB），自动逐字转写，挑选 15–90 秒、以完整句子开头和结尾的片段，跟踪画面中的人脸重新构图为 9:16（幻灯片和全景镜头保持完整画面），添加逐字字幕（4 种样式），导出 1080×1920、30 fps 的 MP4；片段选择、起止点、标题和字幕在渲染前均可修改。免费版注册送 60 积分（1 积分 = 1 分钟源视频），无需信用卡，每个视频生成 3 条短视频，导出带水印并公开在社区画廊；付费版每月 12 欧元起。 | https://www.shortshort.io |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -310,7 +316,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | GoNavi | GoNavi 是一款现代化、轻量级、高性能的跨平台数据库客户端工具，采用 Wails (Go + WebView) 构建，提供原生应用般的响应速度和低资源占用。 | https://github.com/Syngnat/GoNavi |
 | DBX | DBX 是一款基于 Rust 开发的极致轻量级（仅约15MB）开源跨平台数据库管理工具，支持 50+ 种主流数据库（MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server、Oracle、Elasticsearch、MariaDB、TiDB、OceanBase、openGauss、GaussDB、KWDB、KingBase、Vastbase、GoldenDB、Doris、SelectDB、StarRocks、Manticore Search、Redshift等），并原生集成了 AI 助手与 MCP 协议。 | https://github.com/t8y2/dbx |
 | DBTool | DBTool 是一款免费开源（AGPL-3.0）的跨平台桌面数据库客户端，在同一界面中支持 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server。它采用真正的服务端分页（排序、计数和翻页都在数据库中完成），因此千万级数据表也能快速打开；并提供可视化查询构建器（拖拽字段建立 JOIN 并实时生成 SELECT）、带 DDL 实时预览的可视化建表工具、可编辑外键的 ER 图，以及跨引擎数据迁移和 CSV/JSON/Excel/SQL 导入导出。连接密码保存在操作系统的密钥链中，无遥测、无需注册账号。支持 Windows、macOS 和 Linux。 | https://github.com/achi777/db-tool |
-|  |  |  |
+| LibreDB Studio | LibreDB Studio 是一款开源（MIT 协议）、可自托管的 Web 端 SQL IDE，部署在服务器上，团队成员通过浏览器访问，无需在每台电脑上单独安装客户端。内置 16 种数据库驱动，可连接 PostgreSQL、MySQL、Oracle、SQL Server、SQLite、MongoDB、Redis、ClickHouse、Elasticsearch、Apache Druid、Trino 等 42 种数据库。它面向团队使用，支持 OIDC 单点登录和基于角色的访问控制（RBAC）。支持 Docker 镜像、Helm Chart 部署，也可用 npx 一条命令启动。 | https://github.com/libredb/libredb-studio |
 |  |  |  |
 |  |  |  |
 
@@ -402,6 +408,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Apikit | Apikit是面向研发团队的一站式API生产平台，支持 REST、Websocket、gRPC、TCP、UDP、SOAP等多种协议，提供从接口生成到接口管理，测试，接口运维监控和发布的全流程协同和工具支撑，Eolink Apikit可助力企业实现API规范化治理，并优化API研发流程，提高API性能和安全保障，提升企业研发效能。 | https://www.eolink.com/pc |
 | WebCurl  | WebCurl 是一个开源、极简的网页版 API 调试工具，旨在为开发者提供一个轻量级、无需安装的软件环境来测试和调试 HTTP 请求（一个文件搞定所有API测试需求、替代Postman的轻量级选择、数据本地化，安全无忧）。 | https://github.com/o8oo8o/WebCurl |
 | Yaak | Yaak 是一个开源免费（MIT license）、快速、注重隐私的 API 客户端，支持 REST、GraphQL、SSE、WebSocket 和 gRPC——使用 Tauri、Rust 和 React 构建。 | https://github.com/mountain-loop/yaak |
+| Cortex | Cortex 是开源 API 工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC 和 OpenRPC 规范生成交互式文档、类型化 SDK 与 MCP server。 | https://github.com/cortex-docs/cortex |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -595,7 +602,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PDF Toolbox | PDF Toolbox 是一款完全免费的在线PDF工具集，支持压缩、合并、拆分、转换等操作。所有处理均在浏览器本地完成，文件不会上传到任何服务器，100%保护隐私。无需注册，无每日限制。 | https://pdftoolbox-three.vercel.app |
 | PDFgear | PDFgear 是一个免费 PDF 编辑软件和在线工具，支持编辑文本、合并文件、拆分页面、压缩体积、格式转换（如 PDF 转 Word、Excel、PPT）、添加注释和签名，也可以通过 AI 功能对 PDF 内容进行提问、总结和翻译。 | https://www.pdfgear.com/zh/ |
 | ToolGarden-PDF | PDF在线处理： PDF转化、合并、拆分、加密/解密、加水印、转图片等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/pdf |
-|  |  |  |
+| cv.cm | cv.cm 是开源（MIT）的浏览器 PDF 工具：合并、拆分、压缩、PDF 与 JPG 互转。文件在当前标签页处理，不上传服务器，无需注册。 | https://cv.cm/en/merge-pdf/ |
 |  |  |  |
 |  |  |  |
 
@@ -621,6 +628,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DevKits | 提供 24 款免费在线开发者工具，包括代码格式化器、数据转换器、开发者实用工具等。无需安装，打开即用，完全免费且注重隐私保护。 | https://aiforeverthing.com |
 | TinyTools | A free collection of single-purpose web utilities, all browser-based and no signup required. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. Open source. 一个免费的单一功能在线工具集合，浏览器端运行，无需注册。包含域名生成器、OG图像生成器、本地运行的AI抠图工具、Favicon生成器、配色方案生成器、SEO Meta标签生成器、AI成本计算器、AI内容披露生成器（符合欧盟AI法案）和AI robots.txt生成器，开源。 | https://tinytools-smoky.vercel.app/ |
 | Nutilz | A free online tools collection covering calculators, text utilities, image tools, developer tools, and finance/wellness calculators — JSON formatter, unit converter, PDF tools, QR generator, BMI/loan/tax calculators, and more. No signup required, most tools run entirely in the browser. 一个免费的在线工具集合，涵盖计算器、文本工具、图片工具、开发者工具和财务/健康计算器，包括 JSON 格式化、单位换算、PDF 工具、二维码生成器、BMI/贷款/税务计算器等。无需注册，大部分工具在浏览器本地运行。 | https://nutilz.com/ |
+| Client Close Kit | 面向自由职业者的免费浏览器工具，提供发票、滞纳金、客户资料、工作说明和工时工具。Free browser tools for freelancer invoices, late-fee calculations, client intake, scopes of work and timesheets. | https://darweesh128-cmd.github.io/client-close-kit/ |
 | FastDo Pro | FastDo Pro 是一个 AI全能多媒体效率工具站、方便快捷、安全私密、本地处理。 | https://fastdo.tools/ |
 | 专业在线工具集 | 在线工具集是一个综合性在线工具平台。为用户提供简单、高效、安全的在线工具服务。平台涵盖了 AI 智能应用、JSON 数据处理、代码开发辅助、图像编辑处理、数据加密解密、便民查询等多个领域200多个的实用工具。所有工具均经过精心设计，大部分功能直接在浏览器本地运行。 | https://www.tooljson.com/ |
 | Vaultool | Vaultool 是一款免费在线开发者工具箱，提供 30+ 款实用工具，涵盖图片压缩/格式转换/抠图、PDF 合并/拆分/压缩/转换、文本处理、代码格式化、颜色选择器、Base64 编解码、JSON 格式化、哈希生成等。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，安全私密。界面简洁清爽，打开即用，适合开发者在日常工作中快速处理各类格式转换和数据处理任务。 | https://vaultool.com/ |
@@ -660,6 +668,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | MooTool | MooTool 是一个功能丰富、跨平台（Windows • Linux • macOS）、开源免费的开发者工具箱，能够显著提高开发效率，简化开发流程。无论是代码编写与调试、数据处理与转换、网络请求调试还是加密解密与安全等方面，MooTool 都能提供有力的支持。 | https://github.com/rememberber/MooTool |
 | ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，安装包仅 2.9 MB，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
 | Focuh | Focuh 是一款免费的 macOS ADHD 待办与周计划工具，内置专注计时器和系统级网站/应用屏蔽，另有配套网页版。签名公证，支持 Apple Silicon 与 Intel。 | https://www.focuh.com |
+| BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
