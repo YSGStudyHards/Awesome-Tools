@@ -253,6 +253,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | markitdown | MarkItDown 是一款轻量级的 Python 工具，用于将各种文件转换为 Markdown，以便与 LLM 和相关文本分析管道一起使用。为此，它最类似于 textract，但重点在于保留重要文档结构和内容（包括：标题、列表、表格、链接等）。虽然输出通常可以呈现得比较有吸引力且对人类友好，但其目的是要被文本分析工具所消费——对于人类消费的高精度文档转换可能不是最佳选择。 | https://github.com/microsoft/markitdown |
 | MarkdownTo | MarkdownTo 是一个免费、快速、注重隐私的在线 Markdown 转换器。即时将您的 Markdown 文档转换为多种格式。 | https://markdownto.org/zh |
 | Excel to Markdown | 免费的浏览器本地转换工具，可将 XLSX、XLS 和 CSV 转为 Markdown 表格；支持工作表、表头和列对齐设置，无需注册或上传文件。 | https://exceltomd.com/excel-to-markdown |
+| Mdpresso | Mdpresso 是一款免费的在线 Markdown 转 PDF 工具，粘贴 Markdown 即可实时预览并导出 PDF；直接在浏览器中完成转换，无需安装，支持表格、代码块、链接与图片，中文、日文和 emoji 均可正常保留，导出无水印。 | https://mdpresso.com/md-to-pdf/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
