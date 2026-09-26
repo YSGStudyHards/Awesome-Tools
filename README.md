@@ -128,6 +128,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 | Jev 聊天助手 | Jev 聊天助手是一个装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | https://github.com/jev-chat/jev-chat-jarvis |
 | Jev Social | Jev Social 是一款 MIT 开源、本地优先的社交媒体研究工具。Jev 在 Instagram、TikTok、LinkedIn 和当前可用的只读 socai CLI 操作之间做类型化选择，socai 在用户已登录的 Chrome 中搜索并读取帖子、评论和视频，并将来源链接、操作记录与限制整理为流式报告。需要 Node.js 20+、OpenRouter key、socai CLI 和相应平台登录。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
+| Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -254,6 +258,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | markitdown | MarkItDown 是一款轻量级的 Python 工具，用于将各种文件转换为 Markdown，以便与 LLM 和相关文本分析管道一起使用。为此，它最类似于 textract，但重点在于保留重要文档结构和内容（包括：标题、列表、表格、链接等）。虽然输出通常可以呈现得比较有吸引力且对人类友好，但其目的是要被文本分析工具所消费——对于人类消费的高精度文档转换可能不是最佳选择。 | https://github.com/microsoft/markitdown |
 | MarkdownTo | MarkdownTo 是一个免费、快速、注重隐私的在线 Markdown 转换器。即时将您的 Markdown 文档转换为多种格式。 | https://markdownto.org/zh |
 | Excel to Markdown | 免费的浏览器本地转换工具，可将 XLSX、XLS 和 CSV 转为 Markdown 表格；支持工作表、表头和列对齐设置，无需注册或上传文件。 | https://exceltomd.com/excel-to-markdown |
+| Mdpresso | Mdpresso 是一款免费的在线 Markdown 转 PDF 工具，粘贴 Markdown 即可实时预览并导出 PDF；直接在浏览器中完成转换，无需安装，支持表格、代码块、链接与图片，中文、日文和 emoji 均可正常保留，导出无水印。 | https://mdpresso.com/md-to-pdf/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -404,6 +409,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Bruno | Bruno是一款开源、跨平台、安全、创新的 API 客户端，专为API开发者和测试者设计，旨在颠覆 Postman 和其他类似工具。Bruno 直接在你的电脑文件夹中存储你的 API 信息。Bruno 仅限离线使用，并且使用纯文本标记语言 Bru 来保存有关 API 的信息。 | https://github.com/usebruno/bruno |
 | Postman | Postman作为一款强大的API测试工具，为前后端分离开发中的后端接口测试提供了极大的便利。它不仅简化了API请求的构建过程，还支持自动化测试、环境管理和团队协作等功能。通过简单易用的界面和丰富的功能，Postman成为了开发者必不可少的工具之一。 | https://www.postman.com/downloads/ |
 | YApi | YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API，YApi 还为用户提供了优秀的交互体验，开发人员只需利用平台提供的接口数据写入工具以及简单的点击操作就可以实现接口的管理。 | https://github.com/ymfe/yapi |
+| Yapix | Yapix 是 YApi 的持续维护版本（基于 YApi 1.12，Apache-2.0）：修复了 Mock 脚本沙箱逃逸、token 可被伪造等安全问题，支持 Node.js 24、MongoDB 4.4–8 和新版 Chrome 扩展，提供 Docker 镜像，可直接使用已有的 YApi 数据库。 | https://github.com/Perruer/yapix |
 | Insomnia | Insomnia是一个开源的、跨平台的API客户端，支持GraphQL、REST、WebSockets、Server-sent events (SSE)、gRPC以及任何其他HTTP兼容协议。 | https://github.com/Kong/insomnia |
 | Reqable | Reqable是一款专业工程软件，旨在为用户提供无缝、高效的 API 调试解决方案。专注于可靠性和用户体验，提供丰富的功能用于调试和测试API请求。无论您是开发人员、质量工程师还是安全工程师，Reqable都能为您提供强大且易于使用的体验。 | https://reqable.com/zh-CN/ |
 | Postcat  | Postcat 是一个强大的开源、跨平台（Windows、Mac、Linux、Browsers...）的 API 开发测试工具，支持 REST、Websocket 等协议（即将支持 GraphQL、gRPC、TCP、UDP），帮助你加速完成 API 开发和测试工作。 | https://docs.postcat.com/ |
