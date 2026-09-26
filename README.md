@@ -127,12 +127,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | AI Novel Writer | AI Novel Writer 是一款面向长篇小说创作的开源、本地优先桌面工作台，把故事前提、角色、世界观、大纲、章节蓝图、草稿、审稿和修订放在同一个项目流程中。支持 Windows、macOS、Ollama 及用户自行配置的模型服务，所有模型建议均由作者审核后决定是否采用。 | [官网](https://www.orz.md/ai-novel-writer/) / [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) |
 | InvoiceFlowAI | InvoiceFlowAI 是一款开源桌面发票整理工具，可从邮箱批量收集 PDF、OFD、XML 电子发票，进行 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的内容保留给用户人工核对。提供 Windows 与 macOS 安装包，也支持 DSH 插件工作流。 | [官网](https://www.orz.md/invoice-downloader/) / [GitHub](https://github.com/EthanYoQ/Invoice-Downloader) |
 | Jev 聊天助手 | Jev 聊天助手是一个装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | https://github.com/jev-chat/jev-chat-jarvis |
-| Jev Social | Jev Social 是一款 MIT 开源、本地优先的社交媒体研究工具。Jev 在 Instagram、TikTok、LinkedIn 和当前可用的只读 socai CLI 操作之间做类型化选择，socai 在用户已登录的 Chrome 中搜索并读取帖子、评论和视频，并将来源链接、操作记录与限制整理为流式报告。需要 Node.js 20+、OpenRouter key、socai CLI 和相应平台登录。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
+| Jev Social | Jev Social 是一款 MIT 开源的社交媒体研究应用。Jev 只在受限的 Instagram、TikTok、LinkedIn 搜索、打开、检查和停止操作中做类型化选择；本地 socai CLI 使用用户已登录的 Chrome 获取帖子、评论和视频，界面流式展示证据并生成带来源链接的报告。需要 Node.js 20+、当前 socai CLI、对应平台登录，以及 OpenRouter key 或显式配置的本地 System One 兼容决策服务。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
 | Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 
