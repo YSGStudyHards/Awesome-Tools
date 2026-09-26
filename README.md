@@ -130,6 +130,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| ThreadFox Lite | ThreadFox Lite 是一款开源（MIT）免费的 MCP 服务器与智能体技能，适用于 Claude Code、Codex 和 Claude Desktop：通过你自己已登录的 Chrome 只读查询 Reddit，包括子版块规则（标出自我推广规则）、按主题查找社区、账号状态以及帖子是否仍在，不发帖、无需 API 密钥。 | https://github.com/amflimited/threadfox-lite |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
