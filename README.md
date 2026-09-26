@@ -404,6 +404,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Bruno | Bruno是一款开源、跨平台、安全、创新的 API 客户端，专为API开发者和测试者设计，旨在颠覆 Postman 和其他类似工具。Bruno 直接在你的电脑文件夹中存储你的 API 信息。Bruno 仅限离线使用，并且使用纯文本标记语言 Bru 来保存有关 API 的信息。 | https://github.com/usebruno/bruno |
 | Postman | Postman作为一款强大的API测试工具，为前后端分离开发中的后端接口测试提供了极大的便利。它不仅简化了API请求的构建过程，还支持自动化测试、环境管理和团队协作等功能。通过简单易用的界面和丰富的功能，Postman成为了开发者必不可少的工具之一。 | https://www.postman.com/downloads/ |
 | YApi | YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API，YApi 还为用户提供了优秀的交互体验，开发人员只需利用平台提供的接口数据写入工具以及简单的点击操作就可以实现接口的管理。 | https://github.com/ymfe/yapi |
+| Yapix | Yapix 是 YApi 的持续维护版本（基于 YApi 1.12，Apache-2.0）：修复了 Mock 脚本沙箱逃逸、token 可被伪造等安全问题，支持 Node.js 24、MongoDB 4.4–8 和新版 Chrome 扩展，提供 Docker 镜像，可直接使用已有的 YApi 数据库。 | https://github.com/Perruer/yapix |
 | Insomnia | Insomnia是一个开源的、跨平台的API客户端，支持GraphQL、REST、WebSockets、Server-sent events (SSE)、gRPC以及任何其他HTTP兼容协议。 | https://github.com/Kong/insomnia |
 | Reqable | Reqable是一款专业工程软件，旨在为用户提供无缝、高效的 API 调试解决方案。专注于可靠性和用户体验，提供丰富的功能用于调试和测试API请求。无论您是开发人员、质量工程师还是安全工程师，Reqable都能为您提供强大且易于使用的体验。 | https://reqable.com/zh-CN/ |
 | Postcat  | Postcat 是一个强大的开源、跨平台（Windows、Mac、Linux、Browsers...）的 API 开发测试工具，支持 REST、Websocket 等协议（即将支持 GraphQL、gRPC、TCP、UDP），帮助你加速完成 API 开发和测试工作。 | https://docs.postcat.com/ |
