@@ -129,6 +129,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Jev 聊天助手 | Jev 聊天助手是一个装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | https://github.com/jev-chat/jev-chat-jarvis |
 | Jev Social | Jev Social 是一款 MIT 开源的社交媒体研究应用。Jev 只在受限的 Instagram、TikTok、LinkedIn 搜索、打开、检查和停止操作中做类型化选择；本地 socai CLI 使用用户已登录的 Chrome 获取帖子、评论和视频，界面流式展示证据并生成带来源链接的报告。需要 Node.js 20+、当前 socai CLI、对应平台登录，以及 OpenRouter key 或显式配置的本地 System One 兼容决策服务。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
 | Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
+| kdpbook.io | kdpbook.io 是一款面向亚马逊 KDP（Kindle Direct Publishing）的网页端 AI 图书工作室：在对话中描述想要的书，或导入自己的书稿，即可自动完成写作、插图（用角色参考图保持各页人物一致）和排版，支持绘本、涂色书、谜题书、手账、小说、非虚构、漫画等 36 种图书类型、40 种插画风格和 34 种 KDP 支持的语言；导出 KDP 所需文件：内页 PDF、按最终页数计算书脊的全包封面 PDF、Kindle EPUB 电子书，以及含标题、简介、7 个关键词、分类和 AI 披露答案的上架信息表。另有免注册的 KDP 书脊宽度、封面尺寸、印刷成本和版税计算器。注册赠送 2,000 积分，无需信用卡；免费版导出带水印、不可销售，付费版每月 25 美元起。 | [官网](https://kdpbook.io/?utm_source=awesome-tools&utm_medium=github) |
 |  |  |  |
 |  |  |  |
 
