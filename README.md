@@ -97,6 +97,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | YYLO | YYLO 是一款 MIT 开源的命令行编码代理编排器，面向重复工作流与带回执（receipt-backed）的仓库变更：`task start` 冻结受保护目标 SHA 并创建专用分支/worktree，合并队列按风险等级执行评审，提供类型化任务、验证、合并和发布就绪边界；支持 Pi 与 Codex 子代理，通过 npm 安装 @yylo/cli，提供 yylo/yy 命令。 | https://github.com/yylo-dev/yylo |
 | Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
 | NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
+| agent-manager | agent-manager 是一款 Apache-2.0 开源的终端 UI，把 Claude Code、Codex、OpenCode、Gemini CLI、Pi 等编码代理 CLI 放在各自持久的 tmux 会话中并排运行。它直接启动用户本机已安装的原版 CLI，登录、订阅、配置文件和 MCP 服务器照常沿用。所有会话的实时状态集中在一个列表中，无需进入会话即可发送提示，会话可使用独立的 git worktree，还能以全文件 diff 审阅代理的改动，并把行内评论作为一条评审提示发回代理。支持 macOS、Linux 及 WSL2 下的 Windows。 | https://github.com/YoanWai/agent-manager |
 |  |  |  |
 |  |  |  |
 |  |  |  |
