@@ -141,7 +141,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CC Switch | CC Switch 为你提供一个桌面应用来管理所有五个 CLI 工具。无需手动编辑配置文件，你将获得一个可视化界面，一键将供应商导入应用，一键在不同的供应商之间进行切换，内置 50+ 供应商预设、统一的 MCP, SKILLS 管理以及系统托盘即时切换功能——所有操作都基于可靠的 SQLite 数据库和原子写入机制，保护你的配置不被损坏。 | https://github.com/farion1231/cc-switch |
 | CC-Switch CLI | CC-Switch CLI 是一个统一管理 Claude Code、Codex、Gemini、OpenCode 与 OpenClaw 的供应商配置，并按应用提供 MCP 服务器、Skills 扩展、提示词、本地代理路由和环境检查等能力。 | https://github.com/SaladDay/cc-switch-cli |
 | Tokens Forge | Tokens Forge 是一个面向 GPT、Claude、Gemini 等模型的 AI Token 与 OpenAI-compatible API 网关，提供 API Key、模型路由、官方 Credit、RMB 钱包、用量账本和 AI 研究员工作流，适合需要统一管理模型调用与额度消耗的开发者。 | https://tokens-forge.com/ |
-|  |  |  |
+| onomeo | onomeo 是一个兼容 OpenAI 格式的 AI 接口聚合站，一把 API Key 可调用 DeepSeek、GLM、Gemini、Qwen 等 35 个免费模型（免费模型不扣额度，未付费账号每 5 小时 20 次），网页端也能直接对话和画图；Claude、GPT 等大模型需付费使用。目前是公测阶段，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提。 | https://onomeo.com/zh |
 |  |  |  |
 |  |  |  |
 |  |  |  |
