@@ -688,6 +688,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | MooTool | MooTool 是一个功能丰富、跨平台（Windows • Linux • macOS）、开源免费的开发者工具箱，能够显著提高开发效率，简化开发流程。无论是代码编写与调试、数据处理与转换、网络请求调试还是加密解密与安全等方面，MooTool 都能提供有力的支持。 | https://github.com/rememberber/MooTool |
 | PowerToolbox | PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。 | https://github.com/Gaoyifei1011/PowerToolbox |
 | TFFileExtractor | TFFileExtractor 是一款 Windows 原生 GUI 工具，用于从 FAT32 格式的 TF/存储卡中恢复隐藏或加密的音频文件。直接读取 FAT 表恢复数据，支持 ID3v2 和 MPEG 帧同步双重检测，开源免费（MIT License）。 | https://github.com/niyongsheng/TFFileExtractor |
+| UtiliVera | Free Windows utilities for images, OCR, scans, duplicates, screenshots and ISOs (offline, no account). 免费 Windows 工具集：图片/OCR/扫描/查重/截图/ISO，离线无需账号。 | https://utilivera.com/ |
 |  |  |  |
 |  |  |  |
 
