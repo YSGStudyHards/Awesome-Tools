@@ -639,6 +639,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Vaultool | Vaultool 是一款免费在线开发者工具箱，提供 30+ 款实用工具，涵盖图片压缩/格式转换/抠图、PDF 合并/拆分/压缩/转换、文本处理、代码格式化、颜色选择器、Base64 编解码、JSON 格式化、哈希生成等。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，安全私密。界面简洁清爽，打开即用，适合开发者在日常工作中快速处理各类格式转换和数据处理任务。 | https://vaultool.com/ |
 | 计算器3000 | 面向国内用户的免费在线计算器工具站，覆盖房贷、个税、工资到手、车贷落地价、复利、BMI、体脂率等场景，页面提供公式说明、来源依据和更新时间。 | https://jsq3000.com |
 | PlainSums | Free online calculators for mortgage payments, take-home pay, loans, savings and retirement — itemized estimates with visible assumptions, no sign-up. 免费在线房贷、到手工资、贷款、储蓄与退休计算器，明细估算与假设可见，无需注册。 | https://plainsums.com |
+| NUMORA | ~380 free browser calculators (EN+ZH), formulas on page, no signup, no ads. 约380个免费浏览器计算器，中英双语，页内公式，无需注册无广告。 | https://numlucid.com/ |
 | Concrete Estimator Hub | 免费在线混凝土估算计算器集合，适合快速计算板基础体积、混凝土袋数、柱洞用量、预拌混凝土和袋装混凝土对比，以及材料成本；无需注册，浏览器中直接使用。 | https://concreteestimatorhub.com/ |
 | 闲鱼虚拟资料网盘发货检查器 | 一款免费的浏览器端发货前检查工具，适合闲鱼模板、教程、Excel、PPT、提示词等虚拟资料卖家，在发送网盘链接前检查提取码、文件清单、打开方式、补发规则、退款边界和订单记录字段；无需登录，核心处理在本地浏览器完成。 | https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/ |
 | 1024工具箱 | 一款免费的程序员在线工具箱。 | https://1024toolbox.com/zh-cn/ |
