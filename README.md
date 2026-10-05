@@ -608,6 +608,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PDFgear | PDFgear 是一个免费 PDF 编辑软件和在线工具，支持编辑文本、合并文件、拆分页面、压缩体积、格式转换（如 PDF 转 Word、Excel、PPT）、添加注释和签名，也可以通过 AI 功能对 PDF 内容进行提问、总结和翻译。 | https://www.pdfgear.com/zh/ |
 | ToolGarden-PDF | PDF在线处理： PDF转化、合并、拆分、加密/解密、加水印、转图片等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/pdf |
 | cv.cm | cv.cm 是开源（MIT）的浏览器 PDF 工具：合并、拆分、压缩、PDF 与 JPG 互转。文件在当前标签页处理，不上传服务器，无需注册。 | https://cv.cm/en/merge-pdf/ |
+| PDFCore | Free Windows desktop PDF toolkit: PDF to Word, OCR, merge, split, compress and protect (offline, no account). 免费 Windows 桌面 PDF 工具：转 Word、OCR、合并拆分压缩加密，离线无需账号。 | https://pdfcore.com/ |
 |  |  |  |
 |  |  |  |
 
