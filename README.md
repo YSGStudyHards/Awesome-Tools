@@ -856,6 +856,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Photoshop | Adobe Photoshop 简称“PS”，是由Adobe Systems开发和发行的图像处理软件。Photoshop主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。ps有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。 | https://helpx.adobe.com/cn/support/photoshop-china.html |
+| IconVectors | 适用于 Windows、macOS 和 Linux 的桌面 SVG 图标编辑器，支持矢量绘制、SVG 清理及 SVG、React、Vue、XAML 等格式导出。付费软件，提供 30 天试用。 | https://iconvectors.io/ |
 | onlineps101 | 免费在线PS，在浏览器中即时编辑照片。无需下载，无需注册——专业的照片编辑工具，快速、简单、100%免费。 | https://onlineps101.org/zh/  |
 | FreePNGConvert | 免费在线WebP转PNG转换器。无需上传到服务器，所有图片处理在浏览器本地完成，保护隐私。快速、免费、无限次使用。 | https://freepngconvert.com |
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
