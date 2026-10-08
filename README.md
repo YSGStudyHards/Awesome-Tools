@@ -244,6 +244,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | bm.md | bm.md 是一款更好用的 Markdown 排版助手，一键适配微信公众号、网页与图片。 | https://github.com/miantiao-me/bm.md |
 | WeMD | WeMD 是一款开源免费、让你专注书写、告别格式烦恼的公众号编辑器。WeMD 内置了一套色彩语义保全算法，可在编辑器中预览微信公众号深色模式下的实际效果，还原度达 98% 以上。 | https://github.com/tenngoxars/WeMD |
 | MarkEdit | MarkEdit 是一款免费的、开源的 Markdown 编辑器，专为 macOS 平台设计。它的功能与 Mac 上的 TextEdit 类似，但更专注于 Markdown 格式的文档处理。 | https://github.com/MarkEdit-app/MarkEdit |
+| MacMD Viewer | MacMD Viewer 是一款收费（19.99 美元一次性买断）的 macOS 只读 Markdown 阅读器，需要 macOS 14 及以上版本，本身不提供编辑功能。它支持在访达中通过快速查看（Quick Look）预览 Markdown 文件，渲染 Mermaid 图表，代码语法高亮，文件在磁盘上被修改后自动重新加载，提供文档大纲导航和 12 种主题，可导出保留 Mermaid 图表和高亮代码的 PDF，并可离线使用。也可通过 `brew install --cask macmd-viewer` 安装。 | https://macmdviewer.com |
 |  |  |  |
 |  |  |  |
 
