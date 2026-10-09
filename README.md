@@ -97,6 +97,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | YYLO | YYLO 是一款 MIT 开源的命令行编码代理编排器，面向重复工作流与带回执（receipt-backed）的仓库变更：`task start` 冻结受保护目标 SHA 并创建专用分支/worktree，合并队列按风险等级执行评审，提供类型化任务、验证、合并和发布就绪边界；支持 Pi 与 Codex 子代理，通过 npm 安装 @yylo/cli，提供 yylo/yy 命令。 | https://github.com/yylo-dev/yylo |
 | Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
 | NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
+| 5dive | 5dive 是一款 MIT 开源的命令行工具，在你自己的 Linux 服务器上运行一支 AI 编码代理团队：每个代理是一个独立的 Linux 用户，以 systemd 服务运行 Claude Code、Codex 等官方代理 CLI，通过共享任务队列互相分派工作，可在 Telegram 或 Discord 上与它们对话。 | https://github.com/5dive-ai/5dive |
 |  |  |  |
 |  |  |  |
 |  |  |  |
