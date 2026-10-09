@@ -98,6 +98,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Codex Quota Overlay | Codex Quota Overlay 是一款 MIT 开源的 Windows 桌面工具，把 Codex 当前限额、重置倒计时和可选的速率上下文显示在对话标题旁，并提供本地 Quota Center 查看趋势、预测与活动摘要；数据默认保留在本地。 | https://github.com/cpys/codex-quota-overlay/releases |
 | NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
 | mu | mu 是一个基于 pi 的开源编程 Agent（MIT），把例行的小判断交给小型判定模型 Jev：哪段工具输出进入上下文、被规则拦下的命令是不是用户要求的、抓取的网页里有没有冲着 AI 的指令、"做完了"有没有经过验证，共 30 多个决策点，每次判定都记入本地账本，可随时查看。提供命令行（npm i -g mu-agent）和 macOS、Windows、Linux 桌面端；可用 ChatGPT、Claude、Grok、Google 订阅登录，也可接任意 OpenAI / Anthropic 兼容接口；能导入 Claude Code 与 Codex 的对话继续使用。 | https://github.com/qybaihe/mu |
+| 5dive | 5dive 是一款 MIT 开源的命令行工具，在你自己的 Linux 服务器上运行一支 AI 编码代理团队：每个代理是一个独立的 Linux 用户，以 systemd 服务运行 Claude Code、Codex 等官方代理 CLI，通过共享任务队列互相分派工作，可在 Telegram 或 Discord 上与它们对话。 | https://github.com/5dive-ai/5dive |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -245,6 +246,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | bm.md | bm.md 是一款更好用的 Markdown 排版助手，一键适配微信公众号、网页与图片。 | https://github.com/miantiao-me/bm.md |
 | WeMD | WeMD 是一款开源免费、让你专注书写、告别格式烦恼的公众号编辑器。WeMD 内置了一套色彩语义保全算法，可在编辑器中预览微信公众号深色模式下的实际效果，还原度达 98% 以上。 | https://github.com/tenngoxars/WeMD |
 | MarkEdit | MarkEdit 是一款免费的、开源的 Markdown 编辑器，专为 macOS 平台设计。它的功能与 Mac 上的 TextEdit 类似，但更专注于 Markdown 格式的文档处理。 | https://github.com/MarkEdit-app/MarkEdit |
+| MacMD Viewer | MacMD Viewer 是一款收费（19.99 美元一次性买断）的 macOS 只读 Markdown 阅读器，需要 macOS 14 及以上版本，本身不提供编辑功能。它支持在访达中通过快速查看（Quick Look）预览 Markdown 文件，渲染 Mermaid 图表，代码语法高亮，文件在磁盘上被修改后自动重新加载，提供文档大纲导航和 12 种主题，可导出保留 Mermaid 图表和高亮代码的 PDF，并可离线使用。也可通过 `brew install --cask macmd-viewer` 安装。 | https://macmdviewer.com |
 |  |  |  |
 |  |  |  |
 
@@ -857,6 +859,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Photoshop | Adobe Photoshop 简称“PS”，是由Adobe Systems开发和发行的图像处理软件。Photoshop主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。ps有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。 | https://helpx.adobe.com/cn/support/photoshop-china.html |
+| IconVectors | 适用于 Windows、macOS 和 Linux 的桌面 SVG 图标编辑器，支持矢量绘制、SVG 清理及 SVG、React、Vue、XAML 等格式导出。付费软件，提供 30 天试用。 | https://iconvectors.io/ |
 | onlineps101 | 免费在线PS，在浏览器中即时编辑照片。无需下载，无需注册——专业的照片编辑工具，快速、简单、100%免费。 | https://onlineps101.org/zh/  |
 | FreePNGConvert | 免费在线WebP转PNG转换器。无需上传到服务器，所有图片处理在浏览器本地完成，保护隐私。快速、免费、无限次使用。 | https://freepngconvert.com |
 | BulkPicTools | BulkPicTools 是一款免费的浏览器端图片批量处理工具套件，独创工具链串联功能：批量压缩→格式转换→裁剪，一次上传完成全流程，无需重复上传。本地AI（背景移除、人脸模糊）基于 WebGPU/WASM 在设备端运行，无需 API Key，离线可用。40+ 工具支持 HEIC/WebP/AVIF/SVG 等格式，单次处理200+图片，文件100%本地处理不上传服务器，无需注册完全免费。 | https://bulkpictools.com/zh |
