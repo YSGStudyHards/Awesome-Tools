@@ -661,6 +661,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | A Box of Tools | 免费的浏览器端工具箱，30 多款工具，一个工具只干一件事：图片（压到指定大小、缩放、HEIC 转 JPG、清 EXIF、转 ICO 图标、打码）、视频与动画（裁剪、剪辑、倒放、截帧、转 GIF、延时摄影）、文档与音频（PDF 合并/压缩/涂黑、图片转 PDF、DICOM 查看、音频剪辑）、文本与编码（JSON 格式化、文本对比、Base64 编解码、哈希校验、二维码与条码读写、密码生成）。全程在你自己的浏览器里跑，文件不上传服务器，也不用注册；每个工具都能装成 PWA 离线使用。支持 15 种语言（含简体、繁体中文），开源（MIT）。 | https://abox.tools/zh/ |
 | FileOnTap | 免费的浏览器端 HEIC 转 PNG 转换工具，所有处理均在本地完成，文件不上传，无需注册。 | https://fileontap.com/heic-to-png/ |
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
+| ToolStack | 免费在线工具箱，汇集 32 款浏览器端实用工具：JSON 格式化/校验、图片压缩、颜色转换、单位换算、计算器、二维码生成、Base64 编解码、时间戳转换等。全部工具在浏览器本地运行，数据不上传服务器，无需注册、完全免费，支持 7 种语言（中/英/日/法/德/西/葡），打开即用、界面无干扰，适合开发者、设计师和办公人群。 | https://tools.mindutil.com/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
