@@ -661,6 +661,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | A Box of Tools | 免费的浏览器端工具箱，30 多款工具，一个工具只干一件事：图片（压到指定大小、缩放、HEIC 转 JPG、清 EXIF、转 ICO 图标、打码）、视频与动画（裁剪、剪辑、倒放、截帧、转 GIF、延时摄影）、文档与音频（PDF 合并/压缩/涂黑、图片转 PDF、DICOM 查看、音频剪辑）、文本与编码（JSON 格式化、文本对比、Base64 编解码、哈希校验、二维码与条码读写、密码生成）。全程在你自己的浏览器里跑，文件不上传服务器，也不用注册；每个工具都能装成 PWA 离线使用。支持 15 种语言（含简体、繁体中文），开源（MIT）。 | https://abox.tools/zh/ |
 | FileOnTap | 免费的浏览器端 HEIC 转 PNG 转换工具，所有处理均在本地完成，文件不上传，无需注册。 | https://fileontap.com/heic-to-png/ |
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
+| Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
 |  |  |  |
 |  |  |  |
 |  |  |  |
