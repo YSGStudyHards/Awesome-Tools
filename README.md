@@ -100,6 +100,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | mu | mu 是一个基于 pi 的开源编程 Agent（MIT），把例行的小判断交给小型判定模型 Jev：哪段工具输出进入上下文、被规则拦下的命令是不是用户要求的、抓取的网页里有没有冲着 AI 的指令、"做完了"有没有经过验证，共 30 多个决策点，每次判定都记入本地账本，可随时查看。提供命令行（npm i -g mu-agent）和 macOS、Windows、Linux 桌面端；可用 ChatGPT、Claude、Grok、Google 订阅登录，也可接任意 OpenAI / Anthropic 兼容接口；能导入 Claude Code 与 Codex 的对话继续使用。 | https://github.com/qybaihe/mu |
 | 5dive | 5dive 是一款 MIT 开源的命令行工具，在你自己的 Linux 服务器上运行一支 AI 编码代理团队：每个代理是一个独立的 Linux 用户，以 systemd 服务运行 Claude Code、Codex 等官方代理 CLI，通过共享任务队列互相分派工作，可在 Telegram 或 Discord 上与它们对话。 | https://github.com/5dive-ai/5dive |
 | Archcore | 面向 AI 编码代理的 Git 原生上下文工程与规格驱动开发。 | https://github.com/archcore-ai/archcore |
+| workkit | workkit 是一款 Claude Code 插件，把 GitHub Issues 变成开发流水线：每个 issue 按标签依次经过收集、规格、构建、QA、发布；主会话作为"经理"，把已确认规格的 issue 交给 worker 子代理写代码和测试，再由 verifier 子代理在看不到实现过程的情况下审查；hooks 保证完整测试套件在本次提交的代码上通过之前不允许提交。含 9 个 `/workkit:*` Skills，通过 `claude plugin marketplace add ITW-Creative-Works/workkit` 安装。 | https://github.com/ITW-Creative-Works/workkit |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -133,6 +134,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Jev Social | Jev Social 是一款 MIT 开源的社交媒体研究应用。Jev 只在受限的 Instagram、TikTok、LinkedIn 搜索、打开、检查和停止操作中做类型化选择；本地 socai CLI 使用用户已登录的 Chrome 获取帖子、评论和视频，界面流式展示证据并生成带来源链接的报告。需要 Node.js 20+、当前 socai CLI、对应平台登录，以及 OpenRouter key 或显式配置的本地 System One 兼容决策服务。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
 | Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
 | kdpbook.io | kdpbook.io 是一款面向亚马逊 KDP（Kindle Direct Publishing）的网页端 AI 图书工作室：在对话中描述想要的书，或导入自己的书稿，即可自动完成写作、插图（用角色参考图保持各页人物一致）和排版，支持绘本、涂色书、谜题书、手账、小说、非虚构、漫画等 36 种图书类型、40 种插画风格和 34 种 KDP 支持的语言；导出 KDP 所需文件：内页 PDF、按最终页数计算书脊的全包封面 PDF、Kindle EPUB 电子书，以及含标题、简介、7 个关键词、分类和 AI 披露答案的上架信息表。另有免注册的 KDP 书脊宽度、封面尺寸、印刷成本和版税计算器。注册赠送 2,000 积分，无需信用卡；免费版导出带水印、不可销售，付费版每月 25 美元起。 | [官网](https://kdpbook.io/?utm_source=awesome-tools&utm_medium=github) |
+| ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 |  |  |  |
 |  |  |  |
 
@@ -662,6 +664,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | A Box of Tools | 免费的浏览器端工具箱，30 多款工具，一个工具只干一件事：图片（压到指定大小、缩放、HEIC 转 JPG、清 EXIF、转 ICO 图标、打码）、视频与动画（裁剪、剪辑、倒放、截帧、转 GIF、延时摄影）、文档与音频（PDF 合并/压缩/涂黑、图片转 PDF、DICOM 查看、音频剪辑）、文本与编码（JSON 格式化、文本对比、Base64 编解码、哈希校验、二维码与条码读写、密码生成）。全程在你自己的浏览器里跑，文件不上传服务器，也不用注册；每个工具都能装成 PWA 离线使用。支持 15 种语言（含简体、繁体中文），开源（MIT）。 | https://abox.tools/zh/ |
 | FileOnTap | 免费的浏览器端 HEIC 转 PNG 转换工具，所有处理均在本地完成，文件不上传，无需注册。 | https://fileontap.com/heic-to-png/ |
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
+| Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
 |  |  |  |
 |  |  |  |
 |  |  |  |
