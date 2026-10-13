@@ -99,6 +99,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | NextReset | NextReset 是独立的 Codex 重置历史与官方事故来源追踪工具，并提供仅保存在浏览器本地的个人重置计时器；历史记录仅供参考，不保证未来重置时间。 | https://nextreset.ai/ |
 | mu | mu 是一个基于 pi 的开源编程 Agent（MIT），把例行的小判断交给小型判定模型 Jev：哪段工具输出进入上下文、被规则拦下的命令是不是用户要求的、抓取的网页里有没有冲着 AI 的指令、"做完了"有没有经过验证，共 30 多个决策点，每次判定都记入本地账本，可随时查看。提供命令行（npm i -g mu-agent）和 macOS、Windows、Linux 桌面端；可用 ChatGPT、Claude、Grok、Google 订阅登录，也可接任意 OpenAI / Anthropic 兼容接口；能导入 Claude Code 与 Codex 的对话继续使用。 | https://github.com/qybaihe/mu |
 | 5dive | 5dive 是一款 MIT 开源的命令行工具，在你自己的 Linux 服务器上运行一支 AI 编码代理团队：每个代理是一个独立的 Linux 用户，以 systemd 服务运行 Claude Code、Codex 等官方代理 CLI，通过共享任务队列互相分派工作，可在 Telegram 或 Discord 上与它们对话。 | https://github.com/5dive-ai/5dive |
+| Archcore | 面向 AI 编码代理的 Git 原生上下文工程与规格驱动开发。 | https://github.com/archcore-ai/archcore |
 | workkit | workkit 是一款 Claude Code 插件，把 GitHub Issues 变成开发流水线：每个 issue 按标签依次经过收集、规格、构建、QA、发布；主会话作为"经理"，把已确认规格的 issue 交给 worker 子代理写代码和测试，再由 verifier 子代理在看不到实现过程的情况下审查；hooks 保证完整测试套件在本次提交的代码上通过之前不允许提交。含 9 个 `/workkit:*` Skills，通过 `claude plugin marketplace add ITW-Creative-Works/workkit` 安装。 | https://github.com/ITW-Creative-Works/workkit |
 |  |  |  |
 |  |  |  |
