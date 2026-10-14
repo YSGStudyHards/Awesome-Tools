@@ -134,6 +134,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
 | kdpbook.io | kdpbook.io 是一款面向亚马逊 KDP（Kindle Direct Publishing）的网页端 AI 图书工作室：在对话中描述想要的书，或导入自己的书稿，即可自动完成写作、插图（用角色参考图保持各页人物一致）和排版，支持绘本、涂色书、谜题书、手账、小说、非虚构、漫画等 36 种图书类型、40 种插画风格和 34 种 KDP 支持的语言；导出 KDP 所需文件：内页 PDF、按最终页数计算书脊的全包封面 PDF、Kindle EPUB 电子书，以及含标题、简介、7 个关键词、分类和 AI 披露答案的上架信息表。另有免注册的 KDP 书脊宽度、封面尺寸、印刷成本和版税计算器。注册赠送 2,000 积分，无需信用卡；免费版导出带水印、不可销售，付费版每月 25 美元起。 | [官网](https://kdpbook.io/?utm_source=awesome-tools&utm_medium=github) |
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
+| looot | looot 是一个面向 AI 智能体和开发者的商业数据 API：一个 API Key、一份预付余额，即可调用来自 77 家数据商的约 2,400 个端点，涵盖人员与公司信息补全、工作邮箱查找与验证、网页搜索与网页读取、新闻、本地商家（Google Maps）检索、技术栈识别等。提供远程 MCP 服务器（https://api.looot.ai/mcp，Streamable HTTP，支持浏览器 OAuth 登录或 Bearer Key），可接入 Claude Code、Cursor、Codex 等客户端。按调用付费，使用预付余额，无免费额度，新工作区默认没有余额。 | [官网](https://looot.ai) / [MCP 文档](https://docs.looot.ai) |
 |  |  |  |
 |  |  |  |
 
