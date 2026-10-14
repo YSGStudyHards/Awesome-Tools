@@ -338,7 +338,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PDManer | PDManer元数建模，是一款多操作系统开源免费的桌面版关系数据库模型建模工具，相对于PowerDesigner，他具备界面简洁美观，操作简单，上手容易等特点。支持Windows,Mac,Linux等操作系统，也能够支持国产操作系统。 | https://gitee.com/robergroup/pdmaner |
 | drawDB | drawDB是一个开源、简单、直观、强大且用户友好的在线数据库设计工具和 SQL 生成器，支持多种数据库。只需点击几下即可构建图表，导出SQL脚本，可以自定义编辑器等，并且无需登录即可使用。 | https://github.com/drawdb-io/drawdb |
 | dbdiagram | dbdiagram 是一款免费、简单、高效的在线图形化数据库设计工具，专为开发者和数据分析师设计。它可以通过输入 DSL（领域特定语言）代码来快速绘制数据库 ER 图。支持 MySQL、PostgreSQL、SQL Server 等多种数据库，支持 SQL 导入与导出（导出为 PDF/PNG/SVG）。 | https://dbdiagram.io/d |
-|  |  |  |
+| Schema3D | Schema3D 是一款开源免费（MIT）的在线数据库 Schema 可视化工具，在浏览器中以交互式 3D（可切换 2D）方式浏览表和外键关系。支持粘贴 SQL、Mermaid ER 图或 DrawDB JSON，可生成分享链接，无需连接数据库。 | https://github.com/shane-jacobeen/schema3d |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
