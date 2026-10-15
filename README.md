@@ -873,6 +873,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Nutilz HEIC to PNG | 免费在线 HEIC 转 PNG 工具，一键将 iPhone 拍摄的 HEIC/HEIF 照片转换为通用的 PNG 格式，无需安装软件、无需注册，浏览器直接处理。 | https://nutilz.com/heic-to-png |
 | Pixpresso | Pixpresso 是一款 macOS 原生的轻量级图片查看与编辑工具，专为那些不值得打开 Photoshop 的日常小活而生：裁剪截图、摆正照片、给同事标注、发送前调整尺寸。打开任意一张图片，侧边栏会自动列出同文件夹内的全部图片缩略图，支持裁剪（可指定 1:1、3:2、4:3、16:9 等比例或精确输入坐标）、缩放、旋转翻转、标注（矩形/椭圆/直线/箭头/自由绘制/文字，带图层与撤销重做）、9 种滤镜预设与亮度对比度饱和度模糊调节、图片文字提取复制，并可导出为 JPG/PNG/WebP。支持 PNG、JPG、WebP、GIF、BMP、TIFF，免费使用。 | https://getapps.cafe/app/pixpresso |
 | TinyImage | TinyImage 是一款免费的本地图片压缩工具（支持 Windows、macOS），可在几乎不损失可见画质的前提下压缩 PNG、JPEG 和 WebP。整个窗口即拖放区，拖入单张图片或整个文件夹便立即开始批量压缩，支持“更小/均衡/最佳”三档压缩强度。不修改原图，压缩结果以自定义后缀另存为副本；保持原始尺寸与格式不变，保留色彩配置文件，并自动清除 EXIF/XMP 等隐私信息；若重新编码后反而变大会自动保留原文件。全部处理在本地完成，无需上传、无需注册。 | https://getapps.cafe/app/tinyimage |
+| FontVibe | AI 文字特效设计工具：用一句话描述需求（比如 YouTube 缩略图、海报、Logo），生成带艺术字的完整设计图，可选 126+ 种风格和 390+ 款字体。另有一批免费的花体字、颜文字等文字工具，不用注册。免费账号每天可领积分，付费套餐积分更多。 | https://fontvibe.ai/zh |
 |  |  |  |
 |  |  |  |
 |  |  |  |
