@@ -684,6 +684,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，安装包仅 2.9 MB，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
 | Focuh | Focuh 是一款免费的 macOS ADHD 待办与周计划工具，内置专注计时器和系统级网站/应用屏蔽，另有配套网页版。签名公证，支持 Apple Silicon 与 Intel。 | https://www.focuh.com |
 | BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
+| Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
