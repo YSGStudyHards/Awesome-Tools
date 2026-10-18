@@ -681,7 +681,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DevHub | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac/离线使用)，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 | https://wangchujiang.com/DevHub/index.zh.html |
 | uTools | uTools是一款功能丰富、高度可定制的桌面软件（实用工具箱）支持Windows, Mac, Linux版本，通过集成多种实用插件，为用户提供了一个便捷高效的工作平台。无论是专业人士还是普通用户，都能在uTools中找到适合自己的功能，提高工作效率和生活品质。如果你正在寻找一款能够提升工作效率的桌面软件，uTools绝对是一个值得尝试的选择。 | https://u.tools/download |
 | MooTool | MooTool 是一个功能丰富、跨平台（Windows • Linux • macOS）、开源免费的开发者工具箱，能够显著提高开发效率，简化开发流程。无论是代码编写与调试、数据处理与转换、网络请求调试还是加密解密与安全等方面，MooTool 都能提供有力的支持。 | https://github.com/rememberber/MooTool |
-| ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，安装包仅 2.9 MB，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
+| ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
 | Focuh | Focuh 是一款免费的 macOS ADHD 待办与周计划工具，内置专注计时器和系统级网站/应用屏蔽，另有配套网页版。签名公证，支持 Apple Silicon 与 Intel。 | https://www.focuh.com |
 | BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
 | Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
