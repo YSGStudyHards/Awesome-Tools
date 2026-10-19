@@ -664,7 +664,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | FileOnTap | 免费的浏览器端 HEIC 转 PNG 转换工具，所有处理均在本地完成，文件不上传，无需注册。 | https://fileontap.com/heic-to-png/ |
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
 | Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
-|  |  |  |
+| Online Lists Maker | Free online list maker, create and share lists instantly with no signup. | https://onlinelistsmaker.com/ 
 |  |  |  |
 |  |  |  |
 |  |  |  |
