@@ -494,7 +494,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DocFetcher  | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、HTML等多种格式，适合学生、研究人员及文档管理者。 | https://docfetcher.sourceforge.io/zh/download.html |
 | Flow Launcher | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 | Fluent Search | Fluent Search 是一款功能强大的搜索工具，可将您 PC 上可搜索的所有内容整合到一个闪电般快速的界面中。即时查找文件、应用程序、浏览器选项卡、Web 内容、打开的窗口等，从而帮助您节省时间并保持高效工作。 | https://apps.microsoft.com/detail/9nk1hlwhnp8s?hl=zh-CN&gl=US |
-|  |  |  |
+| Chatda | Chatda是一款免费的桌面文件搜索工具（Windows、macOS），既能按文件名搜索，也能搜索PDF、Word、Excel、PowerPoint、HWPX文档里的文字内容。支持本地磁盘、外置硬盘和网络文件夹（NAS），新文件保存后即可搜到。个人和企业均可免费使用，无广告、无需注册。 | https://barbellsoft.com/chatda/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
