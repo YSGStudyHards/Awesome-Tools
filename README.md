@@ -698,7 +698,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PowerToolbox | PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。 | https://github.com/Gaoyifei1011/PowerToolbox |
 | TFFileExtractor | TFFileExtractor 是一款 Windows 原生 GUI 工具，用于从 FAT32 格式的 TF/存储卡中恢复隐藏或加密的音频文件。直接读取 FAT 表恢复数据，支持 ID3v2 和 MPEG 帧同步双重检测，开源免费（MIT License）。 | https://github.com/niyongsheng/TFFileExtractor |
 | UtiliVera | Free Windows utilities for images, OCR, scans, duplicates, screenshots and ISOs (offline, no account). 免费 Windows 工具集：图片/OCR/扫描/查重/截图/ISO，离线无需账号。 | https://utilivera.com/ |
-|  |  |  |
+| ReviveUSB | ReviveUSB是一款免费的Windows U盘数据恢复与修复工具。针对提示“需要格式化”、显示为RAW或文件不见了的U盘，它会先把整个U盘备份为镜像，再从镜像中恢复文件，最后才修复U盘；如果U盘本身已经损坏，则不做修复，只把文件安全取出。目前为测试版，无广告。 | https://barbellsoft.com/revive/ |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
