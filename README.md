@@ -221,6 +221,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ZeroNote（秒开笔记） | 秒开笔记是一款零摩擦、零信任、纯前端的在线写作笔记，是你瞬时零感的写作缓冲带。支持 Markdown 与纯文本，无需注册、无需云端，内容仅保存在浏览器本地，随开随写。 | https://zeronote.online |
 | Browser SOP Builder | 免费开源的纯前端 SOP 编写工具，支持步骤、负责人、检查项以及 Markdown 复制和下载。无需注册，内容不上传服务器。 | https://max-agent-hub.github.io/browser-sop-builder/ |
 | Notebook | Notebook 一款界面简洁，使用方便的笔记App。这款在线记事本可记录文字、图片、音频、视频等内容，并同步到云端，随时记录笔记。 | https://www.zoho.com.cn/notebook |
+| Koru | Koru 是一款免费开源（MPL-2.0 协议）、本地优先的桌面笔记、文档与文件工作区，使用 Rust 原生开发，支持 Windows 和 macOS（Apple Silicon）。无需账号，可导入 Evernote、Notion、OneNote、Google Docs、Markdown 和 TextBundle，支持免费的设备间点对点同步，内置本地 MCP 服务器和终端标签页。 | https://github.com/koruworks/mono |
 |  |  |  |
 |  |  |  |
 |  |  |  |
