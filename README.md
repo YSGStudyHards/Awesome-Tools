@@ -620,6 +620,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PDFCore | Free Windows desktop PDF toolkit: PDF to Word, OCR, merge, split, compress and protect (offline, no account). 免费 Windows 桌面 PDF 工具：转 Word、OCR、合并拆分压缩加密，离线无需账号。 | https://pdfcore.com/ |
 |  |  |  |
 |  |  |  |
+| PDFnoted | Browser-first PDF workspace with AI watermark removal, annotation review, and CN/US/EU compliance check. Free plan: 3 AI-enhanced runs/day; Pro from $14.90/mo. | [官网](https://pdfnoted.com) |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
