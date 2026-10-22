@@ -627,7 +627,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | STranslate | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
 | Umi-OCR | 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | https://github.com/hiroi-sora/Umi-OCR |
-|  |  |  |
+| TranslateMyImage Image to Text | 免费的在线图片转文字（OCR）工具，识别完全在浏览器本地完成，图片不上传服务器，无需注册。Free image to text (OCR) tool that runs entirely in the browser; the image is never uploaded and no signup is required. | https://translatemyimage.com/tools/image-to-text |
 |  |  |  |
 |  |  |  |
 |  |  |  |
