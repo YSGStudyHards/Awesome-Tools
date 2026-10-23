@@ -381,6 +381,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | JMeter | Jmeter是由Apache公司开发的一个纯Java的开源项目，旨在对功能行为进行负载测试并测量性能。它最初是为测试 Web 应用程序而设计的，但后来扩展到其他测试功能。 | https://jmeter.apache.org/ |
 | RunnerGo | RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。 | https://github.com/Runner-Go-Team/runnerGo |
+| vhr-bench | vhr-bench 是一款免费开源（MIT 协议）的单文件 Bash 脚本，约一分钟完成一次 Linux 服务器基准测试：用 sysbench 测试 CPU 与内存，用 fio 测试硬盘 4K 随机读写 IOPS。安装 sysbench 或 fio 前会先征求同意；除非传入上传令牌，否则不会向任何地方发送数据；--cleanup 会卸载脚本自己安装的软件包。 | https://github.com/vpshostreview/vhr-vps-benchmark |
 |  |  |  |
 |  |  |  |
 |  |  |  |
