@@ -59,6 +59,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [📊报表制作工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%A5%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
 - [📲文件下载工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 - [🎹Docker管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#docker%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+- [📱App多商店发布工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#app%E5%A4%9A%E5%95%86%E5%BA%97%E5%8F%91%E5%B8%83%E5%B7%A5%E5%85%B7)
 - [🎃网络管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🚀内网穿透工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%B7%A5%E5%85%B7)
 - [🧳堡垒机工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%A0%A1%E5%9E%92%E6%9C%BA%E5%B7%A5%E5%85%B7)
@@ -789,6 +790,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Docker UI | DockerUI 是一个易于使用且轻量级的Docker管理工具。通过Web界面的操作，可以更方便地让不熟悉Docker指令的用户更快地进入Docker世界。DockerUI覆盖了Docker CLI命令行的95％以上的命令功能。通过DockerUI界面提供的可视化操作功能，可以轻松执行Docker环境和Docker Swarm群集环境的管理和维护功能。 | https://github.com/gohutool/docker.ui |
 | Dockge | Dockge 是一个开源免费（MIT license）、易于使用且响应迅速的自托管 docker compose.yaml 堆栈型管理器。通过 Dockge 可以轻松的管理你的 compose.yaml 文件（创建、编辑、启动、停止、重启和删除），提供 compose.yaml 交互式编辑器、交互式网页终端等功能。 | https://github.com/louislam/dockge |
 | HexHub | HexHub 是一款专为程序员和运维人员设计的一站式开发运维工具，它将数据库管理（Redis、MySQL、ClickHouse、MariaDB、PostgreSQL、SQLite）、SSH、SFTP、Docker 面板管理功能等核心功能无缝集成于统一、高效的桌面 GUI 平台（支持多平台 Windows、Mac、Linux）。它旨在提供一个高效、便捷的开发和运维环境，帮助用户更轻松地管理和操作各种开发和运维任务。 | https://www.hexhub.cn/#download |
+|  |  |  |
+|  |  |  |
+
+## 📱App多商店发布工具
+|                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
+| :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| apkgo | 用 Go 编写的开源 CLI + 托管版 apkgo cloud：一次上传 APK，并发发布到国内主流安卓应用商店，并支持鸿蒙 .app 与 iOS（云端）；可接 GitHub Actions / GitLab CI / fastlane；CLI 许可为 PolyForm Noncommercial（非商用免费许可）。免费版每月有上传额度。 | https://github.com/KevinGong2013/apkgo<br>https://apkgo.baici.tech |
 |  |  |  |
 |  |  |  |
 
