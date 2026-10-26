@@ -668,6 +668,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
 | Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
 | 代理成本计算器 | 免费在线代理成本计算器：模拟住宅代理粘性会话提前失效导致的 cf_clearance 重跑损失、真实 GB 消耗与月度账单，可对比粘性会话与逐请求轮换两种方案；纯浏览器本地计算，无需注册。A free browser-based calculator that models sticky-session IP drops, the cf_clearance re-run loss rate, real GB burned and the monthly residential proxy bill; client-side only, no signup. | https://proxy.mybskm.top/calculator/ |
+| The Audio Stuff 音频工具箱 | 免费的浏览器端音频工具合集（17 款）：ABX 盲听测试、EQ 听音训练、在线均衡器（可导出 Equalizer APO/AutoEQ/Wavelet/Poweramp 预设）、音调/噪声/扫频信号发生器（可导出 WAV）、扬声器与耳机声道/相位测试、FLAC/Hi-Res 频谱检测、耳机功率与安全音量计算器、房间驻波与吸音板计算器等；在浏览器本地运行，无需注册，不上传文件，可安装为 PWA。Free client-side audio toolbox, no signup. | https://theaudiostuff.com/tools/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -690,7 +691,6 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
 | Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
 | Peel | Peel 是一款免费开源（GPL-3.0 协议）的 macOS 原生卸载与清理工具：连同应用留下的文件一起移除，并告诉你每个文件为什么属于该应用；所有内容都移到废纸篓，需要时还能放回。还能清理开发者缓存、项目构建产物和重复文件。不收集统计数据，无需账号，支持简体中文与繁体中文，需要 macOS 26 或更高版本。 | https://github.com/TuguiDragos/Peel |
-| LayoutKeeper | LayoutKeeper 是一款免费开源（GPL-3.0 协议）的 macOS 原生菜单栏工具：按外接显示器记住每个窗口的位置、大小和所在桌面（Space，跨桌面恢复需 macOS 26+），拔掉显示器再插回时自动或一键把窗口放回原位；支持多显示器共用一套布局、菜单栏切换显示器排列，以及在 Apple Silicon 上用键盘亮度键通过 DDC 直接调外接屏亮度。 | https://github.com/tumingke0/LayoutKeeper |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
