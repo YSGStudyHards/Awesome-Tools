@@ -109,6 +109,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
+- [British Accent Generator](https://britishaccent.pro/) - 英式口音 AI TTS，262 个英国地区声线，含 voice clone / lip sync。
 ## 🤖AI实用效率工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
