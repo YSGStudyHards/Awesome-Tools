@@ -690,6 +690,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
 | Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
 | Peel | Peel 是一款免费开源（GPL-3.0 协议）的 macOS 原生卸载与清理工具：连同应用留下的文件一起移除，并告诉你每个文件为什么属于该应用；所有内容都移到废纸篓，需要时还能放回。还能清理开发者缓存、项目构建产物和重复文件。不收集统计数据，无需账号，支持简体中文与繁体中文，需要 macOS 26 或更高版本。 | https://github.com/TuguiDragos/Peel |
+| Command Reopen | Command Reopen 是一款 MIT 开源的 macOS 菜单栏工具：零权限修复原生 Cmd+Tab，自动恢复被最小化或关闭的窗口；沙盒、无辅助功能/完全磁盘等权限。Mac App Store 提供 2 天试用，之后 $9.99 买断（无订阅）。 | [官网](https://commandreopen.com/) / [GitHub](https://github.com/Feng6611/mac-command-reopen) / [MAS](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924) |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
