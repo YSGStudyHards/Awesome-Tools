@@ -160,6 +160,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | shortshort | shortshort 是一款网页端 AI 长视频转竖屏短视频工具：上传一段自己拥有的长视频（演讲、播客、课程、网络研讨会等，MP4/MOV/WebM，最长 3 小时、2 GB），自动逐字转写，挑选 15–90 秒、以完整句子开头和结尾的片段，跟踪画面中的人脸重新构图为 9:16（幻灯片和全景镜头保持完整画面），添加逐字字幕（4 种样式），导出 1080×1920、30 fps 的 MP4；片段选择、起止点、标题和字幕在渲染前均可修改。免费版注册送 60 积分（1 积分 = 1 分钟源视频），无需信用卡，每个视频生成 3 条短视频，导出带水印并公开在社区画廊；付费版每月 12 欧元起。 | https://www.shortshort.io |
 | OpenShorts | OpenShorts 是一款 MIT 开源的 AI 长视频转竖屏短视频工具：使用 faster-whisper 转写字幕，由大模型挑选精彩片段，跟踪人脸重新构图为 9:16，并添加动态字幕和分屏布局。基于 FastAPI + React，可用 Docker 自托管（支持通过 Ollama 等 OpenAI 兼容接口使用本地大模型），同时提供 REST API、MCP 服务器和命令行工具。 | https://github.com/mutonby/openshorts |
 | pitchboom.io | pitchboom.io 是一款网页端 AI 动态图形（motion design）视频广告工具：粘贴产品网址或用两行文字描述产品，选择目标（销售、注册、应用安装、发布、品牌认知、讲解、再营销）、平台、画幅和时长（6–120 秒），自动撰写脚本，生成可编辑、确认后才渲染的分镜，添加配音（34 种语言）和自动生成的背景音乐，输出 1080p MP4（Pro 和 Premium 支持 4K），16:9、9:16、1:1、4:5、3:4 各画幅分别重新排版而非裁剪。付费订阅，每月 30 欧元起（不含增值税），无免费版和试用。 | https://pitchboom.io |
+| OpenMontage Drama Studio | 开源（AGPL-3.0）、可 Docker Compose 自部署的 AI 短剧工坊：输入一句话灵感，依次生成剧本、角色、场景、道具、分镜出片、配音、剪辑 7 个步骤，每步都可修改重跑；适用于短剧、爆款短视频和电商带货广告片。视频镜头调用火山方舟 Seedance（付费 API）。 | https://github.com/charliewwdev/OpenMontage |
 |  |  |  |
 |  |  |  |
 |  |  |  |
