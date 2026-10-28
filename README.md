@@ -49,6 +49,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎶实用音乐播放器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8)
 - [🍇PDF管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#pdf%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🥠实用OCR工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E5%AE%9E%E7%94%A8ocr%E5%B7%A5%E5%85%B7)
+- [📬邮件客户端](#邮件客户端)
 - [🎡在线工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🍎Mac实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#mac%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
@@ -633,6 +634,11 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 📬邮件客户端
+| 工具名称 | 工具详细介绍 | 工具地址 |
+| :--- | :--- | :--- |
+| EpicMail | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. 提供网页端和 Android 应用，用于管理个人的多个邮箱账户。连接账户前需要有效银行卡以防止滥用；Adventurer 套餐在用户升级前保持 $0。界面为英文。 | [官网](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=ysgstudyhards_office_tools) |
 
 ## 🎡在线工具箱
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
