@@ -640,6 +640,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :--- | :--- | :--- |
 | EpicMail | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. 提供网页端和 Android 应用，用于管理个人的多个邮箱账户。连接账户前需要有效银行卡以防止滥用；Adventurer 套餐在用户升级前保持 $0。界面为英文。 | [官网](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=ysgstudyhards_office_tools) |
 
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
 ## 🎡在线工具箱
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
