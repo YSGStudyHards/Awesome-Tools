@@ -917,7 +917,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Google 翻译 | 浏览网页时可轻松查看翻译版本。 | https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh |
 | 沉浸式翻译 | 【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。 | https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh |
-|  |  |  |
+| Open Stay Focused | 免费开源的 Chrome 网站限时与专注插件。支持网站分组共享每日额度、实时倒计时、强制专注、干扰隐藏和本地可视化统计；无需账户、无遥测，支持中文和英文。 | https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem |
 |  |  |  |
 |  |  |  |
 |  |  |  |
