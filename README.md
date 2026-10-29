@@ -49,7 +49,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎶实用音乐播放器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8)
 - [🍇PDF管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#pdf%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🥠实用OCR工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E5%AE%9E%E7%94%A8ocr%E5%B7%A5%E5%85%B7)
-- [📬邮件客户端](#邮件客户端)
+- [📬邮件客户端](https://github.com/YSGStudyHards/Awesome-Tools/tree/main#%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF)
 - [🎡在线工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🍎Mac实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#mac%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
