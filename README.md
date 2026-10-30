@@ -677,7 +677,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
 | Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
 | 代理成本计算器 | 免费在线代理成本计算器：模拟住宅代理粘性会话提前失效导致的 cf_clearance 重跑损失、真实 GB 消耗与月度账单，可对比粘性会话与逐请求轮换两种方案；纯浏览器本地计算，无需注册。A free browser-based calculator that models sticky-session IP drops, the cf_clearance re-run loss rate, real GB burned and the monthly residential proxy bill; client-side only, no signup. | https://proxy.mybskm.top/calculator/ |
-|  |  |  |
+| Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
