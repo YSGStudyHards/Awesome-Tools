@@ -855,6 +855,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | halo | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | https://github.com/halo-dev/halo |
+| deed.page | deed.page 是一款面向 AI Agent 的免费静态网站托管服务：一条 curl PUT 请求（或通过远程 MCP 服务器）即可把 HTML 文件或整个文件夹发布为永久的 HTTPS 链接 `https://<slug>.deed.page`，无需注册账号，返回的令牌可用于后续更新。提供 MIT 开源的 Agent 技能包 [deed-page-skill](https://github.com/f-o-x11/deed-page-skill)，支持 Claude Code、Codex、Cursor、Gemini CLI 等。 | https://deed.page |
 |  |  |  |
 |  |  |  |
 |  |  |  |
