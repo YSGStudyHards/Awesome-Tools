@@ -138,7 +138,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CoverNice | CoverNice 是一款面向亚马逊 KDP 的封面设计工具：描述书籍内容后给出五个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面；不做内页与 EPUB，只负责封面。另有免注册的 KDP 书脊宽度计算器。 | [官网](https://covernice.com) |
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
-|  |  |  |
+| MakeImg | MakeImg 是一款在线 AI 图片生成工具：输入文字描述或上传参考图即可生成新图片，可在 Nano Banana 2.1、GPT Image 2.5、FLUX.2 Pro、Imagen 4、Ideogram V3、Seedream 5.0 Lite 等 11 个模型之间切换；每天赠送免费额度，浏览器即可使用，无需安装。 | https://makeimg.ai |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
