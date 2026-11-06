@@ -37,7 +37,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
-- [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
+- [](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
 - [👨‍🎓项目管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
 - [☘文件管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
@@ -474,6 +474,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BilldDesk | BilldDesk 是一款基于 Vue3 + WebRTC + Nodejs + Electron 搭建的远程桌面控制工具，旨在提供类似 ToDesk、向日葵等远程桌面软件的功能，同时保持开源、多端兼容和全能性的特点。 | https://github.com/galaxy-s10/billd-desk |
 | P2P | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
 | QuickDesk | QuickDesk 是首款 AI 原生远程桌面软件，开源免费，内置 MCP (Model Context Protocol) Server，让任何 AI Agent 都能看到和操控远程电脑。它扩展了 AI 计算机使用的范围，从只能操作本机扩展到可以操作世界上任何一台远程设备。 | https://gitee.com/Barryda/QuickDesk |
+| 节点小宝 | 节点小宝是一款免费的内网穿透与异地组网工具，基于自研P2P技术实现设备直连，无需公网IP，不限速。支持NAS远程访问、远程桌面、SSH、Docker管理、文件共享等场景。 | https://iepose.com/jdxb/pc/ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
