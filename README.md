@@ -37,7 +37,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
-- [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
+- [](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
 - [👨‍🎓项目管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
 - [☘文件管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
@@ -49,6 +49,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🎶实用音乐播放器](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%AE%9E%E7%94%A8%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8)
 - [🍇PDF管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#pdf%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🥠实用OCR工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E5%AE%9E%E7%94%A8ocr%E5%B7%A5%E5%85%B7)
+- [📬邮件客户端](https://github.com/YSGStudyHards/Awesome-Tools/tree/main#%E9%82%AE%E4%BB%B6%E5%AE%A2%E6%88%B7%E7%AB%AF)
 - [🎡在线工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🍎Mac实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#mac%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
 - [🌾Windows实用工具箱](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#windows%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1)
@@ -120,6 +121,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | lifeos-cli | 终端原生的个人操作系统，涵盖任务、笔记、习惯追踪和时间审计。特别针对 AI Agent 的操作进行了优化，支持通过命令行与 Agent 深度协作，实现意图与现实的闭环。 | https://github.com/liujuanjuan1984/lifeos-cli |
 | CCHub | CCHub 是一个面向 Claude Code / Codex / Gemini 命令行工具生态系统的桌面控制面板。通过单一的 Tauri 应用程序（支持 Windows / macOS / Linux 系统），您可以集中管理 MCP 服务器、配置文件、智能体技能、CLAUDE.md 文档、钩子函数以及工作流模板。 | https://github.com/Moresl/cchub |
 | igly.ai | igly.ai 是一款免费的AI图像编辑平台，提供一键抠图（背景移除）、AI智能修复（Inpainting）、图像超分辨率放大、生成式填充等功能。特别适合电商产品摄影、社交媒体图片处理等场景。[Demo演示](https://www.youtube.com/watch?v=HB2E1WZ12is) | https://igly.ai |
+| Nano Banana Live | Nano Banana Live 是一款免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。 | https://nano-banana.live |
 | Rao Edits | Rao Edits 是一款 AI 图像生成与照片编辑平台，支持通过文本提示创建和编辑图片，适用于创意设计、社交媒体内容和 CapCut 模板等场景。 | https://raoedits.top/ |
 | nika | nika 是一款用 Rust 编写的开源（AGPL）AI 工作流引擎：用 .nika.yaml 声明式描述工作流 DAG，执行前进行静态检查（schema 校验、权限控制、成本预估），执行后生成防篡改的执行轨迹，便于审计与复现。本地优先，支持 Ollama、llama.cpp、vLLM 等本地模型及离线 mock（零密钥可跑），同时内置 MCP 客户端与服务端，通过 infer/exec/invoke/agent 四个动词把重复的 AI 任务固化为可靠、可审计的工作流。 | https://github.com/supernovae-st/nika |
 | CowAgent | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 | https://github.com/zhayujie/CowAgent |
@@ -133,7 +135,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Jev Social | Jev Social 是一款 MIT 开源的社交媒体研究应用。Jev 只在受限的 Instagram、TikTok、LinkedIn 搜索、打开、检查和停止操作中做类型化选择；本地 socai CLI 使用用户已登录的 Chrome 获取帖子、评论和视频，界面流式展示证据并生成带来源链接的报告。需要 Node.js 20+、当前 socai CLI、对应平台登录，以及 OpenRouter key 或显式配置的本地 System One 兼容决策服务。 | [官网](https://socai-io.github.io/jev-social/) / [GitHub](https://github.com/socai-io/jev-social) |
 | Screenpipe | Screenpipe 是一款源代码可用的桌面记忆工具，采用 Screenpipe Commercial License。在本地采集屏幕文字和音频历史，可检索工作上下文、辅助整理会议纪要与工作总结，并通过 MCP 或本地 API 为 AI 助手提供上下文。启用云端 AI、转录、同步或外部集成时，相关数据可能离开设备。 | [官网](https://screenpipe.com/) / [GitHub](https://github.com/screenpipe/screenpipe) |
 | kdpbook.io | kdpbook.io 是一款面向亚马逊 KDP（Kindle Direct Publishing）的网页端 AI 图书工作室：在对话中描述想要的书，或导入自己的书稿，即可自动完成写作、插图（用角色参考图保持各页人物一致）和排版，支持绘本、涂色书、谜题书、手账、小说、非虚构、漫画等 36 种图书类型、40 种插画风格和 34 种 KDP 支持的语言；导出 KDP 所需文件：内页 PDF、按最终页数计算书脊的全包封面 PDF、Kindle EPUB 电子书，以及含标题、简介、7 个关键词、分类和 AI 披露答案的上架信息表。另有免注册的 KDP 书脊宽度、封面尺寸、印刷成本和版税计算器。注册赠送 2,000 积分，无需信用卡；免费版导出带水印、不可销售，付费版每月 25 美元起。 | [官网](https://kdpbook.io/?utm_source=awesome-tools&utm_medium=github) |
+| CoverNice | CoverNice 是一款面向亚马逊 KDP 的封面设计工具：描述书籍内容后给出五个可编辑的封面方向，按开本、页数和纸张自动计算书脊宽度，导出 300 dpi 全包平装封面 PDF（含出血与安全区）与 1600×2560 电子书封面；不做内页与 EPUB，只负责封面。另有免注册的 KDP 书脊宽度计算器。 | [官网](https://covernice.com) |
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
+| Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
+| 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
 | looot | looot 是一个面向 AI 智能体和开发者的商业数据 API：一个 API Key、一份预付余额，即可调用来自 77 家数据商的约 2,400 个端点，涵盖人员与公司信息补全、工作邮箱查找与验证、网页搜索与网页读取、新闻、本地商家（Google Maps）检索、技术栈识别等。提供远程 MCP 服务器（https://api.looot.ai/mcp，Streamable HTTP，支持浏览器 OAuth 登录或 Bearer Key），可接入 Claude Code、Cursor、Codex 等客户端。按调用付费，使用预付余额，无免费额度，新工作区默认没有余额。 | [官网](https://looot.ai) / [MCP 文档](https://docs.looot.ai) |
 |  |  |  |
 |  |  |  |
@@ -160,6 +165,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CreateFaceless | CreateFaceless 是一款 AI 不出镜 YouTube Shorts 一键生成工具，可自动完成脚本、画面、配音、字幕、封面、YouTube 元数据和 MP4 成片，无需剪辑经验。 | https://createfaceless.com/en |
 | shortshort | shortshort 是一款网页端 AI 长视频转竖屏短视频工具：上传一段自己拥有的长视频（演讲、播客、课程、网络研讨会等，MP4/MOV/WebM，最长 3 小时、2 GB），自动逐字转写，挑选 15–90 秒、以完整句子开头和结尾的片段，跟踪画面中的人脸重新构图为 9:16（幻灯片和全景镜头保持完整画面），添加逐字字幕（4 种样式），导出 1080×1920、30 fps 的 MP4；片段选择、起止点、标题和字幕在渲染前均可修改。免费版注册送 60 积分（1 积分 = 1 分钟源视频），无需信用卡，每个视频生成 3 条短视频，导出带水印并公开在社区画廊；付费版每月 12 欧元起。 | https://www.shortshort.io |
 | OpenShorts | OpenShorts 是一款 MIT 开源的 AI 长视频转竖屏短视频工具：使用 faster-whisper 转写字幕，由大模型挑选精彩片段，跟踪人脸重新构图为 9:16，并添加动态字幕和分屏布局。基于 FastAPI + React，可用 Docker 自托管（支持通过 Ollama 等 OpenAI 兼容接口使用本地大模型），同时提供 REST API、MCP 服务器和命令行工具。 | https://github.com/mutonby/openshorts |
+| pitchboom.io | pitchboom.io 是一款网页端 AI 动态图形（motion design）视频广告工具：粘贴产品网址或用两行文字描述产品，选择目标（销售、注册、应用安装、发布、品牌认知、讲解、再营销）、平台、画幅和时长（6–120 秒），自动撰写脚本，生成可编辑、确认后才渲染的分镜，添加配音（34 种语言）和自动生成的背景音乐，输出 1080p MP4（Pro 和 Premium 支持 4K），16:9、9:16、1:1、4:5、3:4 各画幅分别重新排版而非裁剪。付费订阅，每月 30 欧元起（不含增值税），无免费版和试用。 | https://pitchboom.io |
+| OpenMontage Drama Studio | 开源（AGPL-3.0）、可 Docker Compose 自部署的 AI 短剧工坊：输入一句话灵感，依次生成剧本、角色、场景、道具、分镜出片、配音、剪辑 7 个步骤，每步都可修改重跑；适用于短剧、爆款短视频和电商带货广告片。视频镜头调用火山方舟 Seedance（付费 API）。 | https://github.com/charliewwdev/OpenMontage |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -221,6 +228,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ZeroNote（秒开笔记） | 秒开笔记是一款零摩擦、零信任、纯前端的在线写作笔记，是你瞬时零感的写作缓冲带。支持 Markdown 与纯文本，无需注册、无需云端，内容仅保存在浏览器本地，随开随写。 | https://zeronote.online |
 | Browser SOP Builder | 免费开源的纯前端 SOP 编写工具，支持步骤、负责人、检查项以及 Markdown 复制和下载。无需注册，内容不上传服务器。 | https://max-agent-hub.github.io/browser-sop-builder/ |
 | Notebook | Notebook 一款界面简洁，使用方便的笔记App。这款在线记事本可记录文字、图片、音频、视频等内容，并同步到云端，随时记录笔记。 | https://www.zoho.com.cn/notebook |
+| Koru | Koru 是一款免费开源（MPL-2.0 协议）、本地优先的桌面笔记、文档与文件工作区，使用 Rust 原生开发，支持 Windows 和 macOS（Apple Silicon）。无需账号，可导入 Evernote、Notion、OneNote、Google Docs、Markdown 和 TextBundle，支持免费的设备间点对点同步，内置本地 MCP 服务器和终端标签页。 | https://github.com/koruworks/mono |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -261,6 +269,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | markitdown | MarkItDown 是一款轻量级的 Python 工具，用于将各种文件转换为 Markdown，以便与 LLM 和相关文本分析管道一起使用。为此，它最类似于 textract，但重点在于保留重要文档结构和内容（包括：标题、列表、表格、链接等）。虽然输出通常可以呈现得比较有吸引力且对人类友好，但其目的是要被文本分析工具所消费——对于人类消费的高精度文档转换可能不是最佳选择。 | https://github.com/microsoft/markitdown |
 | MarkdownTo | MarkdownTo 是一个免费、快速、注重隐私的在线 Markdown 转换器。即时将您的 Markdown 文档转换为多种格式。 | https://markdownto.org/zh |
 | Excel to Markdown | 免费的浏览器本地转换工具，可将 XLSX、XLS 和 CSV 转为 Markdown 表格；支持工作表、表头和列对齐设置，无需注册或上传文件。 | https://exceltomd.com/excel-to-markdown |
+| CSV Creator | 免费的浏览器本地 CSV 工具集：创建、查看、编辑 CSV，并在 CSV 与 Excel、JSON、SQL、Markdown 之间转换；无需注册，文件不会上传。 | https://csvcreator.com/en/csv-to-markdown |
 | Mdpresso | Mdpresso 是一款免费的在线 Markdown 转 PDF 工具，粘贴 Markdown 即可实时预览并导出 PDF；直接在浏览器中完成转换，无需安装，支持表格、代码块、链接与图片，中文、日文和 emoji 均可正常保留，导出无水印。 | https://mdpresso.com/md-to-pdf/ |
 |  |  |  |
 |  |  |  |
@@ -466,6 +475,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BilldDesk | BilldDesk 是一款基于 Vue3 + WebRTC + Nodejs + Electron 搭建的远程桌面控制工具，旨在提供类似 ToDesk、向日葵等远程桌面软件的功能，同时保持开源、多端兼容和全能性的特点。 | https://github.com/galaxy-s10/billd-desk |
 | P2P | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
 | QuickDesk | QuickDesk 是首款 AI 原生远程桌面软件，开源免费，内置 MCP (Model Context Protocol) Server，让任何 AI Agent 都能看到和操控远程电脑。它扩展了 AI 计算机使用的范围，从只能操作本机扩展到可以操作世界上任何一台远程设备。 | https://gitee.com/Barryda/QuickDesk |
+| 节点小宝 | 节点小宝是一款免费的内网穿透与异地组网工具，基于自研P2P技术实现设备直连，无需公网IP，不限速。支持NAS远程访问、远程桌面、SSH、Docker管理、文件共享等场景。 | https://iepose.com/jdxb/pc/ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
@@ -576,6 +589,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ScreenToGif | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
 | Captura | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。 | https://github.com/MathewSachin/Captura |
 | QuickRecorder | QuickRecorder 是一款基于 ScreenCapture Kit 的轻量化、多功能、高性能的 macOS 屏幕录制工具。 | https://github.com/lihaoyun6/QuickRecorder |
+| CurlShot | 在线网页截图工具：粘贴网址即可下载整页截图（PNG/JPEG/WebP）或 PDF，支持手机/平板视图、深色模式、屏蔽广告和 Cookie 弹窗，无需安装、无需注册。同时提供截图 API（免费套餐每月 100 张）和 MCP Server。Free online full-page website screenshot tool and screenshot API. | https://curlshot.com/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -632,6 +646,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
+## 📬邮件客户端
+| 工具名称 | 工具详细介绍 | 工具地址 |
+| :--- | :--- | :--- |
+| EpicMail | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. 提供网页端和 Android 应用，用于管理个人的多个邮箱账户。连接账户前需要有效银行卡以防止滥用；Adventurer 套餐在用户升级前保持 $0。界面为英文。 | [官网](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=ysgstudyhards_office_tools) |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
 ## 🎡在线工具箱
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -665,6 +686,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | FileOnTap | 免费的浏览器端 HEIC 转 PNG 转换工具，所有处理均在本地完成，文件不上传，无需注册。 | https://fileontap.com/heic-to-png/ |
 | Batonbox | Free online video, audio, image and PDF tools in the browser (no account; 8 exports/day). 免费的浏览器端视频、音频、图片和 PDF 工具，无需账号，每天 8 次免费导出。 | https://batonbox.com/ |
 | Stayput | 免费的浏览器端文件工具，共 101 款：图片（HEIC 转 JPG、压缩与缩放、清除 EXIF、抠图）、PDF（合并、拆分、压缩、签名）、视频与音频（裁剪、压缩、转 MP3）。文件在你的浏览器里处理，不会上传；无需注册，无水印；首次访问后可离线使用（抠图等模型工具需先联网运行一次）。界面目前只有英文。开源（MIT）。Free file tools that run in your browser: 94 tools for images (HEIC to JPG, compress and resize, remove EXIF, background removal), PDFs and video and audio. Your files are not uploaded. No sign-up, no watermark. Works offline after your first visit (model tools need one online run). English interface only. Open source (MIT). | https://stayput.dev |
+| 代理成本计算器 | 免费在线代理成本计算器：模拟住宅代理粘性会话提前失效导致的 cf_clearance 重跑损失、真实 GB 消耗与月度账单，可对比粘性会话与逐请求轮换两种方案；纯浏览器本地计算，无需注册。A free browser-based calculator that models sticky-session IP drops, the cf_clearance re-run loss rate, real GB burned and the monthly residential proxy bill; client-side only, no signup. | https://proxy.mybskm.top/calculator/ |
+| The Audio Stuff 音频工具箱 | 免费的浏览器端音频工具合集（17 款）：ABX 盲听测试、EQ 听音训练、在线均衡器（可导出 Equalizer APO/AutoEQ/Wavelet/Poweramp 预设）、音调/噪声/扫频信号发生器（可导出 WAV）、扬声器与耳机声道/相位测试、FLAC/Hi-Res 频谱检测、耳机功率与安全音量计算器、房间驻波与吸音板计算器等；在浏览器本地运行，无需注册，不上传文件，可安装为 PWA。Free client-side audio toolbox, no signup. | https://theaudiostuff.com/tools/ |
+| Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -685,6 +709,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ItsPaint | ItsPaint 是一款开源免费（MIT 协议）的 macOS 原生画图工具，支持画笔、图形、文字标注、马赛克和自动编号步骤标记，可导出 PNG/JPEG/GIF/HEIC/AVIF/PDF/ICO 等格式，安装包仅 2.9 MB，无网络请求、无遥测。 | https://github.com/joshlin2201/itspaint |
 | Focuh | Focuh 是一款免费的 macOS ADHD 待办与周计划工具，内置专注计时器和系统级网站/应用屏蔽，另有配套网页版。签名公证，支持 Apple Silicon 与 Intel。 | https://www.focuh.com |
 | BoardEject | BoardEject 是一款开源免费（MIT 协议）的 macOS 工具，将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件，并为所选白板创建可验证的本地存档（含原始资源），全程本地处理、不上传云端。 | https://github.com/royalpinto007/boardeject |
+| Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
+| Peel | Peel 是一款免费开源（GPL-3.0 协议）的 macOS 原生卸载与清理工具：连同应用留下的文件一起移除，并告诉你每个文件为什么属于该应用；所有内容都移到废纸篓，需要时还能放回。还能清理开发者缓存、项目构建产物和重复文件。不收集统计数据，无需账号，支持简体中文与繁体中文，需要 macOS 26 或更高版本。 | https://github.com/TuguiDragos/Peel |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -911,6 +937,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Google 翻译 | 浏览网页时可轻松查看翻译版本。 | https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh |
 | 沉浸式翻译 | 【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。 | https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh |
+| OpenTabs | OpenTabs 是一款免费开源（AGPL-3.0-or-later 协议）的新标签页扩展：把所有窗口里已打开的标签页按网站分组显示，可一键关闭某个网站的全部标签页（含折叠在「+N more」里的）、一键关闭重复标签页、用「Merge windows」把所有标签页合并到当前窗口，并按设定的时间自动关闭闲置的新标签页；标签页上方可选加资讯主题（RSS、Hacker News、arXiv、Reddit）、行情、天气、待办和 ICS 日历。数据都在后台预先获取，新标签页本身约 19 KB。无需账号，扩展不带统计和遥测；Chrome、Edge、Firefox 官方商店均可安装。 | https://chromewebstore.google.com/detail/tab-manager-duplicates-me/affieafbbikffginlnlkpahaefkbpgle |
+| Open Stay Focused | 免费开源的 Chrome 网站限时与专注插件。支持网站分组共享每日额度、实时倒计时、强制专注、干扰隐藏和本地可视化统计；无需账户、无遥测，支持中文和英文。 | https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem |
 |  |  |  |
 |  |  |  |
 |  |  |  |
