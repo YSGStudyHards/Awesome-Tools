@@ -139,6 +139,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
 | 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
+| looot | looot 是一个面向 AI 智能体和开发者的商业数据 API：一个 API Key、一份预付余额，即可调用来自 77 家数据商的约 2,400 个端点，涵盖人员与公司信息补全、工作邮箱查找与验证、网页搜索与网页读取、新闻、本地商家（Google Maps）检索、技术栈识别等。提供远程 MCP 服务器（https://api.looot.ai/mcp，Streamable HTTP，支持浏览器 OAuth 登录或 Bearer Key），可接入 Claude Code、Cursor、Codex 等客户端。按调用付费，使用预付余额，无免费额度，新工作区默认没有余额。 | [官网](https://looot.ai) / [MCP 文档](https://docs.looot.ai) |
 |  |  |  |
 |  |  |  |
 
