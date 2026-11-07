@@ -617,6 +617,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 🍇PDF管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| KaijuConverter | KaijuConverter 是一个万能在线文件与多媒体转换工具，支持 PDF、Word、Markdown、图片、音视频等 100+ 种格式之间互相转换，提供纯前端极速处理与开发者 API。 | https://kaijuconverter.com |
 | PDFPatcher | PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。 | https://github.com/wmjordan/PDFPatcher |
 | PDF24 Tools | PDF24 Tools 是一个免费且易于使用的在线PDF工具，在线PDF综合操作和管理工具。 | https://tools.pdf24.org/zh/all-tools |
 | PDF Arranger | PDF Arranger 是一款功能强大、易于使用的 PDF 文件整理工具，它提供了丰富的功能和直观的界面，能够满足用户在处理 PDF 文件时的各种需求。无论是合并、拆分、旋转、裁剪还是重新排列页面，PDF Arranger 都能够轻松胜任。 | https://github.com/pdfarranger/pdfarranger/releases |
