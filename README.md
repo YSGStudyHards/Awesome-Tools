@@ -704,6 +704,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🍎Mac实用工具箱
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - macOS 菜单栏生产力 HUD（日历、倒计时、便签）
+- [Tape](https://github.com/Yvsleyen00941/Tape) - 原生 macOS 股票加密行情工具，常驻 Dock 旁未占用角落
+- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 Markdown 阅读与写作工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | DevHub | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac/离线使用)，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 | https://wangchujiang.com/DevHub/index.zh.html |
