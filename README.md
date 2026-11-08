@@ -37,7 +37,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
-- [](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
+- [🤳远程连接工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
 - [👨‍🎓项目管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [👩‍💻文件搜索工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
 - [☘文件管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
@@ -649,6 +649,10 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 工具名称 | 工具详细介绍 | 工具地址 |
 | :--- | :--- | :--- |
 | EpicMail | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. 提供网页端和 Android 应用，用于管理个人的多个邮箱账户。连接账户前需要有效银行卡以防止滥用；Adventurer 套餐在用户升级前保持 $0。界面为英文。 | [官网](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=ysgstudyhards_office_tools) |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -711,6 +715,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Glim | Glim 是一款免费开源（MIT 协议）的 macOS 文件查看器，用一个工作区查看 Markdown（含 Mermaid 图表和公式）、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。使用 Rust + GPUI Kit 构建，提供 Apple Silicon 和 Intel 安装包。 | https://github.com/NeoPanic/Glim |
 | Peel | Peel 是一款免费开源（GPL-3.0 协议）的 macOS 原生卸载与清理工具：连同应用留下的文件一起移除，并告诉你每个文件为什么属于该应用；所有内容都移到废纸篓，需要时还能放回。还能清理开发者缓存、项目构建产物和重复文件。不收集统计数据，无需账号，支持简体中文与繁体中文，需要 macOS 26 或更高版本。 | https://github.com/TuguiDragos/Peel |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -723,6 +730,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PowerToolbox | PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。 | https://github.com/Gaoyifei1011/PowerToolbox |
 | TFFileExtractor | TFFileExtractor 是一款 Windows 原生 GUI 工具，用于从 FAT32 格式的 TF/存储卡中恢复隐藏或加密的音频文件。直接读取 FAT 表恢复数据，支持 ID3v2 和 MPEG 帧同步双重检测，开源免费（MIT License）。 | https://github.com/niyongsheng/TFFileExtractor |
 | UtiliVera | Free Windows utilities for images, OCR, scans, duplicates, screenshots and ISOs (offline, no account). 免费 Windows 工具集：图片/OCR/扫描/查重/截图/ISO，离线无需账号。 | https://utilivera.com/ |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
