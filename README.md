@@ -151,7 +151,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CC-Switch CLI | CC-Switch CLI 是一个统一管理 Claude Code、Codex、Gemini、OpenCode 与 OpenClaw 的供应商配置，并按应用提供 MCP 服务器、Skills 扩展、提示词、本地代理路由和环境检查等能力。 | https://github.com/SaladDay/cc-switch-cli |
 | Tokens Forge | Tokens Forge 是一个面向 GPT、Claude、Gemini 等模型的 AI Token 与 OpenAI-compatible API 网关，提供 API Key、模型路由、官方 Credit、RMB 钱包、用量账本和 AI 研究员工作流，适合需要统一管理模型调用与额度消耗的开发者。 | https://tokens-forge.com/ |
 | onomeo | onomeo 是一个兼容 OpenAI 格式的 AI 接口聚合站，一把 API Key 可调用 DeepSeek、GLM、Gemini、Qwen 等约 30 个免费模型（免费模型按次数计，每个账号每 5 小时 30 次），网页端也能直接对话和画图；Claude、GPT 等大模型按量付费（美元余额，5 美元起充）。目前是公测阶段，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提。 | https://onomeo.com/zh |
-|  |  |  |
+| SandBase CLI | SandBase CLI 是 Apache-2.0 开源的 AI 模型/API 聚合 CLI 与本地 MCP Server：一套命令行与 MCP 即可发现并调用 2,000+ 模型，对接 Claude Code、Cursor、Codex、ChatGPT 等客户端；另提供远程 MCP（https://sandbase.ai/v1/mcp，API Key 鉴权）。适合需要统一模型目录与 MCP 接入的开发者。 | https://github.com/sandbaseai/cli · https://sandbase.ai |
 |  |  |  |
 |  |  |  |
 
