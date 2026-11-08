@@ -947,7 +947,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 沉浸式翻译 | 【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。 | https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh |
 | OpenTabs | OpenTabs 是一款免费开源（AGPL-3.0-or-later 协议）的新标签页扩展：把所有窗口里已打开的标签页按网站分组显示，可一键关闭某个网站的全部标签页（含折叠在「+N more」里的）、一键关闭重复标签页、用「Merge windows」把所有标签页合并到当前窗口，并按设定的时间自动关闭闲置的新标签页；标签页上方可选加资讯主题（RSS、Hacker News、arXiv、Reddit）、行情、天气、待办和 ICS 日历。数据都在后台预先获取，新标签页本身约 19 KB。无需账号，扩展不带统计和遥测；Chrome、Edge、Firefox 官方商店均可安装。 | https://chromewebstore.google.com/detail/tab-manager-duplicates-me/affieafbbikffginlnlkpahaefkbpgle |
 | Open Stay Focused | 免费开源的 Chrome 网站限时与专注插件。支持网站分组共享每日额度、实时倒计时、强制专注、干扰隐藏和本地可视化统计；无需账户、无遥测，支持中文和英文。 | https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem |
-|  |  |  |
+| PixLasso | 批量下载网页图片的 Chrome / Edge 扩展：扫描当前网页或多个标签页上的所有图片，尽量找到原图尺寸，打包成一个 ZIP 下载，可在本地转换为 JPG、PNG 或 WebP，不上传图片。免费版每批 30 个文件，Pro 一次性付费 $9.99。 | https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb |
 |  |  |  |
 |  |  |  |
 |  |  |  |
