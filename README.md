@@ -34,6 +34,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 - [🍿Git管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎇抓包调试工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%8A%93%E5%8C%85%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
 - [🎉性能压测工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
+- [📈应用监控工具](#应用监控工具)
 - [⚙Redis管理工具](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#redis%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🏄‍♂️API管理工具](https://github.com/YSGStudyHards/Awesome-Tools/blob/main/README.md#%EF%B8%8Fapi%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 - [🎁SSH客户端软件](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#ssh%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BD%AF%E4%BB%B6)
@@ -391,6 +392,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+[🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+## 📈应用监控工具
+| 工具名称 | 工具详细介绍 | 工具地址 |
+| :--- | :--- | :--- |
+| LogBrew | LogBrew 是一款应用监控工具，错误、日志、链路追踪和性能数据都在一个地方看。应用一出错，就能知道哪里坏了、为什么坏、影响了哪些用户。通过 MCP 服务器，任何 AI 助手都能读到这些数据，直接问它线上出了什么问题，它会根据真实数据帮你修复。支持 JavaScript、Python、Go、Java、.NET、PHP、Ruby、Rust、Swift 等语言。免费额度充足，无需绑卡，每月含 10 万条错误和 50 GB 日志。 | [官网](https://logbrew.co/zh-Hans) / [SDK](https://github.com/LogBrewCo/sdk) |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
