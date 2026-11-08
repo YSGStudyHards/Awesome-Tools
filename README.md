@@ -398,7 +398,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 ## 📈应用监控工具
 | 工具名称 | 工具详细介绍 | 工具地址 |
 | :--- | :--- | :--- |
-| LogBrew | LogBrew 是一款托管式应用监控服务，在同一处查看错误、日志、链路追踪和指标，支持接入 OpenTelemetry 数据，提供 JavaScript、React Native、Python、Go、Java、.NET、PHP、Ruby、Rust、Swift 等 SDK。内置远程 MCP 服务器，Claude Code、Cursor 等编程助手可读取已授权项目的问题和日志，默认只读。需注册账号，免费套餐无需绑卡，每月含 10 万条错误、50 GB 日志、5000 万个 Span，数据保留 30 天。 | [官网](https://logbrew.co/zh-Hans) / [SDK](https://github.com/LogBrewCo/sdk) |
+| LogBrew | LogBrew 是一款应用监控工具，错误、日志、链路追踪和性能数据都在一个地方看。应用一出错，就能知道哪里坏了、为什么坏、影响了哪些用户。接入 MCP 服务器后，可以直接问 Claude Code、Cursor 线上出了什么问题，让它根据真实数据帮你修复。支持 JavaScript、Python、Go、Java、.NET、PHP、Ruby、Rust、Swift 等语言。免费额度充足，无需绑卡，每月含 10 万条错误和 50 GB 日志。 | [官网](https://logbrew.co/zh-Hans) / [SDK](https://github.com/LogBrewCo/sdk) |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
