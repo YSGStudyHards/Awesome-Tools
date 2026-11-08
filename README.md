@@ -743,6 +743,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CurvaLauncher | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
 | Flow Launcher | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 | RightWheel | RightWheel 是一款 Windows 鼠标快捷启动工具。按住鼠标右键并上下滚动，即可快速启动应用程序、触发键盘快捷键、运行 Shell 命令或打开网址，无需键盘操作。支持文件夹子菜单（悬停400ms自动展开）、模板导入、系统托盘运行等功能，免安装、绿色单文件 .exe，支持 Windows 10/11，30 天免费试用。 | https://chautnus.github.io/RightWheel/ |
+| LatchLayout | C#/.NET 10 开源 Windows 11 工作区启动工具：长按自定义键盘键或鼠标按钮，打开应用、浏览器配置文件及网址，并按指定显示器和窗口布局排列；当前为预览版。 | https://github.com/stanczykwyatt/latchlayout |
 |  |  |  |
 |  |  |  |
 |  |  |  |
