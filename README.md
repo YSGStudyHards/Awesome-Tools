@@ -101,6 +101,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | mu | mu 是一个基于 pi 的开源编程 Agent（MIT），把例行的小判断交给小型判定模型 Jev：哪段工具输出进入上下文、被规则拦下的命令是不是用户要求的、抓取的网页里有没有冲着 AI 的指令、"做完了"有没有经过验证，共 30 多个决策点，每次判定都记入本地账本，可随时查看。提供命令行（npm i -g mu-agent）和 macOS、Windows、Linux 桌面端；可用 ChatGPT、Claude、Grok、Google 订阅登录，也可接任意 OpenAI / Anthropic 兼容接口；能导入 Claude Code 与 Codex 的对话继续使用。 | https://github.com/qybaihe/mu |
 | 5dive | 5dive 是一款 MIT 开源的命令行工具，在你自己的 Linux 服务器上运行一支 AI 编码代理团队：每个代理是一个独立的 Linux 用户，以 systemd 服务运行 Claude Code、Codex 等官方代理 CLI，通过共享任务队列互相分派工作，可在 Telegram 或 Discord 上与它们对话。 | https://github.com/5dive-ai/5dive |
 | workkit | workkit 是一款 Claude Code 插件，把 GitHub Issues 变成开发流水线：每个 issue 按标签依次经过收集、规格、构建、QA、发布；主会话作为"经理"，把已确认规格的 issue 交给 worker 子代理写代码和测试，再由 verifier 子代理在看不到实现过程的情况下审查；hooks 保证完整测试套件在本次提交的代码上通过之前不允许提交。含 9 个 `/workkit:*` Skills，通过 `claude plugin marketplace add ITW-Creative-Works/workkit` 安装。 | https://github.com/ITW-Creative-Works/workkit |
+| Imagera Code | Imagera Code 是在终端运行的 AI 编程 Agent：读取和修改项目代码、运行命令和测试，支持非交互运行（imagera-code run，用于脚本和 CI），并可把 MCP 服务器作为工具使用。一个订阅即可使用 Claude、GPT、Gemini 等数百个模型，用量没有 3 小时锁定，只有每周额度，付费订阅 $20/月起。安装：npm i -g imagera-code（macOS、Linux、Windows）。 | https://imagera.ai/code |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -166,6 +167,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | OpenShorts | OpenShorts 是一款 MIT 开源的 AI 长视频转竖屏短视频工具：使用 faster-whisper 转写字幕，由大模型挑选精彩片段，跟踪人脸重新构图为 9:16，并添加动态字幕和分屏布局。基于 FastAPI + React，可用 Docker 自托管（支持通过 Ollama 等 OpenAI 兼容接口使用本地大模型），同时提供 REST API、MCP 服务器和命令行工具。 | https://github.com/mutonby/openshorts |
 | pitchboom.io | pitchboom.io 是一款网页端 AI 动态图形（motion design）视频广告工具：粘贴产品网址或用两行文字描述产品，选择目标（销售、注册、应用安装、发布、品牌认知、讲解、再营销）、平台、画幅和时长（6–120 秒），自动撰写脚本，生成可编辑、确认后才渲染的分镜，添加配音（34 种语言）和自动生成的背景音乐，输出 1080p MP4（Pro 和 Premium 支持 4K），16:9、9:16、1:1、4:5、3:4 各画幅分别重新排版而非裁剪。付费订阅，每月 30 欧元起（不含增值税），无免费版和试用。 | https://pitchboom.io |
 | OpenMontage Drama Studio | 开源（AGPL-3.0）、可 Docker Compose 自部署的 AI 短剧工坊：输入一句话灵感，依次生成剧本、角色、场景、道具、分镜出片、配音、剪辑 7 个步骤，每步都可修改重跑；适用于短剧、爆款短视频和电商带货广告片。视频镜头调用火山方舟 Seedance（付费 API）。 | https://github.com/charliewwdev/OpenMontage |
+| Imagera | Imagera 是网页端 AI 图片、视频、配音与音乐创作工作室：AI Smart Director 把一句提示词变成分镜、剪辑、配乐和旁白齐全的多镜头短片；Character ID 让同一角色或产品在每个镜头中保持一致；同一工作区可并排运行多款主流图像和视频模型，每次生成前先显示积分价格。付费订阅（积分制）。 | https://imagera.ai |
 |  |  |  |
 |  |  |  |
 |  |  |  |
