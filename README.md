@@ -628,6 +628,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ToolGarden-PDF | PDF在线处理： PDF转化、合并、拆分、加密/解密、加水印、转图片等，全部浏览器本地处理，隐私安全。 | https://toolgarden.xyz/zh/pdf |
 | cv.cm | cv.cm 是开源（MIT）的浏览器 PDF 工具：合并、拆分、压缩、PDF 与 JPG 互转。文件在当前标签页处理，不上传服务器，无需注册。 | https://cv.cm/en/merge-pdf/ |
 | PDFCore | Free Windows desktop PDF toolkit: PDF to Word, OCR, merge, split, compress and protect (offline, no account). 免费 Windows 桌面 PDF 工具：转 Word、OCR、合并拆分压缩加密，离线无需账号。 | https://pdfcore.com/ |
+| Nyxiontech PDF Tools | Nyxiontech PDF Tools 是一款免费开源（AGPL-3.0）的浏览器端 PDF 与图片工具集，提供合并、拆分、压缩、签名、OCR、去除敏感信息（涂黑）以及 PDF 与 Word、JPG、PNG 互转等 25 种工具。所有处理通过 WebAssembly 在浏览器本地完成，文件不会上传到任何服务器，无需注册；另提供 Windows 桌面版。源码：https://github.com/jurecki007/nyxiontech-tools | https://tools.nyxiontech.com |
 |  |  |  |
 |  |  |  |
 
