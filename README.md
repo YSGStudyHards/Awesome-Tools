@@ -151,6 +151,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | CC-Switch CLI | CC-Switch CLI 是一个统一管理 Claude Code、Codex、Gemini、OpenCode 与 OpenClaw 的供应商配置，并按应用提供 MCP 服务器、Skills 扩展、提示词、本地代理路由和环境检查等能力。 | https://github.com/SaladDay/cc-switch-cli |
 | Tokens Forge | Tokens Forge 是一个面向 GPT、Claude、Gemini 等模型的 AI Token 与 OpenAI-compatible API 网关，提供 API Key、模型路由、官方 Credit、RMB 钱包、用量账本和 AI 研究员工作流，适合需要统一管理模型调用与额度消耗的开发者。 | https://tokens-forge.com/ |
 | onomeo | onomeo 是一个兼容 OpenAI 格式的 AI 接口聚合站，一把 API Key 可调用 DeepSeek、GLM、Gemini、Qwen 等约 30 个免费模型（免费模型按次数计，每个账号每 5 小时 30 次），网页端也能直接对话和画图；Claude、GPT 等大模型按量付费（美元余额，5 美元起充）。目前是公测阶段，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提。 | https://onomeo.com/zh |
+| UberLLM | UberLLM 是一个兼容 OpenAI / Anthropic 格式的 AI 模型 API 市场，一把 API Key 调用 500+ 文本、图像、视频、音乐模型（Claude、GPT、Gemini、DeepSeek、Kling、Veo 等）；请求由第三方推理商执行，按该推理商的实际价格扣费，平台不另收请求费；预付费充值（5 美元起，银行卡充值另收 5.5% + 0.5 美元），无免费额度。另提供 MCP 服务器（https://api.uberllm.dev/mcp）。 | https://uberllm.dev/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
