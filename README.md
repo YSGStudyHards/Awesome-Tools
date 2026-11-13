@@ -695,6 +695,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 代理成本计算器 | 免费在线代理成本计算器：模拟住宅代理粘性会话提前失效导致的 cf_clearance 重跑损失、真实 GB 消耗与月度账单，可对比粘性会话与逐请求轮换两种方案；纯浏览器本地计算，无需注册。A free browser-based calculator that models sticky-session IP drops, the cf_clearance re-run loss rate, real GB burned and the monthly residential proxy bill; client-side only, no signup. | https://proxy.mybskm.top/calculator/ |
 | The Audio Stuff 音频工具箱 | 免费的浏览器端音频工具合集（17 款）：ABX 盲听测试、EQ 听音训练、在线均衡器（可导出 Equalizer APO/AutoEQ/Wavelet/Poweramp 预设）、音调/噪声/扫频信号发生器（可导出 WAV）、扬声器与耳机声道/相位测试、FLAC/Hi-Res 频谱检测、耳机功率与安全音量计算器、房间驻波与吸音板计算器等；在浏览器本地运行，无需注册，不上传文件，可安装为 PWA。Free client-side audio toolbox, no signup. | https://theaudiostuff.com/tools/ |
 | Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
+| time.foo | 免费的 3D 地球世界时钟：实时显示全球昼夜分界，支持多城市时间对比、时区换算和 Unix 时间戳转换；无需注册、无广告，支持 8 种语言，另提供免 key JSON API。 | https://time.foo |
 |  |  |  |
 |  |  |  |
 |  |  |  |
