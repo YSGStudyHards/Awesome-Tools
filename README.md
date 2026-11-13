@@ -229,6 +229,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Browser SOP Builder | 免费开源的纯前端 SOP 编写工具，支持步骤、负责人、检查项以及 Markdown 复制和下载。无需注册，内容不上传服务器。 | https://max-agent-hub.github.io/browser-sop-builder/ |
 | Notebook | Notebook 一款界面简洁，使用方便的笔记App。这款在线记事本可记录文字、图片、音频、视频等内容，并同步到云端，随时记录笔记。 | https://www.zoho.com.cn/notebook |
 | Koru | Koru 是一款免费开源（MPL-2.0 协议）、本地优先的桌面笔记、文档与文件工作区，使用 Rust 原生开发，支持 Windows 和 macOS（Apple Silicon）。无需账号，可导入 Evernote、Notion、OneNote、Google Docs、Markdown 和 TextBundle，支持免费的设备间点对点同步，内置本地 MCP 服务器和终端标签页。 | https://github.com/koruworks/mono |
+| Knovum | Knovum 是一款 100% MIT 开源、本地优先的桌面 2D 空间 AI 知识库工作区（基于 Tauri 2 + Rust + Vue 3），支持 macOS 和 Windows。内嵌 SQLite 与 LanceDB 混合向量检索、JSON Canvas（.canvas）互通、可溯源引用，以及端侧 Whisper / Qwen3-ASR 语音转录、HTDemucs 音频分离、音色克隆配音和 BiRefNet / SAM 2.1 / Big LaMa 图像工具，同时支持 DeepSeek / OpenAI / Ollama 等模型与 ACP/MCP 桌面代理集成。 | https://github.com/madebyzan/knovum |
 |  |  |  |
 |  |  |  |
 |  |  |  |
