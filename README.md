@@ -590,6 +590,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Captura | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。 | https://github.com/MathewSachin/Captura |
 | QuickRecorder | QuickRecorder 是一款基于 ScreenCapture Kit 的轻量化、多功能、高性能的 macOS 屏幕录制工具。 | https://github.com/lihaoyun6/QuickRecorder |
 | CurlShot | 在线网页截图工具：粘贴网址即可下载整页截图（PNG/JPEG/WebP）或 PDF，支持手机/平板视图、深色模式、屏蔽广告和 Cookie 弹窗，无需安装、无需注册。同时提供截图 API（免费套餐每月 100 张）和 MCP Server。Free online full-page website screenshot tool and screenshot API. | https://curlshot.com/ |
+| Shotnix | Shotnix 是一款免费开源（MIT 协议）的 macOS 截图、录屏和视频剪辑工具，需要 macOS 13 及以上版本和 Apple 芯片的 Mac。录屏结束后视频已经剪好：在点击的位置自动放大、光标平滑移动，字幕在本机识别生成，删掉文字稿里的词就能剪掉对应的画面。截图支持长截图、文字识别（OCR）和标注，界面支持简体中文。 | [官网](https://shotnix.com/zh) / [GitHub](https://github.com/OMARVII/Shotnix) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
