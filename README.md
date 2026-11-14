@@ -139,6 +139,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
 | 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
+| GetYouTubeTranscript | GetYouTubeTranscript 是一款在线 YouTube 字幕提取工具：粘贴视频链接（支持普通视频、Shorts 和直播），即可获取带时间戳的完整字幕稿，可复制或下载为 TXT、SRT 等格式，支持翻译成多种语言，并可用 AI 总结视频、针对视频内容提问。未登录每天可免费提取少量字幕，注册账号赠送 100 积分，付费套餐每月 5 美元起。另提供 REST API 和 MCP 服务器，可接入 Claude、Cursor、n8n 等工具。 | [官网](https://getyoutubetranscript.com/) |
 |  |  |  |
 |  |  |  |
 
@@ -953,6 +954,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | OpenTabs | OpenTabs 是一款免费开源（AGPL-3.0-or-later 协议）的新标签页扩展：把所有窗口里已打开的标签页按网站分组显示，可一键关闭某个网站的全部标签页（含折叠在「+N more」里的）、一键关闭重复标签页、用「Merge windows」把所有标签页合并到当前窗口，并按设定的时间自动关闭闲置的新标签页；标签页上方可选加资讯主题（RSS、Hacker News、arXiv、Reddit）、行情、天气、待办和 ICS 日历。数据都在后台预先获取，新标签页本身约 19 KB。无需账号，扩展不带统计和遥测；Chrome、Edge、Firefox 官方商店均可安装。 | https://chromewebstore.google.com/detail/tab-manager-duplicates-me/affieafbbikffginlnlkpahaefkbpgle |
 | Open Stay Focused | 免费开源的 Chrome 网站限时与专注插件。支持网站分组共享每日额度、实时倒计时、强制专注、干扰隐藏和本地可视化统计；无需账户、无遥测，支持中文和英文。 | https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem |
 | PixLasso | 批量下载网页图片的 Chrome / Edge 扩展：扫描当前网页或多个标签页上的所有图片，尽量找到原图尺寸，打包成一个 ZIP 下载，可在本地转换为 JPG、PNG 或 WebP，不上传图片。免费版每批 30 个文件，Pro 一次性付费 $9.99。 | https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb |
+| YouTube Transcript: AI Summary & Chat | 在 YouTube 视频页旁边打开带时间戳的字幕面板：可搜索字幕中的关键词，点击任意一句即可跳转到视频对应位置；支持复制或下载字幕，并可用 AI 总结视频、向视频提问。提供免费 AI 积分。 | https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd |
 |  |  |  |
 |  |  |  |
 |  |  |  |
