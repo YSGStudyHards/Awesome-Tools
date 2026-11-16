@@ -144,6 +144,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+- [HumanPen](https://humanpen.net/) - Document-level AI academic & research writing platform: Humanize (DOCX/PPTX/TXT), Translate (12 languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and Research Projects (100 signup credits; commercial credit-based pricing).
 
 ## ⛳AI模型管理工具
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
