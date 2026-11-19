@@ -591,7 +591,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Captura | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。 | https://github.com/MathewSachin/Captura |
 | QuickRecorder | QuickRecorder 是一款基于 ScreenCapture Kit 的轻量化、多功能、高性能的 macOS 屏幕录制工具。 | https://github.com/lihaoyun6/QuickRecorder |
 | CurlShot | 在线网页截图工具：粘贴网址即可下载整页截图（PNG/JPEG/WebP）或 PDF，支持手机/平板视图、深色模式、屏蔽广告和 Cookie 弹窗，无需安装、无需注册。同时提供截图 API（免费套餐每月 100 张）和 MCP Server。Free online full-page website screenshot tool and screenshot API. | https://curlshot.com/ |
-|  |  |  |
+| AntShot | 网页整页截图扩展（Chrome / Edge）：一键截整页，网页里自己滚动的表格、列表、看板也能整块截下来，可标注，存成 PNG、JPG 或 PDF；截图只在本机处理、不上传，免账号，免费版无水印；Pro 年付 $19、终身 $39。 | https://antshot.com/zh/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -721,6 +721,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Peel | Peel 是一款免费开源（GPL-3.0 协议）的 macOS 原生卸载与清理工具：连同应用留下的文件一起移除，并告诉你每个文件为什么属于该应用；所有内容都移到废纸篓，需要时还能放回。还能清理开发者缓存、项目构建产物和重复文件。不收集统计数据，无需账号，支持简体中文与繁体中文，需要 macOS 26 或更高版本。 | https://github.com/TuguiDragos/Peel |
 | Pake | Pake 把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，生成的 App 基于 Tauri 和系统 WebView，通常不到 10 MB，不用装 Node.js 或 Rust；桌面 App 免费做 2 个，之后一次买断，同名命令行版本免费开源（GPL-3.0 协议）。 | https://pake.run |
 | MacOSCleaner | MacOSCleaner 是一款免费、源码可用（GPLv3 + Commons Clause，非 OSI 开源）的 macOS 原生清理与卸载工具，仅支持 Apple Silicon（macOS 26+）。可清理缓存、日志、Xcode、Docker、各类包管理器和本地 AI 工具缓存，卸载应用时一并清除残留，查找重复文件、分析磁盘占用、检查启动项签名；3.0.0 新增隐私检查器（TCC 权限、网络连接、浏览器扩展）。删除前逐项确认，默认移到废纸篓；无遥测、无需账号，支持 14 种语言（含简体/繁体中文）。 | https://github.com/AlexTkDev/MacOSCleaner |
+| Wishbar | Wishbar 是一款 macOS 菜单栏应用：用日常英语或你自己的语言写下想要的东西，你自己的 AI（通过 Codex 使用的 ChatGPT，或 Claude）就会在菜单栏里生成一个实时更新的小组件。闭源付费，一次买断，可免费试用 7 天，无需绑卡，需要 macOS 13 或更高版本。 | https://wishbar.app |
 |  |  |  |
 |  |  |  |
 |  |  |  |
