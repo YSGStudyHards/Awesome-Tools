@@ -143,6 +143,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Earlyfollow | Earlyfollow 是 AI 创业公司发现榜单：每天观察 X 上 500 多位风投、天使投资人和创业运营者的关注关系，把刚开始被关注的新 AI 创业公司整理成可按赛道筛选、按 7 天或 30 天关注数排序的列表，每条信号都能追溯到是谁、在哪天关注的，并附公司简介、官网、关注时间线与相似公司；公开榜单免费看但延后 14 天，Pro 提供无延迟信号、完整关注者名单、自选追踪账号、每日邮件、CSV 导出以及 MCP/CLI/HTTP 接口。 | https://earlyfollow.com |
 |  |  |  |
 |  |  |  |
+| PicYep | PicYep 是一款浏览器端 AI 写真工具：输入文字或上传参考照片，生成逼真头像、全家福、宠物写真和产品图，支持改背景、去物体、扩图和图生视频，免费试用。 | https://picyep.com/zh |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
