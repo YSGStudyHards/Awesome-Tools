@@ -709,7 +709,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 | EveryApp | EveryApp 是一个包含 300 多款免费在线工具、应用和小游戏的合集：合并、拆分、压缩和签名 PDF，图片抠图与压缩，二维码生成，各类计算器，记账分账、习惯打卡、番茄钟等日常应用，以及数独、国际象棋等游戏。在浏览器中打开即用，也可安装到 Android、iPhone、Mac、Windows 和 Linux。找不到想要的应用时，可以用自然语言描述，生成自己的专属应用。基础功能免费，另有付费 Pro 套餐（每月 9.99 美元）。 | https://everyapp.pro |
 | Best Latest Apps Tools | 328 款在浏览器中运行的免费在线工具：麦克风/扬声器/摄像头测试、吉他调音器、PDF 工具、图片与视频工具、开发者工具（JSON、正则、Cron、JWT）、APNs 推送工具和各类计算器。无需注册，网站有广告。 | https://bestlatestapps.com/tools/ |
-|  |  |  |
+| DevBox Zero | 免费开源（MIT）纯浏览器本地 8 合 1 开发者效率工具箱：JSON 格式化与 TypeScript 接口生成、JWT 离线解析、UTF-8 Base64/URL 编解码、5 段 Cron 表达式解析、文本逐行 Diff、正则实时测试、Web Crypto SHA-256/512 哈希与 UUID 生成。零埋点、无需登录、全流程不上传任何数据；同系列附带本地 LLM Token 成本计算器与无水印发票/简历工具。 | https://devbox-zero-ops.github.io/devbox-zero/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
