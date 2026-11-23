@@ -140,8 +140,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
 | 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
+| PicYep | PicYep 是一款浏览器端 AI 写真工具：输入文字或上传参考照片，生成逼真头像、全家福、宠物写真和产品图，支持改背景、去物体、扩图和图生视频，免费试用。 | https://picyep.com/zh |
 | EmoteLoop | EmoteLoop 是一款面向 Twitch 主播的 AI 动态表情（emote）生成器：写一句话描述画面、或上传一张自拍生成本人卡通形象，约 20 秒得到一个 512px、透明背景、可无限循环的 GIF，符合 Twitch 动态 emote 单文件上传的规格；还能导出任意一帧的透明静态 PNG，打包 Twitch 112/56/28px 与 Discord/Slack 128px 尺寸，并按真实聊天尺寸在深色/浅色/棋盘格背景上预览。生成失败自动退回 credits，新账号赠送一次文字生成额度。 | https://emoteloop.com/ |
 | Earlyfollow | Earlyfollow 是 AI 创业公司发现榜单：每天观察 X 上 500 多位风投、天使投资人和创业运营者的关注关系，把刚开始被关注的新 AI 创业公司整理成可按赛道筛选、按 7 天或 30 天关注数排序的列表，每条信号都能追溯到是谁、在哪天关注的，并附公司简介、官网、关注时间线与相似公司；公开榜单免费看但延后 14 天，Pro 提供无延迟信号、完整关注者名单、自选追踪账号、每日邮件、CSV 导出以及 MCP/CLI/HTTP 接口。 | https://earlyfollow.com |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 
@@ -155,6 +160,9 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Tokens Forge | Tokens Forge 是一个面向 GPT、Claude、Gemini 等模型的 AI Token 与 OpenAI-compatible API 网关，提供 API Key、模型路由、官方 Credit、RMB 钱包、用量账本和 AI 研究员工作流，适合需要统一管理模型调用与额度消耗的开发者。 | https://tokens-forge.com/ |
 | onomeo | onomeo 是一个兼容 OpenAI 格式的 AI 接口聚合站，一把 API Key 可调用 DeepSeek、GLM、Gemini、Qwen 等约 30 个免费模型（免费模型按次数计，每个账号每 5 小时 30 次），网页端也能直接对话和画图；Claude、GPT 等大模型按量付费（美元余额，5 美元起充）。目前是公测阶段，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提。 | https://onomeo.com/zh |
 | UberLLM | UberLLM 是一个兼容 OpenAI / Anthropic 格式的 AI 模型 API 市场，一把 API Key 调用 500+ 文本、图像、视频、音乐模型（Claude、GPT、Gemini、DeepSeek、Kling、Veo 等）；请求由第三方推理商执行，按该推理商的实际价格扣费，平台不另收请求费；预付费充值（5 美元起，银行卡充值另收 5.5% + 0.5 美元），无免费额度。另提供 MCP 服务器（https://api.uberllm.dev/mcp）。 | https://uberllm.dev/ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
