@@ -140,9 +140,13 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | ImagineYourBook | ImagineYourBook 是一款面向长篇小说与系列创作的网页端 AI 图书工作室：可按章节规划并起草完整手稿、以作者文风改写已有草稿、用故事圣经保持系列连贯，并支持封面与标题生成，以及 EPUB、Word、Markdown 导出。提供 7 天试用（需绑定卡片），之后为付费计划。 | [官网](https://www.imagineyourbook.com/) |
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
 | 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
-|  |  |  |
-|  |  |  |
 | PicYep | PicYep 是一款浏览器端 AI 写真工具：输入文字或上传参考照片，生成逼真头像、全家福、宠物写真和产品图，支持改背景、去物体、扩图和图生视频，免费试用。 | https://picyep.com/zh |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
