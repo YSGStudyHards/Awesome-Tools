@@ -141,6 +141,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Tera Studio | Tera Studio 是一款网页端 AI 歌声工具：对着手机唱约 1 分钟，大约 20 分钟就能学会你的歌声，之后上传任意一首歌，就能听到用你的声音唱出的完整版本，支持任何语言。2 首完整歌曲免费，无需绑卡。 | [官网](https://terastudio.co/zh-hans/) |
 | 证伪AI DisconfirmAI | 证伪AI 是一款网页端的投资研究与阅读工具，思路是在对一个观点有把握之前，先找找可能推翻它的反面证据。每天会从公开信源整理阅读内容，研究页可以看财报和数据，可以设定条件让雷达在出现变化时提示，也可以把自己的投资框架记下来，另外有 AI 100 榜单和行业图谱。公开阅读免费，部分研究功能需要注册免费账号，国内网络可以直接访问。 | [官网](https://disconfirmai.com/zh) |
 | EmoteLoop | EmoteLoop 是一款面向 Twitch 主播的 AI 动态表情（emote）生成器：写一句话描述画面、或上传一张自拍生成本人卡通形象，约 20 秒得到一个 512px、透明背景、可无限循环的 GIF，符合 Twitch 动态 emote 单文件上传的规格；还能导出任意一帧的透明静态 PNG，打包 Twitch 112/56/28px 与 Discord/Slack 128px 尺寸，并按真实聊天尺寸在深色/浅色/棋盘格背景上预览。生成失败自动退回 credits，新账号赠送一次文字生成额度。 | https://emoteloop.com/ |
+| Earlyfollow | Earlyfollow 是 AI 创业公司发现榜单：每天观察 X 上 500 多位风投、天使投资人和创业运营者的关注关系，把刚开始被关注的新 AI 创业公司整理成可按赛道筛选、按 7 天或 30 天关注数排序的列表，每条信号都能追溯到是谁、在哪天关注的，并附公司简介、官网、关注时间线与相似公司；公开榜单免费看但延后 14 天，Pro 提供无延迟信号、完整关注者名单、自选追踪账号、每日邮件、CSV 导出以及 MCP/CLI/HTTP 接口。 | https://earlyfollow.com |
 |  |  |  |
 |  |  |  |
 
@@ -670,6 +671,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Nutilz | A free online tools collection covering calculators, text utilities, image tools, developer tools, and finance/wellness calculators — JSON formatter, unit converter, PDF tools, QR generator, BMI/loan/tax calculators, and more. No signup required, most tools run entirely in the browser. 一个免费的在线工具集合，涵盖计算器、文本工具、图片工具、开发者工具和财务/健康计算器，包括 JSON 格式化、单位换算、PDF 工具、二维码生成器、BMI/贷款/税务计算器等。无需注册，大部分工具在浏览器本地运行。 | https://nutilz.com/ |
 | MailVeri | Email verification tool with an online single-email checker, bulk list cleaning and a REST API. Checks SMTP mailbox existence plus catch-all, disposable and role-account detection without sending any email. 1,000 free credits on signup, no card required, then pay-as-you-go. 邮箱验证工具：在线单个邮箱检测、批量清洗邮件列表和 REST API，检测邮箱是否存在、Catch-all、一次性邮箱和角色邮箱，注册即送 1,000 免费额度，无需银行卡。 | https://mailveri.com |
 | Client Close Kit | 面向自由职业者的免费浏览器工具，提供发票、滞纳金、客户资料、工作说明和工时工具。Free browser tools for freelancer invoices, late-fee calculations, client intake, scopes of work and timesheets. | https://darweesh128-cmd.github.io/client-close-kit/ |
+| ShotEasy | 免费在线截图、图片、PDF、二维码、视频工具合集：截图、美化、压缩、转换、查看文档，全部在浏览器本地运行，无需注册，开源（MIT）。 | https://shoteasy.fun/ |
 | FastDo Pro | FastDo Pro 是一个 AI全能多媒体效率工具站、方便快捷、安全私密、本地处理。 | https://fastdo.tools/ |
 | 专业在线工具集 | 在线工具集是一个综合性在线工具平台。为用户提供简单、高效、安全的在线工具服务。平台涵盖了 AI 智能应用、JSON 数据处理、代码开发辅助、图像编辑处理、数据加密解密、便民查询等多个领域200多个的实用工具。所有工具均经过精心设计，大部分功能直接在浏览器本地运行。 | https://www.tooljson.com/ |
 | Vaultool | Vaultool 是一款免费在线开发者工具箱，提供 30+ 款实用工具，涵盖图片压缩/格式转换/抠图、PDF 合并/拆分/压缩/转换、文本处理、代码格式化、颜色选择器、Base64 编解码、JSON 格式化、哈希生成等。无需注册，所有处理均在浏览器本地完成，数据不上传服务器，安全私密。界面简洁清爽，打开即用，适合开发者在日常工作中快速处理各类格式转换和数据处理任务。 | https://vaultool.com/ |
@@ -698,7 +700,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | The Audio Stuff 音频工具箱 | 免费的浏览器端音频工具合集（17 款）：ABX 盲听测试、EQ 听音训练、在线均衡器（可导出 Equalizer APO/AutoEQ/Wavelet/Poweramp 预设）、音调/噪声/扫频信号发生器（可导出 WAV）、扬声器与耳机声道/相位测试、FLAC/Hi-Res 频谱检测、耳机功率与安全音量计算器、房间驻波与吸音板计算器等；在浏览器本地运行，无需注册，不上传文件，可安装为 PWA。Free client-side audio toolbox, no signup. | https://theaudiostuff.com/tools/ |
 | Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 | EveryApp | EveryApp 是一个包含 300 多款免费在线工具、应用和小游戏的合集：合并、拆分、压缩和签名 PDF，图片抠图与压缩，二维码生成，各类计算器，记账分账、习惯打卡、番茄钟等日常应用，以及数独、国际象棋等游戏。在浏览器中打开即用，也可安装到 Android、iPhone、Mac、Windows 和 Linux。找不到想要的应用时，可以用自然语言描述，生成自己的专属应用。基础功能免费，另有付费 Pro 套餐（每月 9.99 美元）。 | https://everyapp.pro |
-|  |  |  |
+| Best Latest Apps Tools | 328 款在浏览器中运行的免费在线工具：麦克风/扬声器/摄像头测试、吉他调音器、PDF 工具、图片与视频工具、开发者工具（JSON、正则、Cron、JWT）、APNs 推送工具和各类计算器。无需注册，网站有广告。 | https://bestlatestapps.com/tools/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -883,7 +885,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | halo | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | https://github.com/halo-dev/halo |
-|  |  |  |
+| Ginta | 面向小商家的 AI 建站工具（闭源，有免费套餐）：描述你的生意，一两分钟后得到一个已上线的网站，自带联系表单、预约、网店和博客；也可以通过远程 MCP 服务器在 Claude、ChatGPT 里直接建站和修改。自有域名需付费套餐。 | https://ginta.app |
 |  |  |  |
 |  |  |  |
 |  |  |  |
