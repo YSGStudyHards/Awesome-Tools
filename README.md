@@ -662,7 +662,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | 工具名称 | 工具详细介绍 | 工具地址 |
 | :--- | :--- | :--- |
 | EpicMail | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. 提供网页端和 Android 应用，用于管理个人的多个邮箱账户。连接账户前需要有效银行卡以防止滥用；Adventurer 套餐在用户升级前保持 $0。界面为英文。 | [官网](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=ysgstudyhards_office_tools) |
-|  |  |  |
+| Suzume Mail | 一款以聊天式会话展示邮件的 IMAP 邮件客户端，支持 iPhone、iPad、Mac 和 Apple Watch，邮件保存在本地设备上，支持自然语言搜索和设备端摘要。闭源付费（免费下载，一次性买断解锁，无订阅）。 | https://www.yuzool.com/apps/suzume/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -733,7 +733,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Pake | Pake 把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，生成的 App 基于 Tauri 和系统 WebView，通常不到 10 MB，不用装 Node.js 或 Rust；桌面 App 免费做 2 个，之后一次买断，同名命令行版本免费开源（GPL-3.0 协议）。 | https://pake.run |
 | MacOSCleaner | MacOSCleaner 是一款免费、源码可用（GPLv3 + Commons Clause，非 OSI 开源）的 macOS 原生清理与卸载工具，仅支持 Apple Silicon（macOS 26+）。可清理缓存、日志、Xcode、Docker、各类包管理器和本地 AI 工具缓存，卸载应用时一并清除残留，查找重复文件、分析磁盘占用、检查启动项签名；3.0.0 新增隐私检查器（TCC 权限、网络连接、浏览器扩展）。删除前逐项确认，默认移到废纸篓；无遥测、无需账号，支持 14 种语言（含简体/繁体中文）。 | https://github.com/AlexTkDev/MacOSCleaner |
 | Wishbar | Wishbar 是一款 macOS 菜单栏应用：用日常英语或你自己的语言写下想要的东西，你自己的 AI（通过 Codex 使用的 ChatGPT，或 Claude）就会在菜单栏里生成一个实时更新的小组件。闭源付费，一次买断，可免费试用 7 天，无需绑卡，需要 macOS 13 或更高版本。 | https://wishbar.app |
-|  |  |  |
+| Cadence | 一款 Mac 与 iPhone 周计划应用：按天并排展示一周任务，支持收集箱、菜单栏快速添加和周五回顾（延续、搁置或放弃），通过 iCloud 同步。闭源付费（一次性买断，无订阅）。 | https://www.yuzool.com/apps/cadence/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
