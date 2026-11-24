@@ -733,6 +733,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Pake | Pake 把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，生成的 App 基于 Tauri 和系统 WebView，通常不到 10 MB，不用装 Node.js 或 Rust；桌面 App 免费做 2 个，之后一次买断，同名命令行版本免费开源（GPL-3.0 协议）。 | https://pake.run |
 | MacOSCleaner | MacOSCleaner 是一款免费、源码可用（GPLv3 + Commons Clause，非 OSI 开源）的 macOS 原生清理与卸载工具，仅支持 Apple Silicon（macOS 26+）。可清理缓存、日志、Xcode、Docker、各类包管理器和本地 AI 工具缓存，卸载应用时一并清除残留，查找重复文件、分析磁盘占用、检查启动项签名；3.0.0 新增隐私检查器（TCC 权限、网络连接、浏览器扩展）。删除前逐项确认，默认移到废纸篓；无遥测、无需账号，支持 14 种语言（含简体/繁体中文）。 | https://github.com/AlexTkDev/MacOSCleaner |
 | Wishbar | Wishbar 是一款 macOS 菜单栏应用：用日常英语或你自己的语言写下想要的东西，你自己的 AI（通过 Codex 使用的 ChatGPT，或 Claude）就会在菜单栏里生成一个实时更新的小组件。闭源付费，一次买断，可免费试用 7 天，无需绑卡，需要 macOS 13 或更高版本。 | https://wishbar.app |
+| CleanBit | CleanBit 是一款上架 Mac App Store 的 macOS 15+ 沙盒磁盘清理工具（无需 root、无常驻后台 helper）：扫描并分类展示应用/浏览器缓存、Xcode、12+ 包管理器、项目构建产物（node_modules/target/.build 等，解析 .git 跳过 Git 跟踪内容并移到废纸篓）、AI 工具与旧会话，每项写明用途与删除影响，确认前不动文件。支持 9 种语言（含简/繁中文），扫描免费、前 2 次清理免费，提供订阅或一次性买断。 | https://getcleanbit.app |
 |  |  |  |
 |  |  |  |
 |  |  |  |
