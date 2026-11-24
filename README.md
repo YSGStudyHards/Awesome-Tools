@@ -709,7 +709,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 | EveryApp | EveryApp 是一个包含 300 多款免费在线工具、应用和小游戏的合集：合并、拆分、压缩和签名 PDF，图片抠图与压缩，二维码生成，各类计算器，记账分账、习惯打卡、番茄钟等日常应用，以及数独、国际象棋等游戏。在浏览器中打开即用，也可安装到 Android、iPhone、Mac、Windows 和 Linux。找不到想要的应用时，可以用自然语言描述，生成自己的专属应用。基础功能免费，另有付费 Pro 套餐（每月 9.99 美元）。 | https://everyapp.pro |
 | Best Latest Apps Tools | 328 款在浏览器中运行的免费在线工具：麦克风/扬声器/摄像头测试、吉他调音器、PDF 工具、图片与视频工具、开发者工具（JSON、正则、Cron、JWT）、APNs 推送工具和各类计算器。无需注册，网站有广告。 | https://bestlatestapps.com/tools/ |
-|  |  |  |
+| LocalDevTools | 112 款 100% 纯浏览器端运行的免费在线工具集（零服务器上传、无需登录、支持 PWA 安装）：涵盖 37 款 PDF 工具（合并、拆分、压缩、OCR、脱敏、Bates 编号等）、WebCodecs/浏览器音视频剪辑与压缩、图片压缩转换（支持 HEIC）、硬件与外设检测（显示器坏点/刷新率、手柄摇杆漂移、键盘 NKRO/鼠标轮询率、麦克风与扬声器测试）、财务/百分比计算器、打字测速，以及 JSON/Myers Diff/Regex/SQL/JWT 等开发者工作台。 | https://localdevtools.dev/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
