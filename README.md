@@ -709,7 +709,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Free Invoice Studio | 免费在线发票与报价单生成工具箱：专为自由职业者与独立开发者打造，无需注册登录，数据纯浏览器本地计算处理，支持即时税率计算与 PDF 导出，内置二维码与样式定制功能。 | https://beforego.art/tools/invoice-template/ |
 | EveryApp | EveryApp 是一个包含 300 多款免费在线工具、应用和小游戏的合集：合并、拆分、压缩和签名 PDF，图片抠图与压缩，二维码生成，各类计算器，记账分账、习惯打卡、番茄钟等日常应用，以及数独、国际象棋等游戏。在浏览器中打开即用，也可安装到 Android、iPhone、Mac、Windows 和 Linux。找不到想要的应用时，可以用自然语言描述，生成自己的专属应用。基础功能免费，另有付费 Pro 套餐（每月 9.99 美元）。 | https://everyapp.pro |
 | Best Latest Apps Tools | 328 款在浏览器中运行的免费在线工具：麦克风/扬声器/摄像头测试、吉他调音器、PDF 工具、图片与视频工具、开发者工具（JSON、正则、Cron、JWT）、APNs 推送工具和各类计算器。无需注册，网站有广告。 | https://bestlatestapps.com/tools/ |
-|  |  |  |
+| Ceshousu 测手速 | 免费免注册的浏览器端外设检测、反应力测评与开源网页游戏合集：支持 CPS 点击速度（1/5/10/30/60 秒及抖动/蝴蝶/拖拽点击）、鼠标双击与回报率（Polling Rate）检测、键盘全键无冲检测、视觉与听觉反应测试、瞄准训练，以及多款免安装中文开源放置与文字成长游戏，纯浏览器本地运行。 | https://ceshousu.com/tools/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
