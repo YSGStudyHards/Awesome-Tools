@@ -547,6 +547,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Figma | Figma是一款功能强大的设计软件，Figma中文社区提供Figma软件汉化，提供macOSIntel&M1、Windows中文版下载、Chrome浏览器汉化。 | https://www.figma.cool/cn |
 | Pixso | 一站式产品，研发，设计在线UI协作工具，兼容Figma，Sketch格式。 | https://pixso.cn/ad-figma/ |
 | 摹客RP | 高效易用的在线原型设计工具。 | https://www.mockplus.cn/rp |
+| Kite | 一款 AI 智能体与团队共用的设计工具：Claude、ChatGPT、Cursor、Codex 通过官方托管 MCP 服务器直接在设计文件中绘制可编辑的图层（画框、文字、组件、自动布局），团队实时协作编辑，可复制到 Figma 或导出 HTML/React/Tailwind，有免费版，支持 Mac、Windows 和浏览器。 | https://kite.new/ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
