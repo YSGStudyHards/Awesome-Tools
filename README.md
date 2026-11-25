@@ -486,6 +486,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | BilldDesk | BilldDesk 是一款基于 Vue3 + WebRTC + Nodejs + Electron 搭建的远程桌面控制工具，旨在提供类似 ToDesk、向日葵等远程桌面软件的功能，同时保持开源、多端兼容和全能性的特点。 | https://github.com/galaxy-s10/billd-desk |
 | P2P | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
 | QuickDesk | QuickDesk 是首款 AI 原生远程桌面软件，开源免费，内置 MCP (Model Context Protocol) Server，让任何 AI Agent 都能看到和操控远程电脑。它扩展了 AI 计算机使用的范围，从只能操作本机扩展到可以操作世界上任何一台远程设备。 | https://gitee.com/Barryda/QuickDesk |
+| RemoteCrab | RemoteCrab 把 iPhone 或 iPad 变成电脑的摄像头、麦克风、触控板和键盘（Windows / macOS 都支持），同一个网络内免费、不需要账号；电脑本身还能用一条链接加六位码在任何浏览器里打开，观看的一方什么都不用装。离开自己的网络时才走订阅中继。 | https://vgoapp.com/remotecrab/?utm_source=awesome-tools&utm_medium=readme&utm_campaign=list |
 | 节点小宝 | 节点小宝是一款免费的内网穿透与异地组网工具，基于自研P2P技术实现设备直连，无需公网IP，不限速。支持NAS远程访问、远程桌面、SSH、Docker管理、文件共享等场景。 | https://iepose.com/jdxb/pc/ |
 |  |  |  |
 |  |  |  |
