@@ -641,7 +641,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | cv.cm | cv.cm 是开源（MIT）的浏览器 PDF 工具：合并、拆分、压缩、PDF 与 JPG 互转。文件在当前标签页处理，不上传服务器，无需注册。 | https://cv.cm/en/merge-pdf/ |
 | PDFCore | Free Windows desktop PDF toolkit: PDF to Word, OCR, merge, split, compress and protect (offline, no account). 免费 Windows 桌面 PDF 工具：转 Word、OCR、合并拆分压缩加密，离线无需账号。 | https://pdfcore.com/ |
 | Nyxiontech PDF Tools | Nyxiontech PDF Tools 是一款免费开源（AGPL-3.0）的浏览器端 PDF 与图片工具集，提供合并、拆分、压缩、签名、OCR、去除敏感信息（涂黑）以及 PDF 与 Word、JPG、PNG 互转等 25 种工具。所有处理通过 WebAssembly 在浏览器本地完成，文件不会上传到任何服务器，无需注册；另提供 Windows 桌面版。源码：https://github.com/jurecki007/nyxiontech-tools | https://tools.nyxiontech.com |
-|  |  |  |
+| Apps66 Merge PDF | 100% 浏览器本地运行的 PDF 合并、重排、旋转与拆分工具（基于本地打包的 pdf-lib），文件不上传服务器，适合合同、发票与税务文档。免费版无需注册支持单次合并最多 5 个 PDF；Pro 版（$9/月或 $79/年，含 7 天试用）解锁不限数量与一键拆分打包 ZIP。100% browser-local PDF merge/reorder/rotate/split (zero uploads, free up to 5 PDFs/merge, no signup). | https://apps66.com/merge-pdf |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
