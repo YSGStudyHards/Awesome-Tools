@@ -196,6 +196,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | IDEA | IntelliJ IDEA 是一个适用于 Java 和 Kotlin的集成开发环境 (IDE)，旨在最大限度地提高开发人员的工作效率。它通过提供整理的代码完成、静态代码分析和重构来为您完成日常和重复性任务，并让您专注于软件开发的光明面，不仅取得成果，而且成为一种愉快的体验。 | https://intellijidea.com.cn/discover-intellij-idea.html |
 | WebStorm | WebStorm是一款由JetBrains公司开发的集成开发环境（IDE），专为Web应用程序开发而设计。它以其强大的功能、智能的代码辅助以及高效的开发体验，赢得了广大JavaScript开发者的青睐，被誉为“Web前端开发神器”、“最强大的HTML5编辑器”以及“最智能的JavaScript IDE”。 | https://www.jetbrains.com/webstorm/ |
 | Lapce | Lapce 是一个用 Rust 编写的开源代码编辑器。通过利用原生 GUI 和 GPU 渲染，以及 Rust 提供的性能，Lapce 是目前最快的代码编辑器之一。  | https://github.com/lapce/lapce |
+| vsux | vsux 是一款免费、MIT 协议的原生 macOS 轻量编辑器与终端工作区，使用 SwiftUI/AppKit 和 GhosttyKit 构建。它把分屏终端、文件编辑、Git、常用命令、后台服务和 Markdown 实时预览按项目集中管理；支持 macOS 14+，仅 Apple Silicon。当前为临时签名预览版，未经 Apple 公证。 | https://vsux.sphrag.com/en/ |
 | Cate | Cate 是一款开源的无限画布桌面 IDE，基于 Electron + React + TypeScript 构建。代码编辑器（Monaco）、终端（xterm.js）、内嵌浏览器、文档预览和 AI Agent（Claude Code）面板可以自由分布在可缩放的空间画布上，代替传统的窗口和标签页堆叠。面板支持浮动、停靠为标签页/分屏，或分离为独立系统窗口，布局按项目文件夹自动保存。MIT 协议，支持 macOS、Windows、Linux。 | https://github.com/0-AI-UG/cate |
 |  |  |  |
 |  |  |  |
