@@ -178,6 +178,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | OpenShorts | OpenShorts 是一款 MIT 开源的 AI 长视频转竖屏短视频工具：使用 faster-whisper 转写字幕，由大模型挑选精彩片段，跟踪人脸重新构图为 9:16，并添加动态字幕和分屏布局。基于 FastAPI + React，可用 Docker 自托管（支持通过 Ollama 等 OpenAI 兼容接口使用本地大模型），同时提供 REST API、MCP 服务器和命令行工具。 | https://github.com/mutonby/openshorts |
 | pitchboom.io | pitchboom.io 是一款网页端 AI 动态图形（motion design）视频广告工具：粘贴产品网址或用两行文字描述产品，选择目标（销售、注册、应用安装、发布、品牌认知、讲解、再营销）、平台、画幅和时长（6–120 秒），自动撰写脚本，生成可编辑、确认后才渲染的分镜，添加配音（34 种语言）和自动生成的背景音乐，输出 1080p MP4（Pro 和 Premium 支持 4K），16:9、9:16、1:1、4:5、3:4 各画幅分别重新排版而非裁剪。付费订阅，每月 30 欧元起（不含增值税），无免费版和试用。 | https://pitchboom.io |
 | OpenMontage Drama Studio | 开源（AGPL-3.0）、可 Docker Compose 自部署的 AI 短剧工坊：输入一句话灵感，依次生成剧本、角色、场景、道具、分镜出片、配音、剪辑 7 个步骤，每步都可修改重跑；适用于短剧、爆款短视频和电商带货广告片。视频镜头调用火山方舟 Seedance（付费 API）。 | https://github.com/charliewwdev/OpenMontage |
+| Clips Kitty | Clips Kitty 是一款免费开源（AGPL-3.0）的 Windows 桌面应用，在自己的电脑上把长视频（Twitch、Kick、YouTube 的直播回放或本地视频文件）剪成带字幕的 9:16 竖屏短视频：使用 Whisper 生成逐字字幕，由本地大模型或你自己的云端 API Key 挑选精彩片段，跟踪说话人重新构图；游戏模式提供 11 种摄像头加游戏画面的分屏布局；可关注频道，自动剪辑新发布的回放并按计划定时发布；内置本地 MCP 服务器，可供 AI 智能体调用。只处理已结束的回放，不剪辑正在进行的直播。 | https://github.com/ColinGPT9/clips-studio |
 |  |  |  |
 |  |  |  |
 |  |  |  |
