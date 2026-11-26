@@ -143,7 +143,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | PicYep | PicYep 是一款浏览器端 AI 写真工具：输入文字或上传参考照片，生成逼真头像、全家福、宠物写真和产品图，支持改背景、去物体、扩图和图生视频，免费试用。 | https://picyep.com/zh |
 | EmoteLoop | EmoteLoop 是一款面向 Twitch 主播的 AI 动态表情（emote）生成器：写一句话描述画面、或上传一张自拍生成本人卡通形象，约 20 秒得到一个 512px、透明背景、可无限循环的 GIF，符合 Twitch 动态 emote 单文件上传的规格；还能导出任意一帧的透明静态 PNG，打包 Twitch 112/56/28px 与 Discord/Slack 128px 尺寸，并按真实聊天尺寸在深色/浅色/棋盘格背景上预览。生成失败自动退回 credits，新账号赠送一次文字生成额度。 | https://emoteloop.com/ |
 | Earlyfollow | Earlyfollow 是 AI 创业公司发现榜单：每天观察 X 上 500 多位风投、天使投资人和创业运营者的关注关系，把刚开始被关注的新 AI 创业公司整理成可按赛道筛选、按 7 天或 30 天关注数排序的列表，每条信号都能追溯到是谁、在哪天关注的，并附公司简介、官网、关注时间线与相似公司；公开榜单免费看但延后 14 天，Pro 提供无延迟信号、完整关注者名单、自选追踪账号、每日邮件、CSV 导出以及 MCP/CLI/HTTP 接口。 | https://earlyfollow.com |
-|  |  |  |
+| AlphaSift | AlphaSift 是一款 Apache-2.0 开源的多市场量化选股与盘后实证基准工具：零 LLM 密钥即可跑通 7 大股市 12 套 YAML 行业正交分散策略；接入 Gemini/DeepSeek/OpenAI 复核公告与资金流时，在 Python 代码层对未消除重大利空强行封顶得分 <= 35；内置 250 天零前视 Walk-Forward K 线形态雷达、14 工具只读 STDIO MCP Server 与便携 Agent Skill，每日盘后按次日开盘价（扣除一字涨停）公开核算 T+5/T+10/T+20 模拟战绩。 | [在线看板](https://alphasift.zhulinsen.tech/?lang=zh) / https://github.com/ZhuLinsen/alphasift |
 |  |  |  |
 |  |  |  |
 |  |  |  |
