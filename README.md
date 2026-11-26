@@ -733,6 +733,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | Pake | Pake 把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，生成的 App 基于 Tauri 和系统 WebView，通常不到 10 MB，不用装 Node.js 或 Rust；桌面 App 免费做 2 个，之后一次买断，同名命令行版本免费开源（GPL-3.0 协议）。 | https://pake.run |
 | MacOSCleaner | MacOSCleaner 是一款免费、源码可用（GPLv3 + Commons Clause，非 OSI 开源）的 macOS 原生清理与卸载工具，仅支持 Apple Silicon（macOS 26+）。可清理缓存、日志、Xcode、Docker、各类包管理器和本地 AI 工具缓存，卸载应用时一并清除残留，查找重复文件、分析磁盘占用、检查启动项签名；3.0.0 新增隐私检查器（TCC 权限、网络连接、浏览器扩展）。删除前逐项确认，默认移到废纸篓；无遥测、无需账号，支持 14 种语言（含简体/繁体中文）。 | https://github.com/AlexTkDev/MacOSCleaner |
 | Wishbar | Wishbar 是一款 macOS 菜单栏应用：用日常英语或你自己的语言写下想要的东西，你自己的 AI（通过 Codex 使用的 ChatGPT，或 Claude）就会在菜单栏里生成一个实时更新的小组件。闭源付费，一次买断，可免费试用 7 天，无需绑卡，需要 macOS 13 或更高版本。 | https://wishbar.app |
+| Mouse Jiggler for Mac | Mouse Jiggler for Mac 是一款 macOS 菜单栏应用，可在演示、直播和长时间下载期间让 Mac 保持唤醒。可以在不移动光标的情况下阻止休眠，也可以选择移动光标，并调整空闲延迟、间隔和移动范围；支持按工作日设置计划或设定停止时间，可设置仅在选定的应用打开时运行，还可选择执行点击、滚动或按键操作。屏幕锁定时暂停，电量低时停止。闭源，免费下载，可选一次性买断 PRO 内购，无订阅，需要 macOS 12 或更高版本。 | https://apps.apple.com/app/id6740313656 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
