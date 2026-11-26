@@ -937,6 +937,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+- [CreoArt](https://creoart.app/photo-editor) - 免费无广告、纯浏览器本地 WebGPU 运行的在线 PSD/图层修图器，并内置 45 款最新 AI 生图与视频模型按量工作台。
 
 ## ☀Edge实用插件
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
