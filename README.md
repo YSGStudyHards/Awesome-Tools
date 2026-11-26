@@ -602,6 +602,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | QuickRecorder | QuickRecorder 是一款基于 ScreenCapture Kit 的轻量化、多功能、高性能的 macOS 屏幕录制工具。 | https://github.com/lihaoyun6/QuickRecorder |
 | CurlShot | 在线网页截图工具：粘贴网址即可下载整页截图（PNG/JPEG/WebP）或 PDF，支持手机/平板视图、深色模式、屏蔽广告和 Cookie 弹窗，无需安装、无需注册。同时提供截图 API（免费套餐每月 100 张）和 MCP Server。Free online full-page website screenshot tool and screenshot API. | https://curlshot.com/ |
 | AntShot | 网页整页截图扩展（Chrome / Edge）：一键截整页，网页里自己滚动的表格、列表、看板也能整块截下来，可标注，存成 PNG、JPG 或 PDF；截图只在本机处理、不上传，免账号，免费版无水印；Pro 年付 $19、终身 $39。 | https://antshot.com/zh/ |
+| OhMyShot | OhMyShot 是一款开源免费（GPL-3.0）的原生 macOS 截图与录屏工具，基于 Swift 6、SwiftUI 和 AppKit：支持区域/窗口/滚动截图、录屏与 Studio 剪辑、标注、贴图、取色和像素测量；端侧离线 OCR 复制代码截图时会自动去掉行号，可选模型包能把公式转成 LaTeX、识别表格并导出 CSV/TSV；兼容 CleanShot X 的 URL 命令（把 cleanshot:// 改为 ohmyshot:// 即可）；常驻菜单栏时闲置唤醒为 0。需 Apple 芯片、macOS 26 及以上。 | [GitHub](https://github.com/MMFoundation/OhMyShot) / [官网](https://www.ohmyshot.org/zh/) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
