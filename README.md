@@ -775,6 +775,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 | DreamScene2 | 	DreamScene2 是一个 .NET开源、免费（MIT license）的小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放，支持 Windows10/11 系统。 |  https://github.com/he55/DreamScene2 |
 | GeekDesk | GeekDesk 是一个小而快并且功能强大的 Windows 动态桌面软件。支持视频和网页动画播放，支持 Windows10/11 系统。| https://github.com/BookerLiu/GeekDesk |
 | ImTip | ImTip 提供可编程的「超级热键」系统（智能桌面助手），让您在任何软件中都能一键触发强大功能。所有热键功能均由 aardio 语言编写，您可以轻松修改、扩展，甚至用 AI 自动编写新的热键配置代码，实现无限可能。 | https://github.com/aardio/ImTip |
+| Paintpane（观画壁纸） | 免费的 Windows 10/11 托盘壁纸软件，把大都会艺术博物馆、芝加哥艺术博物馆、台北故宫博物院等十家博物馆开放馆藏里的名画设成桌面和锁屏壁纸，定时换一幅，有完整显示、博物馆画框、智能裁切三种显示方式；单文件 exe，也可以从 Microsoft Store 安装；源码公开（PolyForm Noncommercial 许可）。 | https://github.com/begineri/Paintpane |
 |  |  |  |
 |  |  |  |
 |  |  |  |
