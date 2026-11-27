@@ -715,6 +715,7 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| FeeSlate | 26 款免费、免登录的美国电商/转售、收款、自由职业与汽车拍卖手续费计算器合集（覆盖 eBay、Etsy、Amazon FBA、TikTok Shop、Shopify、Depop、Mercari、Poshmark、Stripe、PayPal、Venmo、Square、Upwork、Fiverr、Copart、IAAI、Manheim 等），直链官方费率表，支持净到手与目标反推/最高出价测算。Free, no-signup suite of 26 U.S. seller, payment, freelance, and car auction fee calculators with official fee links and reverse target-payout math. | https://feeslate.com/ |
 |  |  |  |
 
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
