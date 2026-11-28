@@ -383,6 +383,8 @@ Awesome Tools，程序员常用高效实用工具、软件资源精选，办公�
 [🔝返回目录](https://github.com/YSGStudyHards/Awesome-Tools/tree/main?tab=readme-ov-file#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🎇抓包调试工具
+
+- [PCAP Surgery](https://hannes-software.com/pcap-surgery/) - 离线桌面端 PCAP/PCAPNG 抓包分析、敏感 IP/载荷脱敏与 IPv4/TCP/UDP 校验和自动修复工具（支持 Windows / Linux，免费社区版）。
 |                工具名称                |                           工具详细介绍                           |           工具开源、下载地址            |
 | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | Fiddler | Fiddler是一款功能强大的HTTP网页抓包调试工具，它能记录所有客户端和服务器的Http和Https请求，允许你监视，设置断点，甚至修改输入输出数据，使用Fiddler无论对开发还是测试来说，都有很大的帮助。 | https://www.telerik.com/download/fiddler |
